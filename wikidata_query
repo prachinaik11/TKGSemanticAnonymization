@@ -1,0 +1,16 @@
+SELECT ?entity ?entityLabel ?property ?propertyLabel ?value ?valueLabel 
+WHERE {
+  VALUES (?entity ?property ?value) {
+    (wd:Q440144 wd:P1087 "2460")
+    (wd:Q1056376 wd:P1411 wd:Q768476)
+    (wd:Q786781 wd:P54 wd:Q332605)
+    (wd:Q720548 wd:P54 wd:Q219120)
+    (wd:Q817883 wd:P54 wd:Q47050)
+    (wd:Q342530 wd:P54 wd:Q19444)
+    (wd:Q197466 wd:P1087 "2565")
+  }
+  OPTIONAL { ?entity rdfs:label ?entityLabel . FILTER (LANG(?entityLabel) = "en") }
+  OPTIONAL { ?property rdfs:label ?propertyLabel . FILTER (LANG(?propertyLabel) = "en") }
+  OPTIONAL { ?value rdfs:label ?valueLabel . FILTER (LANG(?valueLabel) = "en") }
+}
+

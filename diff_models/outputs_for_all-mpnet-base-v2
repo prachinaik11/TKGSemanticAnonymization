@@ -1,0 +1,424 @@
+final_with_new_col_isCitizenOf_snapshot_1795_1899.tsv
+
+2  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 3037
+original number of individuals:  4692
+tensor([[1062.5703]])
+valid_groups_count :  1161
+len(groups) :  1161
+final_SE_similarity :  tensor([[0.9152]])
+final_SA_similarity :  tensor([[0.5118]])
+RtUA_num:  32
+AAILavg :  0.00023557988562937767
+fake_nodes :  0
+discarded_entries :  1655
+AIL :  0.5451812499547766
+AAILavg_list :  [0.00023557988562937767]
+AIL_list :  [0.5451812499547766]
+SE_list :  [tensor([[0.9152]])]
+SA_list :  [tensor([[0.5118]])]
+4  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 4974
+original number of individuals:  4692
+tensor([[922.9380]])
+valid_groups_count :  1080
+len(groups) :  1080
+final_SE_similarity :  tensor([[0.8546]])
+final_SA_similarity :  tensor([[0.5108]])
+RtUA_num:  32
+AAILavg :  0.0007274428526518565
+fake_nodes :  623
+discarded_entries :  341
+AIL :  0.19453524341557907
+AAILavg_list :  [0.0007274428526518565]
+AIL_list :  [0.19453524341557907]
+SE_list :  [tensor([[0.8546]])]
+SA_list :  [tensor([[0.5108]])]
+6  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5065
+original number of individuals:  4692
+tensor([[602.4786]])
+valid_groups_count :  736
+len(groups) :  736
+final_SE_similarity :  tensor([[0.8186]])
+final_SA_similarity :  tensor([[0.5090]])
+RtUA_num:  32
+AAILavg :  0.0013147935725836095
+fake_nodes :  649
+discarded_entries :  276
+AIL :  0.1839406573435609
+AAILavg_list :  [0.0013147935725836095]
+AIL_list :  [0.1839406573435609]
+SE_list :  [tensor([[0.8186]])]
+SA_list :  [tensor([[0.5090]])]
+8  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 4987
+original number of individuals:  4692
+tensor([[440.5411]])
+valid_groups_count :  555
+len(groups) :  555
+final_SE_similarity :  tensor([[0.7938]])
+final_SA_similarity :  tensor([[0.5087]])
+RtUA_num:  32
+AAILavg :  0.0017591225890760296
+fake_nodes :  609
+discarded_entries :  314
+AIL :  0.18684033373806339
+AAILavg_list :  [0.0017591225890760296]
+AIL_list :  [0.18684033373806339]
+SE_list :  [tensor([[0.7938]])]
+SA_list :  [tensor([[0.5087]])]
+10  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 4957
+original number of individuals:  4692
+tensor([[343.4505]])
+valid_groups_count :  441
+len(groups) :  441
+final_SE_similarity :  tensor([[0.7788]])
+final_SA_similarity :  tensor([[0.5098]])
+RtUA_num:  32
+AAILavg :  0.002104131465523726
+fake_nodes :  581
+discarded_entries :  316
+AIL :  0.18306035498781545
+AAILavg_list :  [0.002104131465523726]
+AIL_list :  [0.18306035498781545]
+SE_list :  [tensor([[0.7788]])]
+SA_list :  [tensor([[0.5098]])]
+2  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 3071
+original number of individuals:  4692
+tensor([[1076.2257]])
+valid_groups_count :  1175
+len(groups) :  1175
+final_SE_similarity :  tensor([[0.9159]])
+final_SA_similarity :  tensor([[0.5099]])
+RtUA_num:  32
+AAILavg :  0.0002375232765008928
+fake_nodes :  16
+discarded_entries :  1637
+AIL :  0.538498675995485
+AAILavg_list :  [0.0002375232765008928]
+AIL_list :  [0.538498675995485]
+SE_list :  [tensor([[0.9159]])]
+SA_list :  [tensor([[0.5099]])]
+4  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5039
+original number of individuals:  4692
+tensor([[934.4851]])
+valid_groups_count :  1092
+len(groups) :  1092
+final_SE_similarity :  tensor([[0.8558]])
+final_SA_similarity :  tensor([[0.5097]])
+RtUA_num:  32
+AAILavg :  0.000756692567486136
+fake_nodes :  657
+discarded_entries :  310
+AIL :  0.19265984795545993
+AAILavg_list :  [0.000756692567486136]
+AIL_list :  [0.19265984795545993]
+SE_list :  [tensor([[0.8558]])]
+SA_list :  [tensor([[0.5097]])]
+6  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5101
+original number of individuals:  4692
+tensor([[613.7455]])
+valid_groups_count :  751
+len(groups) :  751
+final_SE_similarity :  tensor([[0.8172]])
+final_SA_similarity :  tensor([[0.5096]])
+RtUA_num:  32
+AAILavg :  0.0012934272437498174
+fake_nodes :  688
+discarded_entries :  279
+AIL :  0.1908640996609229
+AAILavg_list :  [0.0012934272437498174]
+AIL_list :  [0.1908640996609229]
+SE_list :  [tensor([[0.8172]])]
+SA_list :  [tensor([[0.5096]])]
+8  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5063
+original number of individuals:  4692
+tensor([[448.2990]])
+valid_groups_count :  565
+len(groups) :  565
+final_SE_similarity :  tensor([[0.7934]])
+final_SA_similarity :  tensor([[0.5090]])
+RtUA_num:  32
+AAILavg :  0.0017408374181175205
+fake_nodes :  653
+discarded_entries :  282
+AIL :  0.18641395612244302
+AAILavg_list :  [0.0017408374181175205]
+AIL_list :  [0.18641395612244302]
+SE_list :  [tensor([[0.7934]])]
+SA_list :  [tensor([[0.5090]])]
+10  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 4956
+original number of individuals:  4692
+tensor([[339.2501]])
+valid_groups_count :  438
+len(groups) :  438
+final_SE_similarity :  tensor([[0.7745]])
+final_SA_similarity :  tensor([[0.5094]])
+RtUA_num:  32
+AAILavg :  0.0021891010231796563
+fake_nodes :  579
+discarded_entries :  315
+AIL :  0.18257651022414817
+AAILavg_list :  [0.0021891010231796563]
+AIL_list :  [0.18257651022414817]
+SE_list :  [tensor([[0.7745]])]
+SA_list :  [tensor([[0.5094]])]
+2  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 3540
+original number of individuals:  4692
+tensor([[1079.7275]])
+valid_groups_count :  1163
+len(groups) :  1163
+final_SE_similarity :  tensor([[0.9284]])
+final_SA_similarity :  tensor([[0.5047]])
+RtUA_num:  32
+AAILavg :  0.0002107760877384913
+fake_nodes :  507
+discarded_entries :  1659
+AIL :  0.6120751828673995
+AAILavg_list :  [0.0002107760877384913]
+AIL_list :  [0.6120751828673995]
+SE_list :  [tensor([[0.9284]])]
+SA_list :  [tensor([[0.5047]])]
+4  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5036
+original number of individuals:  4692
+tensor([[931.4251]])
+valid_groups_count :  1088
+len(groups) :  1088
+final_SE_similarity :  tensor([[0.8561]])
+final_SA_similarity :  tensor([[0.5082]])
+RtUA_num:  32
+AAILavg :  0.0007469071476791349
+fake_nodes :  669
+discarded_entries :  325
+AIL :  0.19812577926840988
+AAILavg_list :  [0.0007469071476791349]
+AIL_list :  [0.19812577926840988]
+SE_list :  [tensor([[0.8561]])]
+SA_list :  [tensor([[0.5082]])]
+6  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5034
+original number of individuals:  4692
+tensor([[603.0416]])
+valid_groups_count :  739
+len(groups) :  739
+final_SE_similarity :  tensor([[0.8160]])
+final_SA_similarity :  tensor([[0.5094]])
+RtUA_num:  32
+AAILavg :  0.0012554221252734244
+fake_nodes :  637
+discarded_entries :  295
+AIL :  0.18639646304700563
+AAILavg_list :  [0.0012554221252734244]
+AIL_list :  [0.18639646304700563]
+SE_list :  [tensor([[0.8160]])]
+SA_list :  [tensor([[0.5094]])]
+8  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5019
+original number of individuals:  4692
+tensor([[444.1926]])
+valid_groups_count :  558
+len(groups) :  558
+final_SE_similarity :  tensor([[0.7960]])
+final_SA_similarity :  tensor([[0.5096]])
+RtUA_num:  32
+AAILavg :  0.0017299994114319253
+fake_nodes :  648
+discarded_entries :  321
+AIL :  0.1947963472894953
+AAILavg_list :  [0.0017299994114319253]
+AIL_list :  [0.1947963472894953]
+SE_list :  [tensor([[0.7960]])]
+SA_list :  [tensor([[0.5096]])]
+10  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5039
+original number of individuals:  4692
+tensor([[353.9594]])
+valid_groups_count :  455
+len(groups) :  455
+final_SE_similarity :  tensor([[0.7779]])
+final_SA_similarity :  tensor([[0.5085]])
+RtUA_num:  32
+AAILavg :  0.0021302764087370095
+fake_nodes :  649
+discarded_entries :  302
+AIL :  0.19085819861552408
+AAILavg_list :  [0.0021302764087370095]
+AIL_list :  [0.19085819861552408]
+SE_list :  [tensor([[0.7779]])]
+SA_list :  [tensor([[0.5085]])]
+2  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 4682
+original number of individuals:  4692
+tensor([[1088.4885]])
+valid_groups_count :  1156
+len(groups) :  1156
+final_SE_similarity :  tensor([[0.9416]])
+final_SA_similarity :  tensor([[0.5003]])
+RtUA_num:  32
+AAILavg :  0.00015469399537258356
+fake_nodes :  1641
+discarded_entries :  1651
+AIL :  0.7032730194972949
+AAILavg_list :  [0.00015469399537258356]
+AIL_list :  [0.7032730194972949]
+SE_list :  [tensor([[0.9416]])]
+SA_list :  [tensor([[0.5003]])]
+4  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5017
+original number of individuals:  4692
+tensor([[919.0468]])
+valid_groups_count :  1074
+len(groups) :  1074
+final_SE_similarity :  tensor([[0.8557]])
+final_SA_similarity :  tensor([[0.5081]])
+RtUA_num:  32
+AAILavg :  0.0007915588878915942
+fake_nodes :  659
+discarded_entries :  334
+AIL :  0.19871860692456692
+AAILavg_list :  [0.0007915588878915942]
+AIL_list :  [0.19871860692456692]
+SE_list :  [tensor([[0.8557]])]
+SA_list :  [tensor([[0.5081]])]
+6  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5041
+original number of individuals:  4692
+tensor([[607.3994]])
+valid_groups_count :  743
+len(groups) :  743
+final_SE_similarity :  tensor([[0.8175]])
+final_SA_similarity :  tensor([[0.5089]])
+RtUA_num:  32
+AAILavg :  0.0012479849212321172
+fake_nodes :  622
+discarded_entries :  273
+AIL :  0.1787921229890758
+AAILavg_list :  [0.0012479849212321172]
+AIL_list :  [0.1787921229890758]
+SE_list :  [tensor([[0.8175]])]
+SA_list :  [tensor([[0.5089]])]
+8  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5049
+original number of individuals:  4692
+tensor([[449.9888]])
+valid_groups_count :  566
+len(groups) :  566
+final_SE_similarity :  tensor([[0.7950]])
+final_SA_similarity :  tensor([[0.5092]])
+RtUA_num:  32
+AAILavg :  0.0017180846467082663
+fake_nodes :  649
+discarded_entries :  292
+AIL :  0.18809162396142406
+AAILavg_list :  [0.0017180846467082663]
+AIL_list :  [0.18809162396142406]
+SE_list :  [tensor([[0.7950]])]
+SA_list :  [tensor([[0.5092]])]
+10  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 5104
+original number of individuals:  4692
+tensor([[353.0805]])
+valid_groups_count :  453
+len(groups) :  453
+final_SE_similarity :  tensor([[0.7794]])
+final_SA_similarity :  tensor([[0.5094]])
+RtUA_num:  32
+AAILavg :  0.002257708560863656
+fake_nodes :  675
+discarded_entries :  263
+AIL :  0.1860351380279483
+AAILavg_list :  [0.002257708560863656]
+AIL_list :  [0.1860351380279483]
+SE_list :  [tensor([[0.7794]])]
+SA_list :  [tensor([[0.5094]])]
+
+

@@ -1,0 +1,10 @@
+subject,predicate,object
+<Joe_Bradshaw_(footballer)>,<isAffiliatedTo>,<Fulham_F.C.>
+<Enrico_Fermi>,<worksAt>,<Columbia_University>
+<Federico_Fellini>,<directed>,<La_Dolce_Vita>
+<Denmark>,<participatedIn>,<Kosovo_War>
+<Josh_Wright>,<isAffiliatedTo>,<Charlton_Athletic_F.C.>
+<Joe_Bradshaw_(footballer)>,<worksAt>,<Columbia_University>
+<Enrico_Fermi>,<directed>,<La_Dolce_Vita>
+<Denmark>,<isAffiliatedTo>,<Charlton_Athletic_F.C.>
+<Denmark>,<directed>,<Fulham_F.C.>

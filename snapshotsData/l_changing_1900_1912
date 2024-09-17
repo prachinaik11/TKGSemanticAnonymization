@@ -1,0 +1,88 @@
+filename:  final_with_new_col_isCitizenOf_output_final_snapshot_1900_1912.tsv.csv
+8  --  1
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 6213
+original number of individuals:  5758
+tensor([[537.6893]])
+valid_groups_count :  691
+len(groups) :  691
+final_SE_similarity :  tensor([[0.7781]])
+final_SA_similarity :  tensor([[0.4939]])
+RtUA_num:  31
+AAIL :  0.0015429898644255934
+fake_nodes :  828
+discarded_entries :  373
+AIL :  0.22804242889306653
+8  --  2
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 6211
+original number of individuals:  5758
+tensor([[541.7283]])
+valid_groups_count :  698
+len(groups) :  698
+final_SE_similarity :  tensor([[0.7761]])
+final_SA_similarity :  tensor([[0.4940]])
+RtUA_num:  31
+AAIL :  0.0014177229046692175
+fake_nodes :  816
+discarded_entries :  363
+AIL :  0.22368494157788701
+8  --  3
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 6168
+original number of individuals:  5758
+tensor([[534.8927]])
+valid_groups_count :  687
+len(groups) :  687
+final_SE_similarity :  tensor([[0.7786]])
+final_SA_similarity :  tensor([[0.4944]])
+RtUA_num:  31
+AAIL :  0.0014054104580437942
+fake_nodes :  807
+discarded_entries :  397
+AIL :  0.22653971680358503
+8  --  4
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 6141
+original number of individuals:  5758
+tensor([[529.1349]])
+valid_groups_count :  684
+len(groups) :  684
+final_SE_similarity :  tensor([[0.7736]])
+final_SA_similarity :  tensor([[0.4941]])
+RtUA_num:  31
+AAIL :  0.0014190847631016525
+fake_nodes :  781
+discarded_entries :  398
+AIL :  0.2207639617358558
+8  --  5
+
+/usr/local/lib/python3.10/dist-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+Sum of values: 6139
+original number of individuals:  5758
+tensor([[529.2410]])
+valid_groups_count :  683
+len(groups) :  683
+final_SE_similarity :  tensor([[0.7749]])
+final_SA_similarity :  tensor([[0.4938]])
+RtUA_num:  31
+AAIL :  0.0013909407781259092
+fake_nodes :  767
+discarded_entries :  386
+AIL :  0.21582148667660261
+filename:  final_with_new_col_isCitizenOf_output_final_snapshot_1913_1928.tsv.csv
+

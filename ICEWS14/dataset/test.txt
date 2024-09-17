@@ -1,0 +1,307 @@
+South_Korea	Criticize_or_denounce	North_Korea	occurSince	2014-05-13
+South_Korea	Criticize_or_denounce	North_Korea	occurUntil	2014-05-13
+Iran	Express_intent_to_meet_or_negotiate	China	occurSince	2014-02-02
+Iran	Express_intent_to_meet_or_negotiate	China	occurUntil	2014-02-02
+Xi_Jinping	Consult	Le_Hong_Anh	occurSince	2014-08-28
+Xi_Jinping	Consult	Le_Hong_Anh	occurUntil	2014-08-28
+Civic_Group_(Kenya)	Make_an_appeal_or_request	Joseph_Ole_Lenku	occurSince	2014-05-13
+Civic_Group_(Kenya)	Make_an_appeal_or_request	Joseph_Ole_Lenku	occurUntil	2014-05-13
+Criminal_(Somalia)	Abduct_hijack_or_take_hostage	Citizen_(India)	occurSince	2014-10-31
+Criminal_(Somalia)	Abduct_hijack_or_take_hostage	Citizen_(India)	occurUntil	2014-10-31
+Member_of_Legislative_(Govt)_(South_Korea)	Praise_or_endorse	Iran	occurSince	2014-01-30
+Member_of_Legislative_(Govt)_(South_Korea)	Praise_or_endorse	Iran	occurUntil	2014-01-30
+Angela_Merkel	Engage_in_negotiation	Head_of_Government_(Ukraine)	occurSince	2014-11-07
+Angela_Merkel	Engage_in_negotiation	Head_of_Government_(Ukraine)	occurUntil	2014-11-07
+Citizen_(Nigeria)	Make_an_appeal_or_request	Member_of_the_Judiciary_(Nigeria)	occurSince	2014-05-17
+Citizen_(Nigeria)	Make_an_appeal_or_request	Member_of_the_Judiciary_(Nigeria)	occurUntil	2014-05-17
+Combatant_(Al_Qaeda)	Use_unconventional_violence	Armed_Rebel_(Syria)	occurSince	2014-01-05
+Combatant_(Al_Qaeda)	Use_unconventional_violence	Armed_Rebel_(Syria)	occurUntil	2014-01-05
+Head_of_Government_(Qatar)	MakeStatement	Qatar	occurSince	2014-06-14
+Head_of_Government_(Qatar)	MakeStatement	Qatar	occurUntil	2014-06-14
+South_Korea	Arrest_detain_or_charge_with_legal_action	Citizen_(South_Korea)	occurSince	2014-11-05
+South_Korea	Arrest_detain_or_charge_with_legal_action	Citizen_(South_Korea)	occurUntil	2014-11-05
+Royal_Bank_of_Scotland	MakeStatement	Barclays_PLC	occurSince	2014-07-21
+Royal_Bank_of_Scotland	MakeStatement	Barclays_PLC	occurUntil	2014-07-21
+Police_(Australia)	Use_conventional_military_force	Citizen_(Australia)	occurSince	2014-08-21
+Police_(Australia)	Use_conventional_military_force	Citizen_(Australia)	occurUntil	2014-08-21
+Afghanistan	Praise_or_endorse	Ashraf_Ghani_Ahmadzai	occurSince	2014-05-31
+Afghanistan	Praise_or_endorse	Ashraf_Ghani_Ahmadzai	occurUntil	2014-05-31
+Fumio_Kishida	Express_intent_to_meet_or_negotiate	Pham_Binh_Minh	occurSince	2014-07-31
+Fumio_Kishida	Express_intent_to_meet_or_negotiate	Pham_Binh_Minh	occurUntil	2014-07-31
+Police_(Jamaica)	Arrest_detain_or_charge_with_legal_action	Children_(Jamaica)	occurSince	2014-05-23
+Police_(Jamaica)	Arrest_detain_or_charge_with_legal_action	Children_(Jamaica)	occurUntil	2014-05-23
+Yi_Xianliang	MakeStatement	China	occurSince	2014-08-04
+Yi_Xianliang	MakeStatement	China	occurUntil	2014-08-04
+South_Sudan	Praise_or_endorse	François_Bozizé	occurSince	2014-04-25
+South_Sudan	Praise_or_endorse	François_Bozizé	occurUntil	2014-04-25
+High_Ranking_Military_Personnel_(Pakistan)	MakeStatement	Militant_(Taliban)	occurSince	2014-09-12
+High_Ranking_Military_Personnel_(Pakistan)	MakeStatement	Militant_(Taliban)	occurUntil	2014-09-12
+Lawyer/Attorney_(Turkey)	Complain_officially	Citizen_(Turkey)	occurSince	2014-06-24
+Lawyer/Attorney_(Turkey)	Complain_officially	Citizen_(Turkey)	occurUntil	2014-06-24
+Police_(Australia)	Arrest_detain_or_charge_with_legal_action	Women_(Australia)	occurSince	2014-08-18
+Police_(Australia)	Arrest_detain_or_charge_with_legal_action	Women_(Australia)	occurUntil	2014-08-18
+Fula_people	Criticize_or_denounce	Citizen_(Nigeria)	occurSince	2014-02-10
+Fula_people	Criticize_or_denounce	Citizen_(Nigeria)	occurUntil	2014-02-10
+Ayatollah_Seyyed_Ahmad_Alamolhoda	MakeStatement	Iran	occurSince	2014-07-13
+Ayatollah_Seyyed_Ahmad_Alamolhoda	MakeStatement	Iran	occurUntil	2014-07-13
+Boko_Haram	Use_conventional_military_force	Citizen_(Nigeria)	occurSince	2014-04-12
+Boko_Haram	Use_conventional_military_force	Citizen_(Nigeria)	occurUntil	2014-04-12
+Head_of_Government_(Croatia)	MakeStatement	Veterans_(Croatia)	occurSince	2014-10-30
+Head_of_Government_(Croatia)	MakeStatement	Veterans_(Croatia)	occurUntil	2014-10-30
+Bureaucrat_(India)	Impose_administrative_sanctions	Citizen_(India)	occurSince	2014-09-28
+Bureaucrat_(India)	Impose_administrative_sanctions	Citizen_(India)	occurUntil	2014-09-28
+Media_(Africa)	Consult	Ministry_(South_Africa)	occurSince	2014-11-27
+Media_(Africa)	Consult	Ministry_(South_Africa)	occurUntil	2014-11-27
+South_Sudan	Express_intent_to_cooperate	Sudan	occurSince	2014-03-20
+South_Sudan	Express_intent_to_cooperate	Sudan	occurUntil	2014-03-20
+UN_Security_Council	Make_a_visit	Kazakhstan	occurSince	2014-09-17
+UN_Security_Council	Make_a_visit	Kazakhstan	occurUntil	2014-09-17
+North_Atlantic_Treaty_Organization	Praise_or_endorse	Poland	occurSince	2014-10-06
+North_Atlantic_Treaty_Organization	Praise_or_endorse	Poland	occurUntil	2014-10-06
+Head_of_Government_(India)	MakeStatement	China	occurSince	2014-06-28
+Head_of_Government_(India)	MakeStatement	China	occurUntil	2014-06-28
+Cabinet_/_Council_of_Ministers_/_Advisors_(United_States)	Appeal_for_de-escalation_of_military_engagement	Hamas	occurSince	2014-07-26
+Cabinet_/_Council_of_Ministers_/_Advisors_(United_States)	Appeal_for_de-escalation_of_military_engagement	Hamas	occurUntil	2014-07-26
+Iraq	MakeStatement	Iran	occurSince	2014-12-29
+Iraq	MakeStatement	Iran	occurUntil	2014-12-29
+South_Korea	Sign_formal_agreement	North_Korea	occurSince	2014-04-09
+South_Korea	Sign_formal_agreement	North_Korea	occurUntil	2014-04-09
+Police_(Philippines)	MakeStatement	Military_(Philippines)	occurSince	2014-03-12
+Police_(Philippines)	MakeStatement	Military_(Philippines)	occurUntil	2014-03-12
+Business_(Russia)	Consult	Head_of_Government_(Pakistan)	occurSince	2014-12-10
+Business_(Russia)	Consult	Head_of_Government_(Pakistan)	occurUntil	2014-12-10
+Abdullah_Abdullah	Sign_formal_agreement	Ashraf_Ghani_Ahmadzai	occurSince	2014-12-01
+Abdullah_Abdullah	Sign_formal_agreement	Ashraf_Ghani_Ahmadzai	occurUntil	2014-12-01
+Central_Intelligence_Agency	Attempt_to_assassinate	Kim_Jong-Un	occurSince	2014-12-12
+Central_Intelligence_Agency	Attempt_to_assassinate	Kim_Jong-Un	occurUntil	2014-12-12
+Romania	Host_a_visit	Evangelos_Venizelos	occurSince	2014-02-20
+Romania	Host_a_visit	Evangelos_Venizelos	occurUntil	2014-02-20
+Sergey_Viktorovich_Lavrov	Express_intent_to_meet_or_negotiate	John_Kerry	occurSince	2014-11-21
+Sergey_Viktorovich_Lavrov	Express_intent_to_meet_or_negotiate	John_Kerry	occurUntil	2014-11-21
+Japan	Praise_or_endorse	House_of_Representatives_(Japan)	occurSince	2014-11-04
+Japan	Praise_or_endorse	House_of_Representatives_(Japan)	occurUntil	2014-11-04
+Ministry_(Iran)	MakeStatement	Morocco	occurSince	2014-02-06
+Ministry_(Iran)	MakeStatement	Morocco	occurUntil	2014-02-06
+Ibrahim_Shehu_Shema	MakeStatement	Farm_Worker_(Nigeria)	occurSince	2014-07-09
+Ibrahim_Shehu_Shema	MakeStatement	Farm_Worker_(Nigeria)	occurUntil	2014-07-09
+Caitlin_Hayden	MakeStatement	Imad_Mugniyah	occurSince	2014-01-14
+Caitlin_Hayden	MakeStatement	Imad_Mugniyah	occurUntil	2014-01-14
+Canadian_Armed_Forces	Increase_military_alert_status	Canada	occurSince	2014-10-28
+Canadian_Armed_Forces	Increase_military_alert_status	Canada	occurUntil	2014-10-28
+Stefan_Harabin	Criticize_or_denounce	Member_of_the_Judiciary_(Slovakia)	occurSince	2014-04-23
+Stefan_Harabin	Criticize_or_denounce	Member_of_the_Judiciary_(Slovakia)	occurUntil	2014-04-23
+Afghanistan	Arrest_detain_or_charge_with_legal_action	Indigenous_People_(Pakistan)	occurSince	2014-08-28
+Afghanistan	Arrest_detain_or_charge_with_legal_action	Indigenous_People_(Pakistan)	occurUntil	2014-08-28
+Iran	Host_a_visit	Sebastian_Kurz	occurSince	2014-04-28
+Iran	Host_a_visit	Sebastian_Kurz	occurUntil	2014-04-28
+Herve_Ladsous	Consult	Nabih_Berri	occurSince	2014-06-25
+Herve_Ladsous	Consult	Nabih_Berri	occurUntil	2014-06-25
+Islamic_Rebirth_Party	Make_a_visit	Tatarstan	occurSince	2014-03-21
+Islamic_Rebirth_Party	Make_a_visit	Tatarstan	occurUntil	2014-03-21
+Media_(India)	Consult	Head_of_Government_(India)	occurSince	2014-12-31
+Media_(India)	Consult	Head_of_Government_(India)	occurUntil	2014-12-31
+Al_Jazeera	MakeStatement	Qatar	occurSince	2014-08-18
+Al_Jazeera	MakeStatement	Qatar	occurUntil	2014-08-18
+Student_(Yemen)	Consult	Mohammad_Javad_Zarif	occurSince	2014-05-31
+Student_(Yemen)	Consult	Mohammad_Javad_Zarif	occurUntil	2014-05-31
+Sharad_Pawar	MakeStatement	Employee_(India)	occurSince	2014-11-20
+Sharad_Pawar	MakeStatement	Employee_(India)	occurUntil	2014-11-20
+Barack_Obama	Consult	Xi_Jinping	occurSince	2014-08-25
+Barack_Obama	Consult	Xi_Jinping	occurUntil	2014-08-25
+Rodrigo_Londoño-Echeverry	Sign_formal_agreement	National_Liberation_Army	occurSince	2014-05-16
+Rodrigo_Londoño-Echeverry	Sign_formal_agreement	National_Liberation_Army	occurUntil	2014-05-16
+Media_(Russia)	MakeStatement	Education_(Russia)	occurSince	2014-12-24
+Media_(Russia)	MakeStatement	Education_(Russia)	occurUntil	2014-12-24
+Insurgent_(Afghanistan)	Use_unconventional_violence	Afghanistan	occurSince	2014-03-21
+Insurgent_(Afghanistan)	Use_unconventional_violence	Afghanistan	occurUntil	2014-03-21
+Muhammadu_Buhari	Make_an_appeal_or_request	Citizen_(Nigeria)	occurSince	2014-10-23
+Muhammadu_Buhari	Make_an_appeal_or_request	Citizen_(Nigeria)	occurUntil	2014-10-23
+Martin_Lidegaard	Make_a_visit	Iran	occurSince	2014-09-09
+Martin_Lidegaard	Make_a_visit	Iran	occurUntil	2014-09-09
+Other_Authorities_/_Officials_(United_States)	Impose_embargo_boycott_or_sanctions	Business_(Russia)	occurSince	2014-07-17
+Other_Authorities_/_Officials_(United_States)	Impose_embargo_boycott_or_sanctions	Business_(Russia)	occurUntil	2014-07-17
+Doctors_Without_Borders	Provide_economic_aid	Myanmar	occurSince	2014-07-24
+Doctors_Without_Borders	Provide_economic_aid	Myanmar	occurUntil	2014-07-24
+John_Kerry	Consult	Catherine_Ashton	occurSince	2014-11-04
+John_Kerry	Consult	Catherine_Ashton	occurUntil	2014-11-04
+Romania	Host_a_visit	Joseph_Robinette_Biden	occurSince	2014-05-22
+Romania	Host_a_visit	Joseph_Robinette_Biden	occurUntil	2014-05-22
+Olisa_Agbakoba	MakeStatement	Government_(Nigeria)	occurSince	2014-09-15
+Olisa_Agbakoba	MakeStatement	Government_(Nigeria)	occurUntil	2014-09-15
+Massoud_Barzani	Host_a_visit	John_Baird	occurSince	2014-09-04
+Massoud_Barzani	Host_a_visit	John_Baird	occurUntil	2014-09-04
+Melissa_Fleming	MakeStatement	Asylum_Seeker_(Sudan)	occurSince	2014-07-07
+Melissa_Fleming	MakeStatement	Asylum_Seeker_(Sudan)	occurUntil	2014-07-07
+Main_Opposition_(Greece)	Demonstrate_or_rally	Police_(Greece)	occurSince	2014-07-11
+Main_Opposition_(Greece)	Demonstrate_or_rally	Police_(Greece)	occurUntil	2014-07-11
+Police_(Kenya)	Express_intent_to_cooperate	Citizen_(Kenya)	occurSince	2014-07-03
+Police_(Kenya)	Express_intent_to_cooperate	Citizen_(Kenya)	occurUntil	2014-07-03
+Xi_Jinping	Consult	Sergey_Viktorovich_Lavrov	occurSince	2014-03-25
+Xi_Jinping	Consult	Sergey_Viktorovich_Lavrov	occurUntil	2014-03-25
+Citizen_(Sudan)	Criticize_or_denounce	News_Editor_(Sudan)	occurSince	2014-07-24
+Citizen_(Sudan)	Criticize_or_denounce	News_Editor_(Sudan)	occurUntil	2014-07-24
+John_Kerry	Make_an_appeal_or_request	Haider_Al-Abadi	occurSince	2014-08-12
+John_Kerry	Make_an_appeal_or_request	Haider_Al-Abadi	occurUntil	2014-08-12
+Ministry_(Nigeria)	MakeStatement	Government_(Nigeria)	occurSince	2014-09-30
+Ministry_(Nigeria)	MakeStatement	Government_(Nigeria)	occurUntil	2014-09-30
+Philippe_Couillard	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Kathleen_Wynne	occurSince	2014-11-21
+Philippe_Couillard	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Kathleen_Wynne	occurUntil	2014-11-21
+Uighur_(China)	MakeStatement	China	occurSince	2014-12-08
+Uighur_(China)	MakeStatement	China	occurUntil	2014-12-08
+Joseph_Ole_Lenku	MakeStatement	High_Commission_for_Refugees	occurSince	2014-02-12
+Joseph_Ole_Lenku	MakeStatement	High_Commission_for_Refugees	occurUntil	2014-02-12
+Political_Parties_(Palestinian_Territory_Occupied)	Consult	Head_of_Government_(Palestinian_Territory_Occupied)	occurSince	2014-07-25
+Political_Parties_(Palestinian_Territory_Occupied)	Consult	Head_of_Government_(Palestinian_Territory_Occupied)	occurUntil	2014-07-25
+Militant_(Somalia)	Use_unconventional_violence	Al-Shabaab	occurSince	2014-09-02
+Militant_(Somalia)	Use_unconventional_violence	Al-Shabaab	occurUntil	2014-09-02
+Japan	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	China	occurSince	2014-11-27
+Japan	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	China	occurUntil	2014-11-27
+Head_of_Government_(Bahamas)	MakeStatement	Government_(Bahamas)	occurSince	2014-12-03
+Head_of_Government_(Bahamas)	MakeStatement	Government_(Bahamas)	occurUntil	2014-12-03
+Undersecretary_(South_Sudan)	Express_intent_to_meet_or_negotiate	Women_(South_Sudan)	occurSince	2014-03-08
+Undersecretary_(South_Sudan)	Express_intent_to_meet_or_negotiate	Women_(South_Sudan)	occurUntil	2014-03-08
+Iran	Praise_or_endorse	Iraq	occurSince	2014-08-13
+Iran	Praise_or_endorse	Iraq	occurUntil	2014-08-13
+Citizen_(Nigeria)	Criticize_or_denounce	Government_(Nigeria)	occurSince	2014-11-03
+Citizen_(Nigeria)	Criticize_or_denounce	Government_(Nigeria)	occurUntil	2014-11-03
+Morgan_Tsvangirai	MakeStatement	Movement_for_Democratic_Change	occurSince	2014-04-29
+Morgan_Tsvangirai	MakeStatement	Movement_for_Democratic_Change	occurUntil	2014-04-29
+William_Ruto	MakeStatement	Government_(Kenya)	occurSince	2014-11-07
+William_Ruto	MakeStatement	Government_(Kenya)	occurUntil	2014-11-07
+M.K._Narayanan	Appeal_for_intelligence	Election_Commission_(India)	occurSince	2014-05-24
+M.K._Narayanan	Appeal_for_intelligence	Election_Commission_(India)	occurUntil	2014-05-24
+Mauritius	Arrest_detain_or_charge_with_legal_action	Criminal_(Mauritius)	occurSince	2014-04-09
+Mauritius	Arrest_detain_or_charge_with_legal_action	Criminal_(Mauritius)	occurUntil	2014-04-09
+Qassim_Atta	MakeStatement	Air_Force_(Iraq)	occurSince	2014-08-04
+Qassim_Atta	MakeStatement	Air_Force_(Iraq)	occurUntil	2014-08-04
+Sudan	Host_a_visit	Isaias_Afewerki	occurSince	2014-05-08
+Sudan	Host_a_visit	Isaias_Afewerki	occurUntil	2014-05-08
+Citizen_(Nigeria)	Make_an_appeal_or_request	Government_(Nigeria)	occurSince	2014-08-06
+Citizen_(Nigeria)	Make_an_appeal_or_request	Government_(Nigeria)	occurUntil	2014-08-06
+Zhang_Dejiang	Express_intent_to_meet_or_negotiate	Mexico	occurSince	2014-11-15
+Zhang_Dejiang	Express_intent_to_meet_or_negotiate	Mexico	occurUntil	2014-11-15
+Lawyer/Attorney_(Kenya)	Demand	Citizen_(Kenya)	occurSince	2014-03-26
+Lawyer/Attorney_(Kenya)	Demand	Citizen_(Kenya)	occurUntil	2014-03-26
+Militant_(Iraq)	Carry_out_suicide_bombing	Iraq	occurSince	2014-05-22
+Militant_(Iraq)	Carry_out_suicide_bombing	Iraq	occurUntil	2014-05-22
+Government_(France)	Threaten	Ministry_(France)	occurSince	2014-03-12
+Government_(France)	Threaten	Ministry_(France)	occurUntil	2014-03-12
+Lower_House_of_Parliament_(Germany)	Praise_or_endorse	Government_(Germany)	occurSince	2014-11-28
+Lower_House_of_Parliament_(Germany)	Praise_or_endorse	Government_(Germany)	occurUntil	2014-11-28
+Umaru_Tanko_Al-Makura	MakeStatement	Azores	occurSince	2014-01-13
+Umaru_Tanko_Al-Makura	MakeStatement	Azores	occurUntil	2014-01-13
+Micky_Rosenfeld	MakeStatement	Police_(Israel)	occurSince	2014-11-26
+Micky_Rosenfeld	MakeStatement	Police_(Israel)	occurUntil	2014-11-26
+Ma_Xiaoguang	MakeStatement	China	occurSince	2014-05-28
+Ma_Xiaoguang	MakeStatement	China	occurUntil	2014-05-28
+Tom_Fletcher	Criticize_or_denounce	Foreign_Affairs_(United_States)	occurSince	2014-02-22
+Tom_Fletcher	Criticize_or_denounce	Foreign_Affairs_(United_States)	occurUntil	2014-02-22
+Iran	Express_intent_to_provide_material_aid	Iraq	occurSince	2014-09-21
+Iran	Express_intent_to_provide_material_aid	Iraq	occurUntil	2014-09-21
+Paolo_Gentiloni	MakeStatement	Iran	occurSince	2014-11-26
+Paolo_Gentiloni	MakeStatement	Iran	occurUntil	2014-11-26
+John_Kerry	Make_an_appeal_or_request	Government_(Palestinian_Territory_Occupied)	occurSince	2014-07-02
+John_Kerry	Make_an_appeal_or_request	Government_(Palestinian_Territory_Occupied)	occurUntil	2014-07-02
+Frank_Bainimarama	Make_a_visit	Fiji	occurSince	2014-11-17
+Frank_Bainimarama	Make_a_visit	Fiji	occurUntil	2014-11-17
+Pakistan_Tehreek-e-Insaf	Grant_diplomatic_recognition	Legislature_(Pakistan)	occurSince	2014-09-04
+Pakistan_Tehreek-e-Insaf	Grant_diplomatic_recognition	Legislature_(Pakistan)	occurUntil	2014-09-04
+Uhuru_Muigai_Kenyatta	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Citizen_(Kenya)	occurSince	2014-11-17
+Uhuru_Muigai_Kenyatta	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Citizen_(Kenya)	occurUntil	2014-11-17
+Protester_(Indonesia)	Demonstrate_or_rally	Police_(Indonesia)	occurSince	2014-06-26
+Protester_(Indonesia)	Demonstrate_or_rally	Police_(Indonesia)	occurUntil	2014-06-26
+Main_Opposition_(Turkey)	Consult	Abdullah_Gül	occurSince	2014-01-14
+Main_Opposition_(Turkey)	Consult	Abdullah_Gül	occurUntil	2014-01-14
+John_Kerry	Meet_at_a_'third'_location	Sergey_Viktorovich_Lavrov	occurSince	2014-03-07
+John_Kerry	Meet_at_a_'third'_location	Sergey_Viktorovich_Lavrov	occurUntil	2014-03-07
+France	Express_intent_to_meet_or_negotiate	Iran	occurSince	2014-09-03
+France	Express_intent_to_meet_or_negotiate	Iran	occurUntil	2014-09-03
+Rafiq_Hariri	Make_a_visit	Student_(Lebanon)	occurSince	2014-04-13
+Rafiq_Hariri	Make_a_visit	Student_(Lebanon)	occurUntil	2014-04-13
+Citizen_(Malaysia)	Criticize_or_denounce	National_Front_Malaysia	occurSince	2014-02-25
+Citizen_(Malaysia)	Criticize_or_denounce	National_Front_Malaysia	occurUntil	2014-02-25
+China	Accuse	Japan	occurSince	2014-08-06
+China	Accuse	Japan	occurUntil	2014-08-06
+Victor_Ponta	Consult	Victoria_Nuland	occurSince	2014-01-14
+Victor_Ponta	Consult	Victoria_Nuland	occurUntil	2014-01-14
+John_Kerry	MakeStatement	China	occurSince	2014-10-27
+John_Kerry	MakeStatement	China	occurUntil	2014-10-27
+Police_(Kosovo)	Investigate	Citizen_(Kosovo)	occurSince	2014-01-28
+Police_(Kosovo)	Investigate	Citizen_(Kosovo)	occurUntil	2014-01-28
+China	Host_a_visit	Employee_(Myanmar)	occurSince	2014-07-10
+China	Host_a_visit	Employee_(Myanmar)	occurUntil	2014-07-10
+Imran_Khan	Consult	Tahirul_Qadri	occurSince	2014-08-28
+Imran_Khan	Consult	Tahirul_Qadri	occurUntil	2014-08-28
+Federica_Mogherini	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Fumio_Kishida	occurSince	2014-09-22
+Federica_Mogherini	Express_intent_to_engage_in_diplomatic_cooperation_(such_as_policy_support)	Fumio_Kishida	occurUntil	2014-09-22
+Vitali_Klitschko	Make_an_appeal_or_request	Head_of_Government_(Ukraine)	occurSince	2014-02-18
+Vitali_Klitschko	Make_an_appeal_or_request	Head_of_Government_(Ukraine)	occurUntil	2014-02-18
+Media_(Africa)	Consult	Citizen_(Sudan)	occurSince	2014-08-25
+Media_(Africa)	Consult	Citizen_(Sudan)	occurUntil	2014-08-25
+Defense_/_Security_Ministry_(United_States)	MakeStatement	North_Korea	occurSince	2014-07-10
+Defense_/_Security_Ministry_(United_States)	MakeStatement	North_Korea	occurUntil	2014-07-10
+Member_of_Legislative_(Govt)_(Nigeria)	Reject	Democratic_Party_(Nigeria)	occurSince	2014-10-21
+Member_of_Legislative_(Govt)_(Nigeria)	Reject	Democratic_Party_(Nigeria)	occurUntil	2014-10-21
+UN_Security_Council	MakeStatement	Sudan	occurSince	2014-05-29
+UN_Security_Council	MakeStatement	Sudan	occurUntil	2014-05-29
+City_Mayor_(Venezuela)	Make_an_appeal_or_request	Citizen_(Venezuela)	occurSince	2014-05-25
+City_Mayor_(Venezuela)	Make_an_appeal_or_request	Citizen_(Venezuela)	occurUntil	2014-05-25
+Imran_Khan	MakeStatement	Public_Courts_(Pakistan)	occurSince	2014-12-06
+Imran_Khan	MakeStatement	Public_Courts_(Pakistan)	occurUntil	2014-12-06
+Civic_Group_(Kenya)	MakeStatement	Criminal_(Argentina)
+Criminal_(Somalia)	MakeStatement	Communist_Party_of_Bohemia_and_Moravia
+Citizen_(Nigeria)	MakeStatement	Employee_(Kuwait)
+Combatant_(Al_Qaeda)	MakeStatement	Abu_Sayyaf
+Police_(Jamaica)	MakeStatement	People_Associated_with_the_Opposition_(Albania)
+Fula_people	MakeStatement	Emilio_Pérez_Touriño
+Bureaucrat_(India)	MakeStatement	Government_(United_States)
+Business_(Russia)	MakeStatement	Student_(Tanzania)
+Central_Intelligence_Agency	MakeStatement	Lawyer/Attorney_(Uganda)
+Romania	MakeStatement	Austria_Press_Agency
+Stefan_Harabin	MakeStatement	Argentine_Naval_Prefecture
+Herve_Ladsous	MakeStatement	Provincial_Officials_(China)
+Islamic_Rebirth_Party	MakeStatement	Police_(Egypt)
+Media_(India)	MakeStatement	Fidesz
+Student_(Yemen)	MakeStatement	Nigerian_Bar_Association
+Rodrigo_Londoño-Echeverry	MakeStatement	Civic_Group_(Argentina)
+Insurgent_(Afghanistan)	MakeStatement	Foreign_Affairs_(Lebanon)
+Muhammadu_Buhari	MakeStatement	Air_Force_(Iraq)
+Martin_Lidegaard	MakeStatement	New_Democracy
+Citizen_(Sudan)	MakeStatement	Head_of_Government_(Germany)
+Philippe_Couillard	MakeStatement	William_Ruto
+Political_Parties_(Palestinian_Territory_Occupied)	MakeStatement	Police_(Jamaica)
+Militant_(Somalia)	MakeStatement	Businessperson_(Kenya)
+Undersecretary_(South_Sudan)	MakeStatement	New_Zealand
+M.K._Narayanan	MakeStatement	François_Hollande
+Mauritius	MakeStatement	Ri_Su_Yong
+Sudan	MakeStatement	Benazir_Bhutto
+Militant_(Iraq)	MakeStatement	Military_Personnel_-_Special_(Nigeria)
+Lower_House_of_Parliament_(Germany)	MakeStatement	Police_(Greece)
+Tom_Fletcher	MakeStatement	Maldives
+Protester_(Indonesia)	MakeStatement	Ashraf_Ghani_Ahmadzai
+Main_Opposition_(Turkey)	MakeStatement	Business_(South_Korea)
+Citizen_(Malaysia)	MakeStatement	Foreign_Affairs_(Chile)
+Member_of_Legislative_(Govt)_(Nigeria)	MakeStatement	City_Mayor_(New_Zealand)
+City_Mayor_(Venezuela)	MakeStatement	Colombia
+Suleiman_Abba	MakeStatement	Xi_Jinping
+Akitaka_Saiki	MakeStatement	Security_Council_(Russia)
+Member_of_the_Judiciary_(Venezuela)	MakeStatement	Military_Personnel_(Mali)
+Protester_(Ukraine)	MakeStatement	Secret_Agent_(Russia)
+Citizen_(Turkey)	MakeStatement	Government_(France)
+Likud	MakeStatement	Government_(Pakistan)
+Member_of_Legislative_(Govt)_(Azerbaijan)	MakeStatement	Iran
+Military_(South_Sudan)	MakeStatement	Imad_Mugniyah
+Armed_Band_(Syria)	MakeStatement	Pervez_Musharraf
+Caroline_Kennedy	MakeStatement	Head_of_Government_(Nigeria)
+Military_(Argentina)	MakeStatement	Thailand
+Student_(Bahrain)	MakeStatement	Cabinet_/_Council_of_Ministers_/_Advisors_(Thailand)
+Government_(Burundi)	MakeStatement	Employee_(India)
+Police_(Tanzania)	MakeStatement	Immigrants_(Sudan)
+Criminal_(Sudan)	MakeStatement	Moro_Islamic_Liberation_Front
+Government_(Pakistan)	MakeStatement	Activist_(United_States)
+Le_Hong_Anh	MakeStatement	Criminal_(Israel)
+Citizen_(United_Kingdom)	MakeStatement	Member_of_Parliament_(Ukraine)
+Police_(Sudan)	MakeStatement	Dmitry_Anatolyevich_Medvedev
+Tzipi_Livni	MakeStatement	Treasury/Finance_Ministry_(Czech_Republic)
+Other_Authorities_/_Officials_(Brazil)	MakeStatement	Middle_East
+Protester_(Vietnam)	MakeStatement	Ri_Su_Yong

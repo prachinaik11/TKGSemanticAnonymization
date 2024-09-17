@@ -1,0 +1,3672 @@
+<Joe_Bradshaw_(footballer)>	<isAffiliatedTo>	<Fulham_F.C.>
+<Angels_&_Airwaves_Presents_Love_Live>	<isLocatedIn>	<Georgia_(U.S._state)>
+<Enrico_Fermi>	<worksAt>	<Columbia_University>
+<Federico_Fellini>	<directed>	<La_Dolce_Vita>
+<Denmark>	<participatedIn>	<Kosovo_War>
+<Alan_Thompson_(footballer,_born_1973)>	<isAffiliatedTo>	<England_national_football_team>
+<Josh_Wright>	<isAffiliatedTo>	<Charlton_Athletic_F.C.>
+<Minnie_Driver>	<isCitizenOf>	<United_Kingdom>
+<Haim_Saban>	<isCitizenOf>	<Israel>
+<Derek_McInnes>	<isAffiliatedTo>	<Dundee_United_F.C.>
+<Bruno_Rodriguez>	<isAffiliatedTo>	<AS_Monaco_FC>
+<Young_Adam_(film)>	<isLocatedIn>	<United_Kingdom>
+<Liam_George>	<playsFor>	<Bury_F.C.>
+<Mel_Brooks>	<hasWonPrize>	<Grammy_Award>
+<Poul_Anderson>	<isCitizenOf>	<Denmark>
+<Abel_Xavier>	<isAffiliatedTo>	<Middlesbrough_F.C.>
+<Jamie_O'Hara_(footballer)>	<playsFor>	<Arsenal_F.C.>	<occursSince>	"1998-##-##"
+<Jamie_O'Hara_(footballer)>	<playsFor>	<Arsenal_F.C.>	<occursUntil>	"2003-##-##"
+<Jeffrey_Monakana>	<isAffiliatedTo>	<Bristol_Rovers_F.C.>
+<Alfred_Hitchcock>	<isCitizenOf>	<United_States>
+<Colin_Miller_(soccer)>	<playsFor>	<Heart_of_Midlothian_F.C.>	<occursSince>	"1995-##-##"
+<Dougie_Freedman>	<isAffiliatedTo>	<Southend_United_F.C.>
+<The_Walt_Disney_Company>	<owns>	<Disney_Interactive_Studios>
+<Adel_Taarabt>	<isAffiliatedTo>	<RC_Lens>
+<Leighton_Meester>	<wasBornIn>	<Fort_Worth,_Texas>
+<Larry_Niven>	<isCitizenOf>	<United_States>
+<Tomasz_Cywka>	<isCitizenOf>	<England>
+<Paul_Rachubka>	<isAffiliatedTo>	<Bury_F.C.>
+<David_McCracken>	<isAffiliatedTo>	<Dundee_United_F.C.>
+<Ed_Asner>	<actedIn>	<Rich_Man,_Poor_Man_(miniseries)>
+<Christian_Hanson_(footballer)>	<wasBornIn>	<Middlesbrough>
+<Ivory_Coast>	<dealsWith>	<China>
+<Cristian_Daniel_Ledesma>	<playsFor>	<Italy_national_football_team>	<occursSince>	"2010-##-##"
+<Calum_Davenport>	<playsFor>	<Watford_F.C.>	<occursSince>	"2008-##-##"
+<Invercargill>	<isLocatedIn>	<South_Island>
+<Geoff_Scott_(footballer)>	<isAffiliatedTo>	<Cambridge_United_F.C.>
+<Liam_Chilvers>	<playsFor>	<A.F.C._Telford_United>
+<Woody_Allen>	<isCitizenOf>	<Russia>
+<Alessandro_Bastrini>	<playsFor>	<Calcio_Catania>
+<Dean_Howell>	<isAffiliatedTo>	<Notts_County_F.C.>
+<Steve_Leo_Beleck>	<playsFor>	<ACF_Fiorentina>
+<Roberto_Baronio>	<isAffiliatedTo>	<Udinese_Calcio>
+<Ben_Smith_(footballer,_born_1978)>	<isAffiliatedTo>	<Arsenal_F.C.>
+<Jonathan_Swift>	<graduatedFrom>	<Trinity_College,_Dublin>
+<Tony_Pulis>	<isAffiliatedTo>	<Bristol_Rovers_F.C.>
+<Gale_Anne_Hurd>	<isMarriedTo>	<Brian_De_Palma>	<occursSince>	"1991-##-##"
+<Gale_Anne_Hurd>	<isMarriedTo>	<Brian_De_Palma>	<occursUntil>	"1993-##-##"
+<Milan>	<owns>	<A.C._Milan>
+<Mali>	<isLocatedIn>	<Africa>
+<Parlophone>	<isLocatedIn>	<United_Kingdom>
+<Charles_Darwin>	<worksAt>	<University_of_Cambridge>
+<Brian_Kidd>	<isAffiliatedTo>	<Bolton_Wanderers_F.C.>
+<Toumani_Diagouraga>	<wasBornIn>	<Paris>
+<John_Cairns_(footballer)>	<playsFor>	<Leicester_City_F.C.>	<occursSince>	"1928-##-##"
+<Don_Knotts>	<diedIn>	<Los_Angeles>
+<James_Tavernier>	<isAffiliatedTo>	<Sheffield_Wednesday_F.C.>
+<Frédéric_Piquionne>	<isCitizenOf>	<Martinique>
+<Jon_Bon_Jovi>	<isCitizenOf>	<United_States>
+<Daniel_Hernández_(soccer)>	<isCitizenOf>	<England>
+<Etta_James>	<hasWonPrize>	<Grammy_Award>
+<Rolando_Bianchi>	<isAffiliatedTo>	<Bologna_F.C._1909>
+<Alan_Rickman>	<isCitizenOf>	<Wales>
+<Simon_Grayson>	<playsFor>	<Aston_Villa_F.C.>	<occursSince>	"1997-##-##"
+<Simon_Grayson>	<playsFor>	<Aston_Villa_F.C.>	<occursUntil>	"1999-##-##"
+<Corrado_Colombo>	<playsFor>	<U.C._Sampdoria>	<occursSince>	"2002-##-##"
+<Corrado_Colombo>	<playsFor>	<U.C._Sampdoria>	<occursUntil>	"2006-##-##"
+<Alphonse_Tchami>	<isAffiliatedTo>	<Odense_Boldklub>
+<Abdulai_Bell-Baggie>	<playsFor>	<Tranmere_Rovers_F.C.>	<occursSince>	"2012-##-##"
+<Abdulai_Bell-Baggie>	<playsFor>	<Tranmere_Rovers_F.C.>	<occursUntil>	"2015-##-##"
+<Ferenc_Puskás>	<isCitizenOf>	<Greece>
+<Myles_Weston>	<isAffiliatedTo>	<Charlton_Athletic_F.C.>
+<Nathan_Blake>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"1995-##-##"
+<Nathan_Blake>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"1998-##-##"
+<Niall_Thompson>	<playsFor>	<Colchester_United_F.C.>	<occursSince>	"1994-##-##"
+<Niall_Thompson>	<playsFor>	<Colchester_United_F.C.>	<occursUntil>	"1995-##-##"
+<Andrew_Stanton>	<created>	<Finding_Nemo>
+<Tokyo>	<isLocatedIn>	<Japan>
+<Alejandro_Scopelli>	<isAffiliatedTo>	<C.F._Os_Belenenses>
+<Grand_Teton_National_Park>	<isLocatedIn>	<United_States>
+<Charlie_Sheringham>	<playsFor>	<Ipswich_Town_F.C.>	<occursSince>	"2004-##-##"
+<Charlie_Sheringham>	<playsFor>	<Ipswich_Town_F.C.>	<occursUntil>	"2005-##-##"
+<Blackpool>	<isLocatedIn>	<North_West_England>
+<Landon_Donovan>	<playsFor>	<FC_Bayern_Munich>	<occursSince>	"2009-##-##"
+<Antonio_Banderas>	<actedIn>	<Four_Rooms>
+<Emory_University>	<isLocatedIn>	<United_States>
+<Djibril_Cissé>	<isAffiliatedTo>	<S.S._Lazio>
+<Oliver_Platt>	<isCitizenOf>	<United_Kingdom>
+<David_Mendes_da_Silva>	<playsFor>	<AZ_Alkmaar>	<occursSince>	"2006-##-##"
+<David_Mendes_da_Silva>	<playsFor>	<AZ_Alkmaar>	<occursUntil>	"2010-##-##"
+<Dan_Harding>	<playsFor>	<Southampton_F.C.>	<occursSince>	"2009-##-##"
+<Dan_Harding>	<playsFor>	<Southampton_F.C.>	<occursUntil>	"2012-##-##"
+<Poland>	<hasNeighbor>	<Ukraine>
+<Chris_Powell>	<isAffiliatedTo>	<Huddersfield_Town_A.F.C.>
+<Grégory_Tadé>	<isAffiliatedTo>	<Forfar_Athletic_F.C.>
+<Noah_Wyle>	<isCitizenOf>	<Russia>
+<David_Thewlis>	<actedIn>	<Anonymous_(film)>
+<Gerry_Francis>	<playsFor>	<Exeter_City_F.C.>	<occursSince>	"1983-##-##"
+<Gerry_Francis>	<playsFor>	<Exeter_City_F.C.>	<occursUntil>	"1984-##-##"
+<Tim_Matheson>	<wasBornIn>	<Glendale,_California>
+<Jason_Brown_(footballer)>	<playsFor>	<Wales_national_football_team>	<occursSince>	"2006-##-##"
+<Jason_Brown_(footballer)>	<playsFor>	<Wales_national_football_team>	<occursUntil>	"2012-##-##"
+<Legend_(1985_film)>	<isLocatedIn>	<United_Kingdom>
+<Stark_County,_Ohio>	<isLocatedIn>	<Canton,_Ohio>
+<Jermaine_Beckford>	<playsFor>	<Leeds_United_F.C.>	<occursSince>	"2006-##-##"
+<Jermaine_Beckford>	<playsFor>	<Leeds_United_F.C.>	<occursUntil>	"2010-##-##"
+<Bela_Lugosi>	<isCitizenOf>	<Hungary>
+<Fred_Williamson>	<actedIn>	<From_Dusk_till_Dawn>
+<Tim_Sherwood>	<isAffiliatedTo>	<Coventry_City_F.C.>
+<Brian_Marwood>	<playsFor>	<Middlesbrough_F.C.>	<occursSince>	"1992-##-##"
+<Jon_Macken>	<isAffiliatedTo>	<Preston_North_End_F.C.>
+<Dave_Reeves>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"1989-##-##"
+<Dave_Reeves>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"1993-##-##"
+<Keith_Curle>	<isCitizenOf>	<England>
+<Latvia>	<hasNeighbor>	<Lithuania>
+<Herbert_Hoover>	<isCitizenOf>	<Canada>
+<Johann_Smith>	<playsFor>	<Darlington_F.C.>	<occursSince>	"2007-##-##"
+<Paul_Dalglish>	<playsFor>	<Norwich_City_F.C.>	<occursSince>	"1999-##-##"
+<Paul_Dalglish>	<playsFor>	<Norwich_City_F.C.>	<occursUntil>	"2002-##-##"
+<Johann_Wolfgang_von_Goethe>	<influences>	<Georg_Wilhelm_Friedrich_Hegel>
+<Bradley_Thomas_(footballer)>	<isAffiliatedTo>	<Crawley_Town_F.C.>
+<Darren_Dunning>	<playsFor>	<Harrogate_Town_F.C.>	<occursSince>	"2006-##-##"
+<Darren_Dunning>	<playsFor>	<Harrogate_Town_F.C.>	<occursUntil>	"2009-##-##"
+<Jane_Fonda>	<isCitizenOf>	<Netherlands>
+<Ian_Muir>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Christopher_Guest>	<isMarriedTo>	<Jamie_Lee_Curtis>	<occursSince>	"1984-##-##"
+<Norman_Mailer>	<actedIn>	<When_We_Were_Kings>
+<Patrick_Kluivert>	<playsFor>	<FC_Barcelona>	<occursSince>	"1998-##-##"
+<Patrick_Kluivert>	<playsFor>	<FC_Barcelona>	<occursUntil>	"2004-##-##"
+<Peter_Shilton>	<wasBornIn>	<Leicester>
+<Sally_Field>	<actedIn>	<ER_(TV_series)>
+<Stephen_Dillane>	<isCitizenOf>	<England>
+<Liam_Miller>	<isAffiliatedTo>	<Brisbane_Roar_FC>
+<Indo-Pakistani_War_of_1971>	<isLocatedIn>	<Bangladesh>
+<Simon_Gillett>	<isAffiliatedTo>	<Southampton_F.C.>
+<Neil_Heaney>	<playsFor>	<Arsenal_F.C.>	<occursSince>	"1989-##-##"
+<Neil_Heaney>	<playsFor>	<Arsenal_F.C.>	<occursUntil>	"1994-##-##"
+<Kelvin_Langmead>	<isAffiliatedTo>	<Preston_North_End_F.C.>
+<Peter_Berg>	<directed>	<Battleship_(film)>
+<Héctor_Rial>	<isCitizenOf>	<El_Salvador>
+<Jake_Edwards_(footballer,_born_1976)>	<wasBornIn>	<Manchester>
+<Jamie_Day_(footballer,_born_1979)>	<isAffiliatedTo>	<Ebbsfleet_United_F.C.>
+<Ryan_Clarke>	<playsFor>	<Eastleigh_F.C.>	<occursSince>	"2016-##-##"
+<Ryan_Clarke>	<playsFor>	<Eastleigh_F.C.>	<occursUntil>	"2017-##-##"
+<Nick_Burton>	<playsFor>	<Yeovil_Town_F.C.>	<occursSince>	"1995-##-##"
+<Nick_Burton>	<playsFor>	<Yeovil_Town_F.C.>	<occursUntil>	"1996-##-##"
+<Colin_Cramb>	<isCitizenOf>	<Scotland>
+<Tom_Hanks>	<actedIn>	<The_Green_Mile_(film)>
+<Austria-Hungary>	<participatedIn>	<Settling_Accounts>
+<Edward_G._Robinson>	<actedIn>	<The_Ten_Commandments_(1956_film)>
+<Dallas>	<isLocatedIn>	<Texas>
+<Rakhee_Gulzar>	<isCitizenOf>	<India>
+<Adil_Ramzi>	<playsFor>	<AZ_Alkmaar>
+<Parker_Posey>	<actedIn>	<Best_in_Show_(film)>
+<Lincoln_City_F.C.>	<isLocatedIn>	<Lincoln,_England>
+<Daniel_Inouye>	<wasBornIn>	<Honolulu>
+<Joe_Anyinsah>	<playsFor>	<Bristol_City_F.C.>	<occursSince>	"2004-##-##"
+<Joe_Anyinsah>	<playsFor>	<Bristol_City_F.C.>	<occursUntil>	"2005-##-##"
+<Björn_Runström>	<playsFor>	<Fulham_F.C.>	<occursSince>	"2006-##-##"
+<Björn_Runström>	<playsFor>	<Fulham_F.C.>	<occursUntil>	"2008-##-##"
+<Ademola_Bankole>	<playsFor>	<Milton_Keynes_Dons_F.C.>
+<University_of_Vienna>	<isLocatedIn>	<Vienna>
+<Eric_Wynalda>	<isAffiliatedTo>	<Atlanta_Silverbacks>
+<Igor_Mitreski>	<isAffiliatedTo>	<FC_Metalurh_Zaporizhya>
+<Toni_Silva>	<isAffiliatedTo>	<Northampton_Town_F.C.>
+<Italy>	<participatedIn>	<Lebanese_Civil_War>
+<Martin_Nash_(soccer)>	<isCitizenOf>	<Canada>
+<Brad_Jones_(footballer)>	<playsFor>	<Bradford_City_A.F.C.>
+<Dustin_Hoffman>	<isCitizenOf>	<Russia>
+<The_Culinary_Institute_of_America>	<isLocatedIn>	<New_York>
+<White_Plains,_New_York>	<isLocatedIn>	<New_York>
+<Craig_Ireland>	<playsFor>	<Notts_County_F.C.>
+<Bobby_Mimms>	<isAffiliatedTo>	<Rotherham_United_F.C.>
+<Patrick_Vieira>	<isCitizenOf>	<Cape_Verde>
+<Tony_Thomas_(producer)>	<isCitizenOf>	<United_States>
+<Eastern_Kentucky_University>	<isLocatedIn>	<Kentucky>
+<Roberto_Baggio>	<playsFor>	<Juventus_F.C.>	<occursSince>	"1990-##-##"
+<Roberto_Baggio>	<playsFor>	<Juventus_F.C.>	<occursUntil>	"1995-##-##"
+<Edgar_Rice_Burroughs>	<influences>	<Peter_David>
+<Fresno_County,_California>	<isLocatedIn>	<Fresno,_California>
+<Trésor_Kandol>	<isAffiliatedTo>	<Millwall_F.C.>
+<Harvey_Weinstein>	<created>	<The_Weinstein_Company>
+<Groucho_Marx>	<influences>	<Brendon_Small>
+<Chris_Hackett_(footballer)>	<isAffiliatedTo>	<Heart_of_Midlothian_F.C.>
+<Ramon_Menezes>	<playsFor>	<Al-Gharafa_Sports_Club>
+<Matty_Lund>	<playsFor>	<Bristol_Rovers_F.C.>	<occursSince>	"2012-##-##"
+<Matty_Lund>	<playsFor>	<Bristol_Rovers_F.C.>	<occursUntil>	"2013-##-##"
+<Ian_Holloway>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursSince>	"1991-##-##"
+<Ian_Holloway>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursUntil>	"1996-##-##"
+<Rebecca_Hall>	<actedIn>	<Starter_for_10_(film)>
+<Asia_Argento>	<actedIn>	<Marie_Antoinette_(2006_film)>
+<Steven_Tyler>	<hasChild>	<Liv_Tyler>
+<Kevin_Lisbie>	<isAffiliatedTo>	<Queens_Park_Rangers_F.C.>
+<Luftwaffe>	<isLocatedIn>	<Nazi_Germany>
+<Leonard_Nimoy>	<actedIn>	<Star_Trek_(film)>
+<Jean-Philippe_Javary>	<wasBornIn>	<Montpellier>
+<Jocky_Wright>	<isAffiliatedTo>	<Watford_F.C.>
+<Joss_Labadie>	<isCitizenOf>	<England>
+<Harry_Belafonte>	<hasWonPrize>	<Jean_Hersholt_Humanitarian_Award>
+<Lee_Cox_(footballer)>	<playsFor>	<Inverness_Caledonian_Thistle_F.C.>	<occursSince>	"2009-##-##"
+<Lee_Cox_(footballer)>	<playsFor>	<Inverness_Caledonian_Thistle_F.C.>	<occursUntil>	"2012-##-##"
+<Joaquin_Phoenix>	<actedIn>	<The_Master_(2012_film)>
+<Alan_Bennett_(footballer,_born_1981)>	<isAffiliatedTo>	<Cheltenham_Town_F.C.>
+<Leroy_Chambers>	<wasBornIn>	<Sheffield>
+<Mark_Burchill>	<playsFor>	<Portsmouth_F.C.>	<occursSince>	"2001-##-##"
+<Mark_Burchill>	<playsFor>	<Portsmouth_F.C.>	<occursUntil>	"2005-##-##"
+<Peter_Marinello>	<wasBornIn>	<Edinburgh>
+<Gertrude_Stein>	<diedIn>	<Neuilly-sur-Seine>
+<Simon_Grayson>	<isAffiliatedTo>	<Blackburn_Rovers_F.C.>
+<Adam_Proudlock>	<isAffiliatedTo>	<Ipswich_Town_F.C.>
+<Pontifical_Gregorian_University>	<isLocatedIn>	<Italy>
+<Bam_Margera>	<actedIn>	<Jackass_3D>
+<Ben_Wilkinson>	<isAffiliatedTo>	<Altrincham_F.C.>
+<Peter_Molloy_(footballer,_born_1909)>	<playsFor>	<Queens_Park_Rangers_F.C.>
+<Huntington,_New_York>	<isLocatedIn>	<New_York_metropolitan_area>
+<Danny_McLennan>	<isCitizenOf>	<Bahrain>
+<Tommy_Anderson_(footballer)>	<isAffiliatedTo>	<Stockport_County_F.C.>
+<Craig_McAllister>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<Alias_(TV_series)>	<isLocatedIn>	<United_States>
+<Michael_Stipe>	<wasBornIn>	<Decatur,_Georgia>
+<Ed_O'Neill>	<actedIn>	<The_Adventures_of_Ford_Fairlane>
+<James_Dunne>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Jerry_Siegel>	<wasBornIn>	<Cleveland>
+<Greg_Mills_(footballer)>	<playsFor>	<Derby_County_F.C.>	<occursSince>	"2009-##-##"
+<Greg_Mills_(footballer)>	<playsFor>	<Derby_County_F.C.>	<occursUntil>	"2011-##-##"
+<Jayden_Stockley>	<playsFor>	<Woking_F.C.>	<occursSince>	"2012-##-##"
+<Jayden_Stockley>	<playsFor>	<Woking_F.C.>	<occursUntil>	"2013-##-##"
+<Kamloops>	<isLocatedIn>	<British_Columbia>
+<Alfie_Conn_Jr.>	<isAffiliatedTo>	<Blackpool_F.C.>
+<Eddie_Albert>	<wasBornIn>	<Rock_Island,_Illinois>
+<Columbia_Law_School>	<isLocatedIn>	<New_York>
+<Bill_Pullman>	<actedIn>	<Lucky_Numbers>
+<Neil_Cutler>	<playsFor>	<Chester_City_F.C.>	<occursSince>	"1996-##-##"
+<Neil_Cutler>	<playsFor>	<Chester_City_F.C.>	<occursUntil>	"1999-##-##"
+<Amsterdam>	<isLocatedIn>	<North_Holland>
+<Mick_Bodley>	<isAffiliatedTo>	<Peterborough_United_F.C.>
+<Intel>	<isLocatedIn>	<California>
+<James_Beattie_(footballer)>	<wasBornIn>	<Lancaster,_Lancashire>
+<Marcus_Haber>	<isAffiliatedTo>	<Crewe_Alexandra_F.C.>
+<Gaël_Givet>	<playsFor>	<Evian_Thonon_Gaillard_F.C.>	<occursSince>	"2014-##-##"
+<Danny_Simpson>	<playsFor>	<Leicester_City_F.C.>	<occursSince>	"2014-##-##"
+<Richard_Pryor>	<influences>	<Whoopi_Goldberg>
+<Tom_Arnold_(actor)>	<isCitizenOf>	<India>
+<Emile_Kuri>	<isCitizenOf>	<United_States>
+<Robbie_Findley>	<isCitizenOf>	<United_States>
+<Kevin_McCarthy_(actor)>	<graduatedFrom>	<University_of_Minnesota>
+<Nicolas_Cage>	<actedIn>	<Face/Off>
+<Alex_Gibney>	<graduatedFrom>	<Yale_University>
+<Martin_Hodge>	<isAffiliatedTo>	<Oldham_Athletic_A.F.C.>
+<Andrew_Davies_(footballer)>	<isAffiliatedTo>	<Queens_Park_Rangers_F.C.>
+<Jeff_Wealands>	<isAffiliatedTo>	<Northampton_Town_F.C.>
+<Los_Angeles_International_Airport>	<isLocatedIn>	<Greater_Los_Angeles_Area>
+<Henri_Lansbury>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<John_Byrne_(footballer,_born_1961)>	<isCitizenOf>	<England>
+<Bartholomew_Ogbeche>	<isAffiliatedTo>	<Real_Valladolid>
+<Andy_Kiwomya>	<playsFor>	<Dundee_F.C.>	<occursSince>	"1992-##-##"
+<Andy_Kiwomya>	<playsFor>	<Dundee_F.C.>	<occursUntil>	"1993-##-##"
+<George_Florescu>	<isCitizenOf>	<Denmark>
+<David_Crown>	<playsFor>	<Cambridge_United_F.C.>	<occursSince>	"1985-##-##"
+<David_Crown>	<playsFor>	<Cambridge_United_F.C.>	<occursUntil>	"1987-##-##"
+<Andrew_Hughes_(footballer,_born_1978)>	<isAffiliatedTo>	<Charlton_Athletic_F.C.>
+<Habib_Bamogo>	<playsFor>	<PFC_Botev_Plovdiv>	<occursSince>	"2013-##-##"
+<Habib_Bamogo>	<playsFor>	<PFC_Botev_Plovdiv>	<occursUntil>	"2014-##-##"
+<Danny_Graham_(footballer)>	<isAffiliatedTo>	<Blackpool_F.C.>
+<Matthew_Barnes-Homer>	<playsFor>	<Kidderminster_Harriers_F.C.>
+<Pavel_Pergl>	<playsFor>	<Dynamo_Dresden>	<occursSince>	"2006-##-##"
+<Claude_Davis>	<isAffiliatedTo>	<Derby_County_F.C.>
+<Dave_Hanson_(footballer)>	<isAffiliatedTo>	<Welling_United_F.C.>
+<Richard_Sylbert>	<wasBornIn>	<Brooklyn>
+<Tomi_Ameobi>	<isCitizenOf>	<Niger>
+<Michigan>	<hasOfficialLanguage>	<English_language>
+<Matt_Dillon>	<actedIn>	<There's_Something_About_Mary>
+<Peter_Swan_(footballer,_born_1966)>	<isAffiliatedTo>	<Plymouth_Argyle_F.C.>
+<Alfred_Molina>	<actedIn>	<Magnolia_(film)>
+<Kevin_James_(English_footballer)>	<playsFor>	<Welling_United_F.C.>	<occursSince>	"2007-##-##"
+<Novak_Djokovic>	<livesIn>	<Monaco>
+<Hugh_Laurie>	<actedIn>	<Arthur_Christmas>
+<Chris_Allen_(footballer,_born_1972)>	<isAffiliatedTo>	<Stockport_County_F.C.>
+<Baltimore–Washington_metropolitan_area>	<isLocatedIn>	<Towson,_Maryland>
+<Maceo_Rigters>	<playsFor>	<AFC_Ajax>	<occursSince>	"2003-##-##"
+<Allan_Nielsen>	<isCitizenOf>	<England>
+<Martin_Short>	<hasWonPrize>	<Tony_Award>
+<Art_Center_College_of_Design>	<isLocatedIn>	<Pasadena,_California>
+<Bolt_(2008_film)>	<isLocatedIn>	<United_States>
+<Alfredo_Foni>	<isAffiliatedTo>	<Italy_national_football_team>
+<Perry_Suckling>	<isAffiliatedTo>	<SuperSport_United_F.C.>
+<Jérôme_Leroy_(footballer)>	<isAffiliatedTo>	<FC_Istres>
+<Yago_Fernández>	<playsFor>	<Sporting_Clube_de_Portugal>	<occursSince>	"2001-##-##"
+<Yago_Fernández>	<playsFor>	<Sporting_Clube_de_Portugal>	<occursUntil>	"2002-##-##"
+<Dave_Regis>	<isAffiliatedTo>	<Lincoln_City_F.C.>
+<Aimee_Mann>	<wasBornIn>	<Richmond,_Virginia>
+<Michael_Duberry>	<playsFor>	<Reading_F.C.>	<occursSince>	"2007-##-##"
+<Michael_Duberry>	<playsFor>	<Reading_F.C.>	<occursUntil>	"2009-##-##"
+<Emerson_Thome>	<isAffiliatedTo>	<Derby_County_F.C.>
+<George_W._Bush>	<wasBornIn>	<New_Haven,_Connecticut>
+<Danny_Andrew>	<playsFor>	<Macclesfield_Town_F.C.>
+<Kezie_Ibe>	<isCitizenOf>	<England>
+<Tim_Blake_Nelson>	<wasBornIn>	<Tulsa,_Oklahoma>
+<Frank_Swift>	<playsFor>	<Fulham_F.C.>	<occursSince>	"1942-##-##"
+<Frank_Swift>	<playsFor>	<Fulham_F.C.>	<occursUntil>	"1943-##-##"
+<Cary-Hiroyuki_Tagawa>	<isCitizenOf>	<United_States>
+<Nikodimos_Papavasiliou>	<isAffiliatedTo>	<Manager_(association_football)>
+<Peter_Nicholas_(footballer)>	<wasBornIn>	<Newport,_Wales>
+<Mike_Walker_(Welsh_footballer)>	<playsFor>	<Reading_F.C.>	<occursSince>	"1963-##-##"
+<Mike_Walker_(Welsh_footballer)>	<playsFor>	<Reading_F.C.>	<occursUntil>	"1964-##-##"
+<Larry_Cohen>	<isCitizenOf>	<United_States>
+<Frances_McDormand>	<hasWonPrize>	<Drama_Desk_Award>
+<Danny_Elfman>	<wroteMusicFor>	<A_Simple_Plan_(film)>
+<Kevin_McLeod_(footballer)>	<isAffiliatedTo>	<Everton_F.C.>
+<Carlos_Tevez>	<isCitizenOf>	<China>
+<Shlomi_Arbeitman>	<isAffiliatedTo>	<Hapoel_Haifa_F.C.>
+<Sylvester_Stallone>	<actedIn>	<Oscar_(1991_film)>
+<Robbie_Findley>	<playsFor>	<United_States_men's_national_soccer_team>	<occursSince>	"2007-##-##"
+<Robbie_Findley>	<playsFor>	<United_States_men's_national_soccer_team>	<occursUntil>	"2010-##-##"
+<Phil_Spector>	<wasBornIn>	<The_Bronx>
+<Shefki_Kuqi>	<playsFor>	<Oldham_Athletic_A.F.C.>
+<Danny_Guthrie>	<playsFor>	<Newcastle_United_F.C.>	<occursSince>	"2008-##-##"
+<Danny_Guthrie>	<playsFor>	<Newcastle_United_F.C.>	<occursUntil>	"2012-##-##"
+<Danny_Coyne>	<isAffiliatedTo>	<Middlesbrough_F.C.>
+<Greg_Halford>	<playsFor>	<Cardiff_City_F.C.>
+<Kingston_upon_Hull>	<isLocatedIn>	<East_Riding_of_Yorkshire>
+<George_Lucas>	<graduatedFrom>	<University_of_Southern_California>
+<Robert_Loggia>	<actedIn>	<Lost_Highway_(film)>
+<Jae_Martin>	<isAffiliatedTo>	<Lincoln_City_F.C.>
+<Daniel_Nardiello>	<isAffiliatedTo>	<Bury_F.C.>
+<Josh_Homme>	<isCitizenOf>	<United_States>
+<Tony_Rougier>	<playsFor>	<Reading_F.C.>	<occursSince>	"2000-##-##"
+<Tony_Rougier>	<playsFor>	<Reading_F.C.>	<occursUntil>	"2003-##-##"
+<War_of_the_Fourth_Coalition>	<happenedIn>	<Germany>
+<Albano_Bizzarri>	<isAffiliatedTo>	<Delfino_Pescara_1936>
+<Michael_Phelps>	<isCitizenOf>	<England>
+<Tony_Warner>	<playsFor>	<Wellington_Phoenix_FC>
+<New_England_Conservatory_of_Music>	<isLocatedIn>	<Massachusetts>
+<Robert_F._Kennedy>	<graduatedFrom>	<Harvard_University>
+<Trevor_Aylott>	<isAffiliatedTo>	<Crystal_Palace_F.C.>
+<Marc_Nygaard>	<isCitizenOf>	<Belgium>
+<Nicky_Summerbee>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"2001-##-##"
+<Frank_Soo>	<isCitizenOf>	<Italy>
+<In_Your_House>	<isLocatedIn>	<Canada>
+<Tony_Witter>	<playsFor>	<Millwall_F.C.>	<occursSince>	"1994-##-##"
+<Tony_Witter>	<playsFor>	<Millwall_F.C.>	<occursUntil>	"1998-##-##"
+<Guy_Branston>	<playsFor>	<Lincoln_City_F.C.>
+<Queen_Victoria>	<created>	<Royal_Victorian_Order>
+<nl/UNAMIS>	<isLocatedIn>	<Norway>
+<Lee_Fowler>	<isAffiliatedTo>	<Kidderminster_Harriers_F.C.>
+<Jon_Newby>	<isAffiliatedTo>	<Crewe_Alexandra_F.C.>
+<Quincy_Jones>	<isCitizenOf>	<Wales>
+<Horace_Brindley>	<playsFor>	<Norwich_City_F.C.>
+<Scott_Canham>	<isAffiliatedTo>	<Leyton_Orient_F.C.>
+<Shaq_Coulthirst>	<isCitizenOf>	<England>
+<Sean_Newton>	<isCitizenOf>	<England>
+<Orlando_Engelaar>	<isAffiliatedTo>	<K.R.C._Genk>
+<Mischa_Barton>	<isCitizenOf>	<England>
+<Robert_F._Kennedy>	<diedIn>	<Los_Angeles>
+<Patrick_Kisnorbo>	<playsFor>	<Leeds_United_F.C.>	<occursSince>	"2009-##-##"
+<Patrick_Kisnorbo>	<playsFor>	<Leeds_United_F.C.>	<occursUntil>	"2013-##-##"
+<Chris_Wilder>	<isCitizenOf>	<England>
+<France>	<participatedIn>	<International_Force_for_East_Timor>
+<Aaron_Shure>	<wasBornIn>	<United_States>
+<Rick_Kline>	<isCitizenOf>	<United_States>
+<Dave_Rogers_(footballer,_born_1975)>	<playsFor>	<Dundee_F.C.>	<occursSince>	"1997-##-##"
+<Dave_Rogers_(footballer,_born_1975)>	<playsFor>	<Dundee_F.C.>	<occursUntil>	"1999-##-##"
+<Hancock_(film)>	<isLocatedIn>	<United_States>
+<Gerry_Creaney>	<isCitizenOf>	<Scotland>
+<Ludacris>	<created>	<Burning_Bridges_(Ludacris_EP)>
+<Neil_Warnock>	<isAffiliatedTo>	<Barnsley_F.C.>
+<Keith_Houchen>	<playsFor>	<Leyton_Orient_F.C.>	<occursSince>	"1982-##-##"
+<Keith_Houchen>	<playsFor>	<Leyton_Orient_F.C.>	<occursUntil>	"1984-##-##"
+<John_Sheridan_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Kasper_Schmeichel>	<playsFor>	<Notts_County_F.C.>	<occursSince>	"2009-##-##"
+<Kasper_Schmeichel>	<playsFor>	<Notts_County_F.C.>	<occursUntil>	"2010-##-##"
+<Adam_Rooney>	<isAffiliatedTo>	<Bury_F.C.>
+<Marvel_Entertainment>	<owns>	<Marvel_Comics>
+<Sean_Connery>	<actedIn>	<The_Name_of_the_Rose_(film)>
+<Barry_Siddall>	<isAffiliatedTo>	<Stockport_County_F.C.>
+<Graham_Potter>	<wasBornIn>	<Solihull>
+<Ryan_Reynolds>	<actedIn>	<Smokin'_Aces>
+<Keith_Rowland>	<isAffiliatedTo>	<Coventry_City_F.C.>
+<Graham_Newton>	<playsFor>	<Walsall_F.C.>	<occursSince>	"1962-##-##"
+<Graham_Newton>	<playsFor>	<Walsall_F.C.>	<occursUntil>	"1964-##-##"
+<Chris_Zebroski>	<playsFor>	<Swindon_Town_F.C.>	<occursSince>	"2003-##-##"
+<Chris_Zebroski>	<playsFor>	<Swindon_Town_F.C.>	<occursUntil>	"2004-##-##"
+<Sanchez_Watt>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Nikodimos_Papavasiliou>	<playsFor>	<Newcastle_United_F.C.>
+<Richard_Walker_(footballer,_born_1977)>	<isAffiliatedTo>	<Aston_Villa_F.C.>
+<Kevin_Phillips_(footballer)>	<isAffiliatedTo>	<Aston_Villa_F.C.>
+<Brian_Jackson_(footballer,_born_1933)>	<isAffiliatedTo>	<Burton_Albion_F.C.>
+<Richard_Key>	<wasBornIn>	<Cambridge>
+<Gavin_Hoyte>	<isAffiliatedTo>	<Arsenal_F.C.>
+<Tomislav_Ivić>	<isAffiliatedTo>	<HNK_Hajduk_Split>
+<Bow_Wow_(rapper)>	<isCitizenOf>	<United_States>
+<Scott_Sinclair>	<isCitizenOf>	<Scotland>
+<Chris_Adamson>	<isAffiliatedTo>	<Stockport_County_F.C.>
+<Scott_Loach>	<playsFor>	<Notts_County_F.C.>
+<Roberto_Di_Matteo>	<playsFor>	<Chelsea_F.C.>	<occursSince>	"1996-##-##"
+<Roberto_Di_Matteo>	<playsFor>	<Chelsea_F.C.>	<occursUntil>	"2002-##-##"
+<Van_Nest_Polglase>	<diedIn>	<Los_Angeles>
+<Hartford_Wolf_Pack>	<isLocatedIn>	<Hartford,_Connecticut>
+<Frances_McDormand>	<actedIn>	<Short_Cuts_(film)>
+<Bertrand_Bossu>	<isAffiliatedTo>	<Gillingham_F.C.>
+<Diane_Lane>	<actedIn>	<Casting_By>
+<Donna_Summer>	<wasBornIn>	<Boston>
+<Tim_Carter_(footballer)>	<isAffiliatedTo>	<Millwall_F.C.>
+<Shemp_Howard>	<isCitizenOf>	<United_States>
+<Sean_Dyche>	<playsFor>	<Luton_Town_F.C.>	<occursSince>	"1999-##-##"
+<Karl_Ready>	<isAffiliatedTo>	<Farnborough_F.C.>
+<Dave_Norton>	<playsFor>	<Hull_City_A.F.C.>
+<Cape_May_County,_New_Jersey>	<isLocatedIn>	<New_Jersey>
+<Loïc_Rémy>	<isAffiliatedTo>	<Olympique_Lyonnais>
+<Samuel_M._Comer>	<isCitizenOf>	<United_States>
+<Arkansas>	<isLocatedIn>	<United_States>
+<Julian_de_Guzman>	<isAffiliatedTo>	<Canada_men's_national_soccer_team>
+<John_Guidetti>	<isAffiliatedTo>	<Manchester_City_F.C.>
+<Madan_Puri>	<isCitizenOf>	<India>
+<Emerson_(footballer,_born_1972)>	<isCitizenOf>	<Cyprus>
+<Appalachian_Mountains>	<isLocatedIn>	<Virginia>
+<Paul_Musselwhite>	<isAffiliatedTo>	<Portsmouth_F.C.>
+<Maurizio_Iorio>	<isAffiliatedTo>	<F.C._Bari_1908>
+<Epsom>	<isLocatedIn>	<Surrey>
+<Alou_Diarra>	<playsFor>	<FC_Bayern_Munich>	<occursSince>	"2000-##-##"
+<Alou_Diarra>	<playsFor>	<FC_Bayern_Munich>	<occursUntil>	"2002-##-##"
+<49th_Annual_Grammy_Awards>	<isLocatedIn>	<Los_Angeles>
+<Owain_Tudur_Jones>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2005-##-##"
+<Owain_Tudur_Jones>	<playsFor>	<Swansea_City_A.F.C.>	<occursUntil>	"2009-##-##"
+<Bulawayo>	<isLocatedIn>	<Zimbabwe>
+<Bob_Ludwig>	<hasWonPrize>	<Grammy_Award>
+<Edmund_Husserl>	<graduatedFrom>	<Leipzig_University>
+<Chris_Sutton>	<playsFor>	<Birmingham_City_F.C.>	<occursSince>	"2006-##-##"
+<Maurizio_Iorio>	<isAffiliatedTo>	<Inter_Milan>
+<Darren_Ward_(footballer,_born_1974)>	<isAffiliatedTo>	<Notts_County_F.C.>
+<Richie_Foran>	<playsFor>	<Shelbourne_F.C.>
+<Anthony_Hopkins>	<actedIn>	<Thor_(film)>
+<Matuzalém>	<playsFor>	<S.S._Lazio>
+<Giovanni_Sio>	<isAffiliatedTo>	<SC_Bastia>
+<Andy_O'Brien_(footballer)>	<isAffiliatedTo>	<Bolton_Wanderers_F.C.>
+<Lisa_Kudrow>	<isCitizenOf>	<United_States>
+<Peter_Kyle>	<isAffiliatedTo>	<Leicester_City_F.C.>
+<Luigi_Radice>	<playsFor>	<A.C._Milan>	<occursSince>	"1955-##-##"
+<Luigi_Radice>	<playsFor>	<A.C._Milan>	<occursUntil>	"1965-##-##"
+<Rwanda>	<hasNeighbor>	<Democratic_Republic_of_the_Congo>
+<József_Viola>	<isAffiliatedTo>	<A.C._Milan>
+<State_highways_serving_Virginia_state_institutions>	<isLocatedIn>	<Fredericksburg,_Virginia>
+<Pamela_Adlon>	<hasWonPrize>	<Primetime_Emmy_Award>
+<Harry_Roberts_(footballer,_born_1907)>	<wasBornIn>	<Barrow-in-Furness>
+<Lee_Canoville>	<playsFor>	<Shrewsbury_Town_F.C.>	<occursSince>	"2007-##-##"
+<Arthur_Phoenix>	<playsFor>	<Shelbourne_F.C.>
+<Marcus_Hahnemann>	<isCitizenOf>	<Germany>
+<Carly_Simon>	<isCitizenOf>	<Spain>
+<Dave_Mackay>	<diedIn>	<Nottingham>
+<John_Michael_Higgins>	<actedIn>	<For_Your_Consideration_(film)>
+<Tom_Cowan>	<isAffiliatedTo>	<Huddersfield_Town_A.F.C.>
+<James_Ingram>	<wasBornIn>	<Akron,_Ohio>
+<Steven_Zaillian>	<hasWonPrize>	<Academy_Award_for_Best_Adapted_Screenplay>
+<Davide_Dionigi>	<playsFor>	<A.C._Milan>
+<Graham_Potter>	<playsFor>	<Stoke_City_F.C.>
+<Scott_McGarvey>	<playsFor>	<Manchester_United_F.C.>	<occursSince>	"1980-##-##"
+<Scott_McGarvey>	<playsFor>	<Manchester_United_F.C.>	<occursUntil>	"1984-##-##"
+<Salt_(2010_film)>	<isLocatedIn>	<United_States>
+<Barry_Siddall>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"1972-##-##"
+<Barry_Siddall>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"1976-##-##"
+<Mark_Nicholls>	<playsFor>	<Partick_Thistle_F.C.>
+<East_Asia>	<isLocatedIn>	<Guangzhou>
+<Tajikistan>	<dealsWith>	<Switzerland>
+<Larry_Fine>	<diedIn>	<Los_Angeles>
+<Sam_Togwell>	<isAffiliatedTo>	<Barnet_F.C.>
+<Mark_Rawle>	<playsFor>	<Kidderminster_Harriers_F.C.>	<occursSince>	"2005-##-##"
+<Van_Nuys>	<isLocatedIn>	<California>
+<Peter_Beadle>	<playsFor>	<Port_Vale_F.C.>
+<Winnipeg>	<isLocatedIn>	<Canada>
+<Michael_Laudrup>	<playsFor>	<S.S._Lazio>
+<Jeffrey_Bruma>	<playsFor>	<Chelsea_F.C.>	<occursSince>	"2009-##-##"
+<Jeffrey_Bruma>	<playsFor>	<Chelsea_F.C.>	<occursUntil>	"2013-##-##"
+<Modibo_Diakité>	<isAffiliatedTo>	<Frosinone_Calcio>
+<Andy_Gray_(footballer,_born_1964)>	<isAffiliatedTo>	<England_national_football_team>
+<Akiva_Schaffer>	<isCitizenOf>	<United_States>
+<James_Newton_Howard>	<wroteMusicFor>	<Mumford_(film)>
+<Gary_Barnett_(footballer)>	<playsFor>	<Oxford_United_F.C.>	<occursSince>	"1982-##-##"
+<Gary_Barnett_(footballer)>	<playsFor>	<Oxford_United_F.C.>	<occursUntil>	"1985-##-##"
+<Willem_Dafoe>	<actedIn>	<Mississippi_Burning>
+<Charles_Brackett>	<created>	<Sunset_Boulevard_(film)>
+<Stuart_Elliott_(footballer,_born_1977)>	<playsFor>	<Stockport_County_F.C.>	<occursSince>	"2000-##-##"
+<Alan_Daley>	<isAffiliatedTo>	<Cambridge_United_F.C.>
+<John_Rowlands_(footballer)>	<isAffiliatedTo>	<Crewe_Alexandra_F.C.>
+<Bram_Stoker>	<isCitizenOf>	<England>
+<I_Love_You_Phillip_Morris>	<isLocatedIn>	<United_States>
+<Martin_Thomas_(footballer,_born_1959)>	<isAffiliatedTo>	<Aston_Villa_F.C.>
+<Darren_Byfield>	<isAffiliatedTo>	<Millwall_F.C.>
+<Drissa_Diallo>	<isCitizenOf>	<France>
+<Fraizer_Campbell>	<isAffiliatedTo>	<Hull_City_A.F.C.>
+<Amara_Simba>	<isCitizenOf>	<France>
+<Mike_Oldfield>	<isCitizenOf>	<England>
+<Elizabeth_II>	<isCitizenOf>	<Australia>
+<Davide_Dionigi>	<playsFor>	<Spezia_Calcio>
+<Saddam_Hussein>	<isPoliticianOf>	<Iraq>
+<Liev_Schreiber>	<isCitizenOf>	<Scotland>
+<Paul_Ritchie_(footballer,_born_1975)>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"1999-##-##"
+<Paul_Ritchie_(footballer,_born_1975)>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"2000-##-##"
+<Andy_Dow>	<wasBornIn>	<Dundee>
+<CBS_Corporation>	<isLocatedIn>	<United_States>
+<Robert_Louis_Stevenson>	<influences>	<Arthur_Conan_Doyle>
+<Carl_Alford>	<playsFor>	<Stockport_County_F.C.>
+<Julie_Walters>	<isCitizenOf>	<England>
+<Paolo_Sammarco>	<isAffiliatedTo>	<A.C._ChievoVerona>
+<Somalia>	<dealsWith>	<United_Arab_Emirates>
+<Serbia>	<dealsWith>	<Italy>
+<Michael_Connelly>	<isCitizenOf>	<United_States>
+<Monroe,_Louisiana>	<isLocatedIn>	<Louisiana>
+<Marco_Zanchi>	<isCitizenOf>	<Italy>
+<Edward_Shearmur>	<wasBornIn>	<London>
+<Anaheim,_California>	<isLocatedIn>	<California>
+<Ryan_Lowe>	<playsFor>	<Crewe_Alexandra_F.C.>	<occursSince>	"2006-##-##"
+<Ryan_Lowe>	<playsFor>	<Crewe_Alexandra_F.C.>	<occursUntil>	"2008-##-##"
+<Jon_Parkin>	<playsFor>	<Cardiff_City_F.C.>
+<India>	<hasCurrency>	<Indian_rupee>
+<Elizabeth_McGovern>	<wasBornIn>	<Evanston,_Illinois>
+<The_Haunting_(1999_film)>	<isLocatedIn>	<United_States>
+<James_Beattie_(footballer)>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Juan_Pablo_Sorín>	<isCitizenOf>	<Argentina>
+<Gustavo_Franchin_Schiavolin>	<isCitizenOf>	<Russia>
+<Simon_Colosimo>	<playsFor>	<Manchester_City_F.C.>
+<Dimitris_Papadopoulos>	<isCitizenOf>	<Croatia>
+<Greece>	<participatedIn>	<Nicaraguan_Revolution>
+<Gerry_Peyton>	<playsFor>	<Brentford_F.C.>	<occursSince>	"1993-##-##"
+<Carol_Burnett>	<hasWonPrize>	<Primetime_Emmy_Award>
+<Late_Show_(CBS_TV_series)>	<isLocatedIn>	<United_States>
+<Shatrughan_Sinha>	<wasBornIn>	<Patna>
+<1932_Summer_Olympics>	<isLocatedIn>	<Los_Angeles>
+<Armand_Assante>	<actedIn>	<American_Gangster_(film)>
+<21st_Academy_Awards>	<isLocatedIn>	<United_States>
+<Jamaica>	<dealsWith>	<Canada>
+<Steven_Soderbergh>	<isCitizenOf>	<Sweden>
+<Tommy_Anderson_(footballer)>	<isAffiliatedTo>	<A.F.C._Bournemouth>
+<Vinny_Arkins>	<isCitizenOf>	<Republic_of_Ireland>
+<Another_Year_(film)>	<isLocatedIn>	<United_Kingdom>
+<Bob_Curry>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Dany_N'Guessan>	<playsFor>	<Lincoln_City_F.C.>	<occursSince>	"2007-##-##"
+<Dany_N'Guessan>	<playsFor>	<Lincoln_City_F.C.>	<occursUntil>	"2009-##-##"
+<Will_Buckley_(footballer)>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Linda_Cardellini>	<actedIn>	<Super_(2010_American_film)>
+<Darren_Potter>	<isCitizenOf>	<United_Kingdom>
+<Scott_Spencer_(footballer)>	<playsFor>	<Lincoln_City_F.C.>	<occursSince>	"2011-##-##"
+<Kumasi>	<isLocatedIn>	<Ghana>
+<Uche_Ikpeazu>	<isAffiliatedTo>	<Reading_F.C.>
+<Kieran_McAnespie>	<playsFor>	<A.F.C._Bournemouth>	<occursSince>	"2002-##-##"
+<Kasey_Keller>	<wasBornIn>	<Olympia,_Washington>
+<Matt_McNeil>	<playsFor>	<Cambridge_United_F.C.>
+<Patti_Smith>	<isCitizenOf>	<United_States>
+<Daniel_Kearns_(footballer)>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<Reece_Styche>	<playsFor>	<Macclesfield_Town_F.C.>
+<Chicago_metropolitan_area>	<isLocatedIn>	<Elgin,_Illinois>
+<Scott_McDonald>	<isCitizenOf>	<Australia>
+<Warren_Aspinall>	<isAffiliatedTo>	<Swansea_City_A.F.C.>
+<Brad_Friedel>	<isAffiliatedTo>	<United_States_men's_national_soccer_team>
+<Ryan_Brunt_(footballer)>	<isAffiliatedTo>	<Plymouth_Argyle_F.C.>
+<Basil_Poledouris>	<wroteMusicFor>	<RoboCop>
+<Charlie_Miller>	<isAffiliatedTo>	<SK_Brann>
+<Aly_Cissokho>	<isAffiliatedTo>	<France_national_football_team>
+<Paul_Evans_(footballer,_born_1974)>	<isAffiliatedTo>	<Swindon_Town_F.C.>
+<James_Newton_Howard>	<wroteMusicFor>	<The_Bourne_Legacy_(film)>
+<Jordan_Parkes>	<isAffiliatedTo>	<Chelmsford_City_F.C.>
+<11Eleven_Project>	<isLocatedIn>	<Philippines>
+<Federico_Giampaolo>	<isCitizenOf>	<Italy>
+<Steve_Zahn>	<hasWonPrize>	<Independent_Spirit_Awards>
+<Jimi_Hendrix>	<diedIn>	<Kensington>
+<Salma_Hayek>	<actedIn>	<Puss_in_Boots_(2011_film)>
+<Danny_Maddix>	<isAffiliatedTo>	<Grays_Athletic_F.C.>
+<Frederick_Mearns>	<isAffiliatedTo>	<Grays_Athletic_F.C.>
+<Carthage>	<isLocatedIn>	<Tunisia>
+<Chris_Eagles>	<isAffiliatedTo>	<Watford_F.C.>
+<Jamar_Loza>	<isCitizenOf>	<Jamaica>
+<Andros_Townsend>	<isCitizenOf>	<Cyprus>
+<Graham_Potter>	<playsFor>	<Birmingham_City_F.C.>
+<James_Wallace_(footballer,_born_1991)>	<wasBornIn>	<Liverpool>
+<Jérôme_Leroy_(footballer)>	<isAffiliatedTo>	<Le_Havre_AC>
+<Ray_Crawford_(footballer)>	<playsFor>	<Colchester_United_F.C.>	<occursSince>	"1970-##-##"
+<Ray_Crawford_(footballer)>	<playsFor>	<Colchester_United_F.C.>	<occursUntil>	"1971-##-##"
+<Ronnie_Wallwork>	<isAffiliatedTo>	<Manchester_United_F.C.>
+<Rocky_Mountains>	<isLocatedIn>	<Wyoming>
+<Adrian_Littlejohn>	<isAffiliatedTo>	<Walsall_F.C.>
+<Simeon_Hodson>	<isAffiliatedTo>	<Lincoln_City_F.C.>
+<Al_Green>	<livesIn>	<Memphis,_Tennessee>
+<Brian_Parkin>	<playsFor>	<Oldham_Athletic_A.F.C.>	<occursSince>	"1983-##-##"
+<Brian_Parkin>	<playsFor>	<Oldham_Athletic_A.F.C.>	<occursUntil>	"1985-##-##"
+<Van_Johnson>	<actedIn>	<The_Caine_Mutiny_(film)>
+<Des_Lyttle>	<isAffiliatedTo>	<West_Bromwich_Albion_F.C.>
+<Jack_Reynolds_(footballer,_born_1869)>	<playsFor>	<Aston_Villa_F.C.>	<occursSince>	"1893-##-##"
+<Jack_Reynolds_(footballer,_born_1869)>	<playsFor>	<Aston_Villa_F.C.>	<occursUntil>	"1897-##-##"
+<2009_Sundance_Film_Festival>	<isLocatedIn>	<Ogden,_Utah>
+<Wayne_Cegielski>	<isAffiliatedTo>	<Port_Vale_F.C.>
+<Kevin_Smith>	<created>	<Jersey_Girl_(2004_film)>
+<Iraq>	<dealsWith>	<Greece>
+<Patrick_McGoohan>	<actedIn>	<The_Phantom_(1996_film)>
+<Noah_Taylor>	<wasBornIn>	<London>
+<Ishmael_Miller>	<playsFor>	<Blackpool_F.C.>	<occursSince>	"2014-##-##"
+<Ishmael_Miller>	<playsFor>	<Blackpool_F.C.>	<occursUntil>	"2015-##-##"
+<Ryan_Hall_(footballer)>	<playsFor>	<Sheffield_United_F.C.>	<occursSince>	"2013-##-##"
+<Keith_Bertschin>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Himesh_Reshammiya>	<wasBornIn>	<Mumbai>
+<Ismaïl_Aissati>	<isAffiliatedTo>	<SBV_Vitesse>
+<John_Williams_(footballer,_born_1968)>	<playsFor>	<Stoke_City_F.C.>	<occursSince>	"1994-##-##"
+<Steve_Leo_Beleck>	<isCitizenOf>	<Belgium>
+<Zoran_Rajović>	<isAffiliatedTo>	<FK_Vojvodina>
+<Terry_Phelan>	<wasBornIn>	<Manchester>
+<Billy_Knott>	<isAffiliatedTo>	<Port_Vale_F.C.>
+<Bas_Savage>	<isAffiliatedTo>	<Bury_F.C.>
+<Gavin_Ward_(footballer)>	<playsFor>	<Hednesford_Town_F.C.>
+<2017_Romanian_protests>	<happenedIn>	<Vienna>
+<Georg_Wilhelm_Friedrich_Hegel>	<influences>	<Fredric_Jameson>
+<David_Giles_(footballer)>	<playsFor>	<Wrexham_A.F.C.>	<occursSince>	"1978-##-##"
+<David_Giles_(footballer)>	<playsFor>	<Wrexham_A.F.C.>	<occursUntil>	"1980-##-##"
+<Mark_Schwarzer>	<playsFor>	<Bradford_City_A.F.C.>	<occursSince>	"1996-##-##"
+<Mark_Schwarzer>	<playsFor>	<Bradford_City_A.F.C.>	<occursUntil>	"1997-##-##"
+<Matt_Stone>	<hasWonPrize>	<Laurence_Olivier_Award>
+<Richard_Burton>	<actedIn>	<Anne_of_the_Thousand_Days>
+<Edward_Dmytryk>	<isCitizenOf>	<United_States>
+<Russell_Brand>	<isCitizenOf>	<United_Kingdom>
+<Anne_Bancroft>	<isMarriedTo>	<Mel_Brooks>
+<Keith_Treacy>	<playsFor>	<Sheffield_Wednesday_F.C.>	<occursSince>	"2012-##-##"
+<Billy_Zane>	<actedIn>	<The_Believer_(film)>
+<Fred_Bevan>	<playsFor>	<Bury_F.C.>	<occursSince>	"1906-##-##"
+<Fred_Bevan>	<playsFor>	<Bury_F.C.>	<occursUntil>	"1907-##-##"
+<Scouting_in_California>	<isLocatedIn>	<Sacramento,_California>
+<Craig_Allardyce>	<isAffiliatedTo>	<Blackpool_F.C.>
+<Neville_Roach>	<playsFor>	<Farnborough_F.C.>
+<Drewe_Broughton>	<playsFor>	<Brentford_F.C.>	<occursSince>	"1998-##-##"
+<Billy_Crudup>	<graduatedFrom>	<University_of_North_Carolina_at_Chapel_Hill>
+<Amartya_Sen>	<livesIn>	<New_York>
+<Alejandro_Scopelli>	<isAffiliatedTo>	<Valencia_CF>
+<Jonathan_Walters>	<playsFor>	<Chester_City_F.C.>	<occursSince>	"2006-##-##"
+<Jonathan_Walters>	<playsFor>	<Chester_City_F.C.>	<occursUntil>	"2007-##-##"
+<Tom_Skerritt>	<actedIn>	<MASH_(film)>
+<René_Descartes>	<graduatedFrom>	<Leiden_University>
+<Guy_Branston>	<isAffiliatedTo>	<Rotherham_United_F.C.>
+<Andrew_Lloyd_Webber>	<isCitizenOf>	<England>
+<Alex_Mathie>	<playsFor>	<Celtic_F.C.>	<occursSince>	"1987-##-##"
+<Alex_Mathie>	<playsFor>	<Celtic_F.C.>	<occursUntil>	"1991-##-##"
+<Jordan_Rose>	<playsFor>	<A.F.C._Telford_United>
+<Jon_Dahl_Tomasson>	<isAffiliatedTo>	<Roda_JC_Kerkrade>
+<Terry_Howard>	<playsFor>	<Wycombe_Wanderers_F.C.>	<occursSince>	"1995-##-##"
+<Terry_Howard>	<playsFor>	<Wycombe_Wanderers_F.C.>	<occursUntil>	"1996-##-##"
+<Bill_Wyman>	<wasBornIn>	<Lewisham>
+<Colin_West>	<isCitizenOf>	<Scotland>
+<Carlton_Cuse>	<wasBornIn>	<Mexico_City>
+<Sam_Russell_(footballer,_born_1982)>	<isAffiliatedTo>	<Darlington_F.C.>
+<Kingdom_of_Romania>	<participatedIn>	<Operation_Barbarossa>
+<Ottoman_Empire>	<participatedIn>	<Napoleonic_Wars>
+<Ashley_Bayes>	<isAffiliatedTo>	<AFC_Wimbledon>
+<John_Eustace>	<isAffiliatedTo>	<Coventry_City_F.C.>
+<Oscar_Gobern>	<playsFor>	<Chesterfield_F.C.>	<occursSince>	"2014-##-##"
+<Kevin_Austin>	<isAffiliatedTo>	<Leyton_Orient_F.C.>
+<Lloyd_Opara>	<playsFor>	<Peterborough_United_F.C.>
+<Lampros_Choutos>	<playsFor>	<Inter_Milan>	<occursSince>	"2004-##-##"
+<Lampros_Choutos>	<playsFor>	<Inter_Milan>	<occursUntil>	"2007-##-##"
+<Stuart_Elliott_(footballer,_born_1977)>	<playsFor>	<Northwich_Victoria_F.C.>
+<Dani_Osvaldo>	<playsFor>	<Boca_Juniors>
+<War_of_the_Spanish_Succession>	<happenedIn>	<South_America>
+<Lesser_Antilles>	<isLocatedIn>	<Anguilla>
+<Chris_Coyne>	<playsFor>	<Australia_national_soccer_team>
+<Andy_Serkis>	<actedIn>	<Inkheart_(film)>
+<Colm_Feore>	<actedIn>	<Pearl_Harbor_(film)>
+<Kevin_Dearden>	<playsFor>	<Brentford_F.C.>
+<Neil_Tarrant>	<playsFor>	<Motherwell_F.C.>	<occursSince>	"2001-##-##"
+<Rodrigo_(footballer,_born_1991)>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"2010-##-##"
+<Rodrigo_(footballer,_born_1991)>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"2011-##-##"
+<Raúl_Díaz_Arce>	<playsFor>	<San_Jose_Earthquakes>
+<Dick_Advocaat>	<playsFor>	<Sparta_Rotterdam>	<occursSince>	"1980-##-##"
+<Dick_Advocaat>	<playsFor>	<Sparta_Rotterdam>	<occursUntil>	"1982-##-##"
+<2017_Romanian_protests>	<happenedIn>	<Cologne>
+<Josh_Low>	<isCitizenOf>	<Wales>
+<Rob_Corddry>	<isCitizenOf>	<United_States>
+<Russian_Empire>	<participatedIn>	<War_of_the_Fourth_Coalition>
+<Dave_Metchick>	<playsFor>	<Woking_F.C.>
+<Colin_Cameron_(footballer)>	<playsFor>	<Wolverhampton_Wanderers_F.C.>	<occursSince>	"2001-##-##"
+<Colin_Cameron_(footballer)>	<playsFor>	<Wolverhampton_Wanderers_F.C.>	<occursUntil>	"2006-##-##"
+<Philippe_Senderos>	<playsFor>	<Rangers_F.C.>
+<Keith_Bertschin>	<isCitizenOf>	<England>
+<Kazakhstan>	<dealsWith>	<Germany>
+<Andy_Linighan>	<isAffiliatedTo>	<Arsenal_F.C.>
+<John_van_Loen>	<isCitizenOf>	<Belgium>
+<Traianos_Dellas>	<isAffiliatedTo>	<Atromitos_F.C.>
+<George_Carlin>	<wasBornIn>	<New_York_City>
+<Brent_Sancho>	<isAffiliatedTo>	<Portland_Timbers>
+<Henry_Grace>	<isCitizenOf>	<United_States>
+<Habsburg_Monarchy>	<participatedIn>	<War_of_the_Polish_Succession>
+<Uma_Thurman>	<isCitizenOf>	<Scotland>
+<Danube>	<isLocatedIn>	<Croatia>
+<Elliot_Goldenthal>	<wroteMusicFor>	<Frida>
+<Antony_Sher>	<hasWonPrize>	<Drama_Desk_Award>
+<Brian_Rice_(footballer)>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Simon_Heslop>	<isAffiliatedTo>	<Northwich_Victoria_F.C.>
+<Mark_Wilson_(English_footballer)>	<isAffiliatedTo>	<Walsall_F.C.>
+<James_Chester>	<playsFor>	<Aston_Villa_F.C.>	<occursSince>	"2016-##-##"
+<Jon_Stone>	<isCitizenOf>	<United_States>
+<2017_Romanian_protests>	<happenedIn>	<Glasgow>
+<Tom_Cowan>	<isAffiliatedTo>	<Barrow_A.F.C.>
+<Shaun_Goater>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"2005-##-##"
+<Astrit_Ajdarević>	<isAffiliatedTo>	<AEK_Athens_F.C.>
+<Drewe_Broughton>	<isAffiliatedTo>	<Norwich_City_F.C.>
+<Fred_Pagnam>	<playsFor>	<Watford_F.C.>	<occursSince>	"1921-##-##"
+<Fred_Pagnam>	<playsFor>	<Watford_F.C.>	<occursUntil>	"1926-##-##"
+<James_Fox>	<wasBornIn>	<London>
+<Patrick_Agyemang>	<playsFor>	<Stevenage_F.C.>
+<Matt_Elliott_(footballer)>	<isAffiliatedTo>	<Leicester_City_F.C.>
+<Yale_Divinity_School>	<isLocatedIn>	<New_Haven,_Connecticut>
+<Nicky_Summerbee>	<playsFor>	<Tranmere_Rovers_F.C.>	<occursSince>	"2005-##-##"
+<Dennis_Rodman>	<isMarriedTo>	<Carmen_Electra>	<occursSince>	"1998-11-##"
+<Dennis_Rodman>	<isMarriedTo>	<Carmen_Electra>	<occursUntil>	"1999-04-##"
+<Geoff_Thomas_(footballer,_born_1964)>	<playsFor>	<Rochdale_A.F.C.>
+<Libya>	<hasNeighbor>	<Tunisia>
+<Aruna_Irani>	<wasBornIn>	<Mumbai>
+<Province_of_Como>	<isLocatedIn>	<Como>
+<Wayne_Biggins>	<isAffiliatedTo>	<Oxford_United_F.C.>
+<Lucien_Ballard>	<isCitizenOf>	<United_States>
+<Clint_Hill_(footballer)>	<playsFor>	<Queens_Park_Rangers_F.C.>
+<Pennine_Alps>	<isLocatedIn>	<Piedmont>
+<Allan_Holdsworth>	<wasBornIn>	<Bradford>
+<Epic_Soundtrax>	<isLocatedIn>	<Los_Angeles>
+<Amari_Morgan-Smith>	<wasBornIn>	<Wolverhampton>
+<Esteban_Cambiasso>	<wasBornIn>	<Buenos_Aires>
+<New_Zealand>	<dealsWith>	<Germany>
+<Arthur_Schopenhauer>	<isCitizenOf>	<Germany>
+<Alex_Taylor_(footballer)>	<playsFor>	<Partick_Thistle_F.C.>
+<Michael_Danzey>	<playsFor>	<Nottingham_Forest_F.C.>
+<Les_Ferdinand>	<playsFor>	<Tottenham_Hotspur_F.C.>
+<Alex_Rhodes_(footballer)>	<isCitizenOf>	<England>
+<Patrick_Kluivert>	<playsFor>	<Valencia_CF>	<occursSince>	"2005-##-##"
+<Patrick_Kluivert>	<playsFor>	<Valencia_CF>	<occursUntil>	"2006-##-##"
+<M._Night_Shyamalan>	<directed>	<The_Last_Airbender>
+<Rafik_Djebbour>	<isAffiliatedTo>	<Panionios_F.C.>
+<David_O._Russell>	<wasBornIn>	<Manhattan>
+<Charles_Darwin>	<isCitizenOf>	<Sweden>
+<Carl_Friedrich_Gauss>	<isCitizenOf>	<Netherlands>
+<Kemar_Roofe>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Jonson_Clarke-Harris>	<isAffiliatedTo>	<Peterborough_United_F.C.>
+<Otto_Pfister>	<isCitizenOf>	<Senegal>
+<Alan_Lee_(footballer)>	<isAffiliatedTo>	<Rotherham_United_F.C.>
+<Steve_Anthrobus>	<isAffiliatedTo>	<Hednesford_Town_F.C.>
+<Justin_Chambers>	<wasBornIn>	<Springfield,_Ohio>
+<Gary_Waddock>	<playsFor>	<Bristol_Rovers_F.C.>	<occursSince>	"1992-##-##"
+<Gary_Waddock>	<playsFor>	<Bristol_Rovers_F.C.>	<occursUntil>	"1994-##-##"
+<Brian_Taylor_(footballer,_born_1937)>	<isAffiliatedTo>	<Shrewsbury_Town_F.C.>
+<Scott_Barrett_(footballer)>	<isAffiliatedTo>	<Gillingham_F.C.>
+<Nick_Cusack>	<playsFor>	<Darlington_F.C.>	<occursSince>	"1992-##-##"
+<Monsef_Zerka>	<playsFor>	<Calcio_Catania>
+<Terrence_McNally>	<hasWonPrize>	<Tony_Award>
+<Jim_Harvey>	<playsFor>	<Bristol_City_F.C.>	<occursSince>	"1987-##-##"
+<Douglas_Adams>	<wasBornIn>	<Cambridge>
+<Lawrence_Kasdan>	<directed>	<Wyatt_Earp_(film)>
+<Jayne_Mansfield>	<isCitizenOf>	<England>
+<E._G._Marshall>	<isCitizenOf>	<United_States>
+<India>	<participatedIn>	<Operation_Enduring_Freedom_–_Horn_of_Africa>
+<David_Crown>	<playsFor>	<Brentford_F.C.>	<occursSince>	"1980-##-##"
+<David_Crown>	<playsFor>	<Brentford_F.C.>	<occursUntil>	"1981-##-##"
+<Cássio_Oliveira>	<isAffiliatedTo>	<Club_Olimpia>
+<Kinji_Fukasaku>	<diedIn>	<Tokyo>
+<Peru>	<dealsWith>	<China>
+<Carl_Bradshaw_(footballer)>	<isAffiliatedTo>	<Manchester_City_F.C.>
+<Ingmar_Bergman>	<isCitizenOf>	<United_States>
+<Electric_Daisy_Carnival>	<isLocatedIn>	<Dallas>
+<Josh_Walker_(English_footballer)>	<playsFor>	<Rotherham_United_F.C.>	<occursSince>	"2010-##-##"
+<Phil_Marsh>	<playsFor>	<Barrow_A.F.C.>
+<Elizabeth_II>	<isCitizenOf>	<Austria>
+<Tony_Scully>	<isAffiliatedTo>	<Manchester_City_F.C.>
+<Orange_County,_California>	<isLocatedIn>	<California>
+<József_Viola>	<isAffiliatedTo>	<Vicenza_Calcio>
+<Malaysia>	<participatedIn>	<United_Nations_Operation_in_Somalia_II>
+<Darryl_Flahavan>	<isAffiliatedTo>	<Crystal_Palace_F.C.>
+<Jyothika>	<hasWonPrize>	<Filmfare_Awards_South>
+<Scott_McDonald>	<isAffiliatedTo>	<A.F.C._Bournemouth>
+<Jonatan_Johansson_(footballer)>	<isAffiliatedTo>	<Norwich_City_F.C.>
+<David_Ogden_Stiers>	<actedIn>	<The_Hunchback_of_Notre_Dame_(1996_film)>
+<Phil_Stant>	<playsFor>	<Dover_Athletic_F.C.>
+<Craig_Rocastle>	<playsFor>	<Port_Vale_F.C.>	<occursSince>	"2007-##-##"
+<Craig_Rocastle>	<playsFor>	<Port_Vale_F.C.>	<occursUntil>	"2008-##-##"
+<George_V>	<isCitizenOf>	<Wales>
+<Cyndi_Lauper>	<isCitizenOf>	<Germany>
+<Anthony_Pulis>	<playsFor>	<Aldershot_Town_F.C.>
+<David_Brightwell>	<playsFor>	<Bradford_City_A.F.C.>
+<Marc_North>	<playsFor>	<Scunthorpe_United_F.C.>	<occursSince>	"1986-##-##"
+<Hayden_Foxe>	<playsFor>	<Leeds_United_F.C.>	<occursSince>	"2006-##-##"
+<Hayden_Foxe>	<playsFor>	<Leeds_United_F.C.>	<occursUntil>	"2007-##-##"
+<Frankie_Sutherland>	<isAffiliatedTo>	<Woking_F.C.>
+<Kevin_Gallen>	<playsFor>	<Luton_Town_F.C.>	<occursSince>	"2008-##-##"
+<Kevin_Gallen>	<playsFor>	<Luton_Town_F.C.>	<occursUntil>	"2009-##-##"
+<Rosemary_Harris>	<actedIn>	<Sunshine_(1999_film)>
+<Andy_Petterson>	<playsFor>	<Southend_United_F.C.>
+<Gabriel_Heinze>	<isCitizenOf>	<Panama>
+<Sam_Jennings>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<Nathan_Fillion>	<actedIn>	<Super_(2010_American_film)>
+<George_Orwell>	<isCitizenOf>	<Spain>
+<Simon_Walton>	<playsFor>	<Sheffield_United_F.C.>	<occursSince>	"2010-##-##"
+<Marco_Baroni>	<isAffiliatedTo>	<Delfino_Pescara_1936>
+<Julia_Roberts>	<isMarriedTo>	<Lyle_Lovett>	<occursSince>	"1993-##-##"
+<Julia_Roberts>	<isMarriedTo>	<Lyle_Lovett>	<occursUntil>	"1995-##-##"
+<Dominic_Blizzard>	<isAffiliatedTo>	<Plymouth_Argyle_F.C.>
+<Christian_Eduardo_Giménez>	<isAffiliatedTo>	<Hertha_BSC>
+<David_Hilbert>	<isCitizenOf>	<Russia>
+<Hugo_Weaving>	<isCitizenOf>	<United_Kingdom>
+<Assassins_(film)>	<isLocatedIn>	<United_States>
+<Amelia_(film)>	<isLocatedIn>	<Canada>
+<Shohreh_Aghdashloo>	<hasWonPrize>	<Independent_Spirit_Awards>
+<Alex_Rodman>	<isAffiliatedTo>	<Notts_County_F.C.>
+<James_O'Connor_(footballer,_born_1984)>	<playsFor>	<Walsall_F.C.>
+<Olof_Mellberg>	<isAffiliatedTo>	<AIK_Fotboll>
+<Jason_Kidd>	<isAffiliatedTo>	<Phoenix_Suns>
+<John_Fashanu>	<playsFor>	<Aston_Villa_F.C.>	<occursSince>	"1994-##-##"
+<John_Fashanu>	<playsFor>	<Aston_Villa_F.C.>	<occursUntil>	"1995-##-##"
+<The_Scorpion_King>	<isLocatedIn>	<Germany>
+<Kenny_Burns>	<playsFor>	<Derby_County_F.C.>	<occursSince>	"1984-##-##"
+<Kenny_Burns>	<playsFor>	<Derby_County_F.C.>	<occursUntil>	"1985-##-##"
+<Paul_Allen_(footballer)>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<Lee_Hodges_(footballer,_born_1978)>	<playsFor>	<Ipswich_Town_F.C.>	<occursSince>	"1998-##-##"
+<Simeon_Jackson>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"2014-##-##"
+<Simeon_Jackson>	<playsFor>	<Coventry_City_F.C.>	<occursUntil>	"2015-##-##"
+<Oliver_Bozanic>	<isCitizenOf>	<Switzerland>
+<Dean_Brill>	<playsFor>	<Oldham_Athletic_A.F.C.>	<occursSince>	"2009-##-##"
+<Dean_Brill>	<playsFor>	<Oldham_Athletic_A.F.C.>	<occursUntil>	"2011-##-##"
+<Abel_Xavier>	<playsFor>	<Everton_F.C.>
+<St._Louis_Blues>	<isLocatedIn>	<Missouri>
+<Ray_Hankin>	<isCitizenOf>	<England>
+<Dominic_West>	<livesIn>	<Hammersmith>
+<Joseph_S._O'Leary>	<isInterestedIn>	<Georg_Wilhelm_Friedrich_Hegel>
+<Mike_Marsh_(footballer)>	<isAffiliatedTo>	<Galatasaray_S.K._(football)>
+<Gary_Kelly_(footballer,_born_1966)>	<playsFor>	<Sheffield_United_F.C.>
+<Brian_Austin_Green>	<isCitizenOf>	<United_States>
+<Will_Ferrell>	<isCitizenOf>	<United_States>
+<Paul_Fitzpatrick>	<isCitizenOf>	<England>
+<John_Guidetti>	<isAffiliatedTo>	<Celtic_F.C.>
+<Steve_Taylor_(footballer)>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<Crispin_Freeman>	<isCitizenOf>	<United_States>
+<Aron_Winter>	<isAffiliatedTo>	<AFC_Ajax>
+<Bondz_N'Gala>	<isAffiliatedTo>	<Yeovil_Town_F.C.>
+<Peter_Ramage>	<playsFor>	<Newcastle_United_F.C.>	<occursSince>	"2004-##-##"
+<Peter_Ramage>	<playsFor>	<Newcastle_United_F.C.>	<occursUntil>	"2008-##-##"
+<Antoine_Sibierski>	<playsFor>	<Newcastle_United_F.C.>	<occursSince>	"2006-##-##"
+<Antoine_Sibierski>	<playsFor>	<Newcastle_United_F.C.>	<occursUntil>	"2007-##-##"
+<Lee_Morris_(footballer)>	<isAffiliatedTo>	<Hereford_United_F.C.>
+<Matt_Jackson>	<isAffiliatedTo>	<Watford_F.C.>
+<Mark_Hamill>	<actedIn>	<Star_Wars_Holiday_Special>
+<Zoran_Rajović>	<isCitizenOf>	<Israel>
+<Krisztián_Németh>	<isCitizenOf>	<Hungary>
+<Ronald_Reagan>	<isMarriedTo>	<Jane_Wyman>	<occursSince>	"1940-01-26"
+<Ronald_Reagan>	<isMarriedTo>	<Jane_Wyman>	<occursUntil>	"1949-07-19"
+<Anatole_Litvak>	<diedIn>	<Neuilly-sur-Seine>
+<Thomas_Edison>	<isCitizenOf>	<United_States>
+<Romano_Perticone>	<playsFor>	<U.C._Sampdoria>
+<Niels_Bohr>	<wasBornIn>	<Copenhagen>
+<Paul_Bannon>	<playsFor>	<Cardiff_City_F.C.>	<occursSince>	"1984-##-##"
+<Brett_Angell>	<isAffiliatedTo>	<Walsall_F.C.>
+<John_Moncur>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<Maulik_Pancholy>	<isCitizenOf>	<India>
+<United_States>	<participatedIn>	<Apache_Wars>
+<Clinton_Morrison>	<isCitizenOf>	<England>
+<John_Byrne_(footballer,_born_1939)>	<isAffiliatedTo>	<Barnsley_F.C.>
+<Jon_Beswetherick>	<isAffiliatedTo>	<Kidderminster_Harriers_F.C.>
+<Alex_Cisak>	<isAffiliatedTo>	<Leyton_Orient_F.C.>
+<UEFA>	<isLocatedIn>	<Europe>
+<Jay_Bothroyd>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"2000-##-##"
+<Jay_Bothroyd>	<playsFor>	<Coventry_City_F.C.>	<occursUntil>	"2003-##-##"
+<Bruce_Greenwood>	<actedIn>	<Swept_Away_(2002_film)>
+<Graham_Greene_(actor)>	<actedIn>	<The_Green_Mile_(film)>
+<Gale_Anne_Hurd>	<isCitizenOf>	<United_States>
+<Sean_Astin>	<actedIn>	<Click_(2006_film)>
+<David_Davis_(footballer)>	<isAffiliatedTo>	<Darlington_F.C.>
+<Clint_Eastwood>	<directed>	<Million_Dollar_Baby>
+<Daniel_Webb_(footballer)>	<playsFor>	<Hull_City_A.F.C.>	<occursSince>	"2002-##-##"
+<Daniel_Webb_(footballer)>	<playsFor>	<Hull_City_A.F.C.>	<occursUntil>	"2004-##-##"
+<Louis_Saha>	<wasBornIn>	<Paris>
+<Rod_Steiger>	<isCitizenOf>	<France>
+<Jonny_Margetts>	<playsFor>	<Tranmere_Rovers_F.C.>	<occursSince>	"2015-##-##"
+<Jonny_Margetts>	<playsFor>	<Tranmere_Rovers_F.C.>	<occursUntil>	"2016-##-##"
+<Lee_Ho_(footballer,_born_1984)>	<isAffiliatedTo>	<South_Korea_national_football_team>
+<Colin_Cramb>	<isAffiliatedTo>	<Bristol_City_F.C.>
+<Ginger_Rogers>	<wasBornIn>	<Independence,_Missouri>
+<Craig_Davies_(footballer)>	<isAffiliatedTo>	<Brighton_&_Hove_Albion_F.C.>
+<Abel_Xavier>	<isAffiliatedTo>	<PSV_Eindhoven>
+<Gregor_Rioch>	<isAffiliatedTo>	<Macclesfield_Town_F.C.>
+<David_Boreanaz>	<isCitizenOf>	<Slovenia>
+<Adam_Griffiths>	<isCitizenOf>	<Australia>
+<Law_&_Order>	<isLocatedIn>	<United_States>
+<Peter_Stone>	<hasWonPrize>	<Emmy_Award>
+<Ventura,_California>	<isLocatedIn>	<United_States>
+<Wayne_Gray_(footballer)>	<isAffiliatedTo>	<Grays_Athletic_F.C.>
+<Pablo_Mills>	<isAffiliatedTo>	<Derby_County_F.C.>
+<Ed_Helms>	<actedIn>	<The_Hangover>
+<Carlos_Tevez>	<isCitizenOf>	<Argentina>
+<Jack_Warden>	<actedIn>	<Bulworth>
+<Kei_Kamara>	<isAffiliatedTo>	<Sierra_Leone_national_football_team>
+<Girl,_Interrupted_(film)>	<isLocatedIn>	<United_States>
+<Chris_Killen>	<playsFor>	<Wrexham_A.F.C.>
+<George_Hamilton_(actor)>	<actedIn>	<The_Godfather_Part_III>
+<Lee_Martin_(footballer,_born_1987)>	<playsFor>	<Wimbledon_F.C.>	<occursSince>	"2003-##-##"
+<Vladimir_Petrović>	<isAffiliatedTo>	<Red_Star_Belgrade>
+<Kelly_Preston>	<actedIn>	<Jerry_Maguire>
+<Heiner_Backhaus>	<playsFor>	<Olympiakos_Nicosia>
+<George_Segal>	<isCitizenOf>	<Russia>
+<Nick_Wright_(footballer,_born_1987)>	<isCitizenOf>	<England>
+<Christian_Vieri>	<playsFor>	<A.C._Milan>	<occursSince>	"2005-##-##"
+<Christian_Vieri>	<playsFor>	<A.C._Milan>	<occursUntil>	"2006-##-##"
+<Paul_Haggis>	<livesIn>	<Santa_Monica,_California>
+<James_Horner>	<created>	<Willow_(film)>
+<Sabri_Lamouchi>	<isAffiliatedTo>	<Inter_Milan>
+<Harry_Gregson-Williams>	<wroteMusicFor>	<Kingdom_of_Heaven_(film)>
+<Bridget_Fonda>	<isCitizenOf>	<Netherlands>
+<Emmanuel_Omoyinmi>	<playsFor>	<Oxford_United_F.C.>	<occursSince>	"2000-##-##"
+<Emmanuel_Omoyinmi>	<playsFor>	<Oxford_United_F.C.>	<occursUntil>	"2004-##-##"
+<Kyle_MacLachlan>	<actedIn>	<The_Flintstones_(film)>
+<Ben_Chorley>	<playsFor>	<Arsenal_F.C.>	<occursSince>	"2001-##-##"
+<Ben_Chorley>	<playsFor>	<Arsenal_F.C.>	<occursUntil>	"2003-##-##"
+<Arthur_Sharp_(footballer)>	<playsFor>	<Reading_F.C.>	<occursSince>	"1928-##-##"
+<Kris_Taylor>	<playsFor>	<Manchester_United_F.C.>	<occursSince>	"2001-##-##"
+<Kris_Taylor>	<playsFor>	<Manchester_United_F.C.>	<occursUntil>	"2003-##-##"
+<Robert_Vaughn>	<isCitizenOf>	<United_States>
+<Jennifer_Love_Hewitt>	<isCitizenOf>	<France>
+<Gus_Uhlenbeek>	<playsFor>	<Mansfield_Town_F.C.>
+<Joey_Barton>	<playsFor>	<Olympique_de_Marseille>	<occursSince>	"2012-##-##"
+<Joey_Barton>	<playsFor>	<Olympique_de_Marseille>	<occursUntil>	"2013-##-##"
+<Claudio_Ranieri>	<playsFor>	<Calcio_Catania>	<occursSince>	"1982-##-##"
+<Claudio_Ranieri>	<playsFor>	<Calcio_Catania>	<occursUntil>	"1984-##-##"
+<Bonnie_Hunt>	<actedIn>	<A_Bug's_Life>
+<Mickaël_Antoine-Curier>	<playsFor>	<Oldham_Athletic_A.F.C.>
+<Wayne_Routledge>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursSince>	"2009-##-##"
+<Wayne_Routledge>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursUntil>	"2010-##-##"
+<Geoff_Thomas_(footballer,_born_1964)>	<isAffiliatedTo>	<Crewe_Alexandra_F.C.>
+<David_Hibbert>	<playsFor>	<Preston_North_End_F.C.>	<occursSince>	"2005-##-##"
+<David_Hibbert>	<playsFor>	<Preston_North_End_F.C.>	<occursUntil>	"2007-##-##"
+<Jennifer_Lopez>	<isCitizenOf>	<Puerto_Rico>
+<Artie_Lange>	<wasBornIn>	<Livingston,_New_Jersey>
+<Steve_Torpey_(footballer,_born_1970)>	<isAffiliatedTo>	<Scunthorpe_United_F.C.>
+<Tony_Cottee>	<isAffiliatedTo>	<England_national_football_team>
+<Matthew_Perry>	<isCitizenOf>	<United_States>
+<Nathan_Delfouneso>	<playsFor>	<Burnley_F.C.>	<occursSince>	"2011-##-##"
+<Edward_Said>	<wasBornIn>	<Jerusalem>
+<State_of_Mexico>	<isLocatedIn>	<Mexico>
+<Seol_Ki-hyeon>	<isCitizenOf>	<England>
+<Gordon_Cowans>	<isCitizenOf>	<England>
+<Alex_Smith_(footballer,_born_1976)>	<isCitizenOf>	<England>
+<Belgrade>	<isLocatedIn>	<Serbia>
+<Graham_Roberts>	<isAffiliatedTo>	<West_Bromwich_Albion_F.C.>
+<Marc_Goodfellow>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2004-##-##"
+<Marc_Goodfellow>	<playsFor>	<Swansea_City_A.F.C.>	<occursUntil>	"2006-##-##"
+<Chris_Pronger>	<isCitizenOf>	<Canada>
+<Carlos_Ruiz_(Guatemalan_footballer)>	<playsFor>	<D.C._United>
+<Hugo_Weaving>	<actedIn>	<The_Matrix>
+<Anil_Kapoor>	<isCitizenOf>	<India>
+<Jason_van_Blerk>	<isAffiliatedTo>	<Millwall_F.C.>
+<Normandy>	<isLocatedIn>	<Rouen>
+<Warren_Feeney>	<isAffiliatedTo>	<Sheffield_Wednesday_F.C.>
+<Paul_Holsgrove>	<isAffiliatedTo>	<Brighton_&_Hove_Albion_F.C.>
+<Terry_Dunfield>	<isAffiliatedTo>	<Canada_men's_national_soccer_team>
+<Ariel_Graziani>	<isAffiliatedTo>	<Newell's_Old_Boys>
+<Daniel_Jones_(footballer)>	<isAffiliatedTo>	<Notts_County_F.C.>
+<Lewis_Montrose>	<isAffiliatedTo>	<Wigan_Athletic_F.C.>
+<Luke_Daniels>	<isCitizenOf>	<England>
+<Tangled>	<isLocatedIn>	<United_States>
+<46th_Academy_Awards>	<happenedIn>	<Dorothy_Chandler_Pavilion>
+<Randy_Travis>	<isCitizenOf>	<United_States>
+<Byron_Webster>	<playsFor>	<Harrogate_Town_F.C.>	<occursSince>	"2007-##-##"
+<Lee_J._Cobb>	<actedIn>	<The_Exorcist_(film)>
+<Darren_Ward_(footballer,_born_1974)>	<playsFor>	<Nottingham_Forest_F.C.>	<occursSince>	"2001-##-##"
+<Darren_Ward_(footballer,_born_1974)>	<playsFor>	<Nottingham_Forest_F.C.>	<occursUntil>	"2004-##-##"
+<XXX_(2002_film)>	<isLocatedIn>	<United_States>
+<Burt_Lancaster>	<hasWonPrize>	<Venice_Film_Festival>
+<Chris_Crowe>	<wasBornIn>	<Newcastle_upon_Tyne>
+<Clayton_McDonald>	<isCitizenOf>	<England>
+<Harry_Worley>	<playsFor>	<Stevenage_F.C.>	<occursSince>	"2014-##-##"
+<Harry_Worley>	<playsFor>	<Stevenage_F.C.>	<occursUntil>	"2015-##-##"
+<Art_Carney>	<actedIn>	<Last_Action_Hero>
+<Chris_Cooper>	<actedIn>	<Capote_(film)>
+<Walter_Samuel>	<playsFor>	<Newell's_Old_Boys>	<occursSince>	"1996-##-##"
+<Walter_Samuel>	<playsFor>	<Newell's_Old_Boys>	<occursUntil>	"1997-##-##"
+<Jimmy_Fallon>	<hasWonPrize>	<Grammy_Award>
+<Harry_Warren>	<wasBornIn>	<Brooklyn>
+<Emyr_Huws>	<playsFor>	<Manchester_City_F.C.>	<occursSince>	"2012-##-##"
+<Emyr_Huws>	<playsFor>	<Manchester_City_F.C.>	<occursUntil>	"2014-##-##"
+<Ben_Affleck>	<actedIn>	<Dogma_(film)>
+<Iago_Falque>	<playsFor>	<Genoa_C.F.C.>
+<Hillsborough_County,_New_Hampshire>	<isLocatedIn>	<Nashua,_New_Hampshire>
+<Billy_Hendry>	<playsFor>	<Dundee_F.C.>	<occursSince>	"1895-##-##"
+<Chevy_Chase>	<wasBornIn>	<New_York_City>
+<English_Civil_War>	<happenedIn>	<Kingdom_of_England>
+<Wyatt_Cenac>	<isCitizenOf>	<United_States>
+<Eric_Wynalda>	<playsFor>	<New_England_Revolution>
+<Glen_Southam>	<playsFor>	<Eastleigh_F.C.>
+<Wayne_Dyer_(footballer)>	<playsFor>	<Walsall_F.C.>	<occursSince>	"1998-##-##"
+<Jacques_Derrida>	<influences>	<Edward_Said>
+<Mel_Brooks>	<wasBornIn>	<Brooklyn>
+<Michael_Shannon>	<actedIn>	<Take_Shelter>
+<James_Beattie_(footballer)>	<playsFor>	<Rangers_F.C.>	<occursSince>	"2010-##-##"
+<James_Beattie_(footballer)>	<playsFor>	<Rangers_F.C.>	<occursUntil>	"2011-##-##"
+<Ralph_Bellamy>	<isCitizenOf>	<United_States>
+<Carol_Burnett>	<isCitizenOf>	<United_States>
+<Eritrea>	<participatedIn>	<Operation_Enduring_Freedom_–_Horn_of_Africa>
+<James_L._Brooks>	<hasWonPrize>	<Writers_Guild_of_America_Award>
+<United_States>	<participatedIn>	<Operation_Serval>
+<Amartya_Sen>	<isCitizenOf>	<Bangladesh>
+<Emanuele_Pesaresi>	<isAffiliatedTo>	<Ternana_Calcio>
+<St._Louis_Blues>	<isLocatedIn>	<St._Louis>
+<Rajinikanth>	<wasBornIn>	<Bangalore>
+<Albert_Holmes_(footballer,_born_1885)>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"1911-##-##"
+<Albert_Holmes_(footballer,_born_1885)>	<playsFor>	<Coventry_City_F.C.>	<occursUntil>	"1914-##-##"
+<Copenhagen>	<isLocatedIn>	<Denmark>
+<Vietnam>	<isLocatedIn>	<Asia>
+<Yossi_Benayoun>	<playsFor>	<West_Ham_United_F.C.>	<occursSince>	"2005-##-##"
+<Yossi_Benayoun>	<playsFor>	<West_Ham_United_F.C.>	<occursUntil>	"2007-##-##"
+<Chris_Kettings>	<playsFor>	<Crystal_Palace_F.C.>	<occursSince>	"2014-##-##"
+<Chris_Kettings>	<playsFor>	<Crystal_Palace_F.C.>	<occursUntil>	"2016-##-##"
+<Tim_Carter_(footballer)>	<isCitizenOf>	<England>
+<Bruno_Marioni>	<isAffiliatedTo>	<Villarreal_CF>
+<Gérson_Magrão>	<isAffiliatedTo>	<Clube_de_Regatas_do_Flamengo>
+<Walter_Novellino>	<isCitizenOf>	<Italy>
+<Billy_Davies>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Greg_Pearson>	<playsFor>	<Kidderminster_Harriers_F.C.>
+<Courtney_Pitt>	<wasBornIn>	<Paddington>
+<Michael_Chabon>	<hasWonPrize>	<Nebula_Award>
+<Isaiah_Washington>	<wasBornIn>	<Houston>
+<Chris_Whyte>	<playsFor>	<West_Bromwich_Albion_F.C.>	<occursSince>	"1988-##-##"
+<Chris_Whyte>	<playsFor>	<West_Bromwich_Albion_F.C.>	<occursUntil>	"1990-##-##"
+<George_Carlin>	<influences>	<Whoopi_Goldberg>
+<Dean_Hammond>	<isAffiliatedTo>	<Colchester_United_F.C.>
+<Peter_Gilbert>	<isAffiliatedTo>	<Leicester_City_F.C.>
+<Saša_Ilić_(footballer,_born_1972)>	<isAffiliatedTo>	<Portsmouth_F.C.>
+<Eli_Wallach>	<actedIn>	<The_Holiday>
+<Cuca_(footballer)>	<playsFor>	<Sport_Club_Internacional>	<occursSince>	"1991-##-##"
+<Neil_Heaney>	<isCitizenOf>	<England>
+<Michel_Kuipers>	<wasBornIn>	<Amsterdam>
+<Jimmy_Gauld>	<isAffiliatedTo>	<Everton_F.C.>
+<John_Michael_Higgins>	<actedIn>	<Evan_Almighty>
+<Billy_Hendry>	<isAffiliatedTo>	<Kidderminster_Harriers_F.C.>
+<Ronald_D._Moore>	<isCitizenOf>	<United_States>
+<Willem_Dafoe>	<actedIn>	<Spider-Man_(2002_film)>
+<David_Beckham>	<isAffiliatedTo>	<England_national_football_team>
+<Ian_Fleming>	<isCitizenOf>	<United_Kingdom>
+<Lilo_&_Stitch>	<isLocatedIn>	<United_States>
+<Mark_Bowen_(footballer)>	<isAffiliatedTo>	<Stoke_City_F.C.>
+<Carole_Lombard>	<isMarriedTo>	<Clark_Gable>	<occursSince>	"1939-##-##"
+<Turkey>	<dealsWith>	<Iraq>
+<Bob_Hatton>	<isCitizenOf>	<England>
+<Juan_Esnáider>	<isAffiliatedTo>	<Argentina_national_football_team>
+<Macalester_College>	<isLocatedIn>	<Minnesota>
+<Michael_Giacchino>	<isCitizenOf>	<United_States>
+<The_Surreal_Life>	<isLocatedIn>	<United_States>
+<Ian_James_Corlett>	<livesIn>	<Palm_Springs,_California>
+<Lee_Chapman>	<playsFor>	<Southend_United_F.C.>
+<Union_of_South_Africa>	<participatedIn>	<Korean_War>
+<Lawrie_Madden>	<playsFor>	<Mansfield_Town_F.C.>	<occursSince>	"1975-##-##"
+<Lawrie_Madden>	<playsFor>	<Mansfield_Town_F.C.>	<occursUntil>	"1978-##-##"
+<Sylvia_Sidney>	<diedIn>	<New_York>
+<Jimmy_Kennedy_(footballer)>	<isAffiliatedTo>	<Swindon_Town_F.C.>
+<Meagan_Good>	<actedIn>	<The_Love_Guru>
+<Bridesmaids_(2011_film)>	<isLocatedIn>	<United_States>
+<Djamel_Abdoun>	<isAffiliatedTo>	<CS_Sedan_Ardennes>
+<Gwyneth_Paltrow>	<isCitizenOf>	<Netherlands>
+<Grand_Rapids,_Michigan>	<isLocatedIn>	<Michigan>
+<Michael_Spillane_(footballer)>	<isAffiliatedTo>	<Southend_United_F.C.>
+<David_O._Selznick>	<isCitizenOf>	<United_States>
+<Pasquale_Foggia>	<playsFor>	<A.C._Milan>
+<Berkshire>	<isLocatedIn>	<South_East_England>
+<Julie_Christie>	<isCitizenOf>	<England>
+<Pat_Terry>	<isAffiliatedTo>	<Northampton_Town_F.C.>
+<Chris_Arthur>	<playsFor>	<AFC_Wimbledon>
+<Joe_Anyinsah>	<playsFor>	<Bury_F.C.>	<occursSince>	"2006-##-##"
+<Bon_Jovi>	<hasWonPrize>	<World_Music_Awards>
+<Youngstown,_Ohio>	<isLocatedIn>	<Trumbull_County,_Ohio>
+<Matt_Fry>	<playsFor>	<Gillingham_F.C.>	<occursSince>	"2009-##-##"
+<Matt_Fry>	<playsFor>	<Gillingham_F.C.>	<occursUntil>	"2010-##-##"
+<Jermaine_Pennant>	<isAffiliatedTo>	<Wigan_Athletic_F.C.>
+<Garry_Chalk>	<livesIn>	<British_Columbia>
+<Byron_Webster>	<isAffiliatedTo>	<Harrogate_Town_F.C.>
+<Donal_Murphy>	<isAffiliatedTo>	<Shelbourne_F.C.>
+<Wayne_Clarke_(footballer)>	<playsFor>	<Stoke_City_F.C.>	<occursSince>	"1991-##-##"
+<Sid_Jones>	<isAffiliatedTo>	<Swansea_City_A.F.C.>
+<Abigail_Breslin>	<actedIn>	<Zombieland>
+<Patrick_Kisnorbo>	<playsFor>	<Heart_of_Midlothian_F.C.>	<occursSince>	"2003-##-##"
+<Patrick_Kisnorbo>	<playsFor>	<Heart_of_Midlothian_F.C.>	<occursUntil>	"2005-##-##"
+<Carlos_Bocanegra>	<isAffiliatedTo>	<Rangers_F.C.>
+<Worcester_County,_Massachusetts>	<isLocatedIn>	<Worcester,_Massachusetts>
+<John_Turner_(footballer,_born_1954)>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursSince>	"1974-##-##"
+<Giovani_dos_Santos>	<isAffiliatedTo>	<Tottenham_Hotspur_F.C.>
+<Julian_Joachim>	<isAffiliatedTo>	<Coventry_City_F.C.>
+<Tina_Fey>	<isCitizenOf>	<Greece>
+<Rudi_Skácel>	<isAffiliatedTo>	<Southampton_F.C.>
+<Reece_Brown>	<isCitizenOf>	<England>
+<Peter_Tork>	<isCitizenOf>	<Norway>
+<Donna_Summer>	<hasWonPrize>	<Grammy_Award>
+<Keith_Edwards_(footballer,_born_1957)>	<isAffiliatedTo>	<Stockport_County_F.C.>
+<Béla_Guttmann>	<isAffiliatedTo>	<Panathinaikos_F.C.>
+<Koei_Tecmo>	<isLocatedIn>	<Kanagawa_Prefecture>
+<Clint_Eastwood>	<directed>	<Hereafter_(film)>
+<2013–14_chikungunya_outbreak>	<happenedIn>	<Cayman_Islands>
+<K.A.A._Gent>	<isLocatedIn>	<Ghent>
+<Simon_Cziommer>	<isAffiliatedTo>	<FC_Utrecht>
+<Jackie_Shroff>	<isCitizenOf>	<Kazakhstan>
+<Simeon_Hodson>	<playsFor>	<Altrincham_F.C.>
+<Jason_Harris_(footballer,_born_1976)>	<isAffiliatedTo>	<Crystal_Palace_F.C.>
+<Anthony_Williams_(footballer)>	<isAffiliatedTo>	<Bury_F.C.>
+<Henry_James>	<wasBornIn>	<United_States>
+<Ferenc_Puskás>	<isAffiliatedTo>	<Panathinaikos_F.C.>
+<Gordon_Hill_(footballer)>	<isAffiliatedTo>	<Derby_County_F.C.>
+<W._E._B._Du_Bois>	<livesIn>	<Georgia_(U.S._state)>
+<Howard_Gordon>	<hasWonPrize>	<Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series>
+<Eamonn_O'Keefe>	<playsFor>	<Everton_F.C.>	<occursSince>	"1979-##-##"
+<Eamonn_O'Keefe>	<playsFor>	<Everton_F.C.>	<occursUntil>	"1982-##-##"
+<Aidan_Davison>	<isAffiliatedTo>	<Sheffield_United_F.C.>
+<Damjan_Đoković>	<isAffiliatedTo>	<A.S._Livorno_Calcio>
+<Ralph_Fiennes>	<actedIn>	<Sunshine_(1999_film)>
+<Kevin_Lisbie>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursSince>	"2000-##-##"
+<Kevin_Lisbie>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursUntil>	"2001-##-##"
+<Jim_McDonagh>	<isAffiliatedTo>	<Notts_County_F.C.>
+<Paul_Wilson_(footballer,_born_1968)>	<playsFor>	<Huddersfield_Town_A.F.C.>	<occursSince>	"1985-##-##"
+<Paul_Wilson_(footballer,_born_1968)>	<playsFor>	<Huddersfield_Town_A.F.C.>	<occursUntil>	"1987-##-##"
+<James_Quinn_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Pakistan>	<participatedIn>	<Operation_Enduring_Freedom_–_Horn_of_Africa>
+<Jordan_Stewart_(footballer,_born_1982)>	<playsFor>	<Notts_County_F.C.>	<occursSince>	"2012-##-##"
+<Jordan_Stewart_(footballer,_born_1982)>	<playsFor>	<Notts_County_F.C.>	<occursUntil>	"2013-##-##"
+<Darren_Byfield>	<isAffiliatedTo>	<Bristol_City_F.C.>
+<Canada>	<participatedIn>	<Operation_Ocean_Shield>
+<Savo_Pavićević>	<playsFor>	<FC_Energie_Cottbus>	<occursSince>	"2008-##-##"
+<Savo_Pavićević>	<playsFor>	<FC_Energie_Cottbus>	<occursUntil>	"2009-##-##"
+<Vanderlei_Luxemburgo>	<isAffiliatedTo>	<Real_Madrid_C.F.>
+<Julia_Stiles>	<isCitizenOf>	<Italy>
+<Daniel_Inouye>	<hasWonPrize>	<Medal_of_Honor>
+<Derek_Jacobi>	<hasWonPrize>	<Tony_Award>
+<Elizabeth_Banks>	<graduatedFrom>	<University_of_Pennsylvania>
+<Bill_McGarry>	<isAffiliatedTo>	<Huddersfield_Town_A.F.C.>
+<Guylain_Ndumbu-Nsungu>	<isAffiliatedTo>	<Darlington_F.C.>
+<Bert_Powell>	<isAffiliatedTo>	<Chesterfield_F.C.>
+<Dave_Reeves>	<playsFor>	<Burnley_F.C.>	<occursSince>	"1987-##-##"
+<Jobi_McAnuff>	<playsFor>	<Reading_F.C.>	<occursSince>	"2009-##-##"
+<Jobi_McAnuff>	<playsFor>	<Reading_F.C.>	<occursUntil>	"2014-##-##"
+<Tony_Hateley>	<playsFor>	<Birmingham_City_F.C.>	<occursSince>	"1969-##-##"
+<Tony_Hateley>	<playsFor>	<Birmingham_City_F.C.>	<occursUntil>	"1970-##-##"
+<Andy_Todd_(footballer,_born_1974)>	<isAffiliatedTo>	<Oldham_Athletic_A.F.C.>
+<Sri_Lanka>	<isLocatedIn>	<Indian_Ocean>
+<Alex_MacDonald_(footballer,_born_1990)>	<wasBornIn>	<Warrington>
+<Sid_Binks>	<playsFor>	<Chesterfield_F.C.>
+<Patricia_Arquette>	<actedIn>	<Lost_Highway_(film)>
+<Jeffrey_Jones>	<wasBornIn>	<Buffalo,_New_York>
+<Branco_(footballer)>	<playsFor>	<New_York_Red_Bulls>
+<Wayne_Bridge>	<playsFor>	<Chelsea_F.C.>	<occursSince>	"2003-##-##"
+<Wayne_Bridge>	<playsFor>	<Chelsea_F.C.>	<occursUntil>	"2009-##-##"
+<Alex_Borstein>	<wasBornIn>	<Highland_Park,_Illinois>
+<Narada_Bernard>	<playsFor>	<Torquay_United_F.C.>	<occursSince>	"2003-##-##"
+<Narada_Bernard>	<playsFor>	<Torquay_United_F.C.>	<occursUntil>	"2004-##-##"
+<Cristiano_Lucarelli>	<isAffiliatedTo>	<Italy_national_football_team>
+<Edmonton_Eskimos>	<isLocatedIn>	<Edmonton>
+<Abdulai_Bell-Baggie>	<isAffiliatedTo>	<Sierra_Leone_national_football_team>
+<Michael_Chopra>	<playsFor>	<Sunderland_A.F.C.>	<occursSince>	"2007-##-##"
+<Michael_Chopra>	<playsFor>	<Sunderland_A.F.C.>	<occursUntil>	"2009-##-##"
+<Marion_County,_Florida>	<isLocatedIn>	<Florida>
+<2K_Games>	<isLocatedIn>	<United_States>
+<Dennis_Oli>	<isCitizenOf>	<Jamaica>
+<Iain_Turner>	<isAffiliatedTo>	<Everton_F.C.>
+<Byzantine_Empire>	<hasOfficialLanguage>	<Latin>
+<Louis_Briscoe>	<playsFor>	<Torquay_United_F.C.>	<occursSince>	"2014-##-##"
+<Louis_Briscoe>	<playsFor>	<Torquay_United_F.C.>	<occursUntil>	"2016-##-##"
+<Patrick_Kisnorbo>	<isCitizenOf>	<Australia>
+<Paul-José_M'Poku>	<playsFor>	<Panathinaikos_F.C.>	<occursSince>	"2016-##-##"
+<Jack_Reynolds_(footballer,_born_1869)>	<isAffiliatedTo>	<Aston_Villa_F.C.>
+<Neil_Ramsbottom>	<playsFor>	<Blackpool_F.C.>	<occursSince>	"1971-##-##"
+<Neil_Ramsbottom>	<playsFor>	<Blackpool_F.C.>	<occursUntil>	"1972-##-##"
+<Simon_Cowell>	<isCitizenOf>	<United_States>
+<Klaas-Jan_Huntelaar>	<playsFor>	<PSV_Eindhoven>	<occursSince>	"2002-##-##"
+<Klaas-Jan_Huntelaar>	<playsFor>	<PSV_Eindhoven>	<occursUntil>	"2004-##-##"
+<Robert_Silverberg>	<hasWonPrize>	<Nebula_Award>
+<Mark_Farrington>	<isAffiliatedTo>	<Hereford_United_F.C.>
+<Giuseppe_Gemiti>	<playsFor>	<Eintracht_Frankfurt>	<occursSince>	"2000-##-##"
+<Giuseppe_Gemiti>	<playsFor>	<Eintracht_Frankfurt>	<occursUntil>	"2002-##-##"
+<Tony_Currie_(footballer)>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursSince>	"1979-##-##"
+<Tony_Currie_(footballer)>	<playsFor>	<Queens_Park_Rangers_F.C.>	<occursUntil>	"1982-##-##"
+<Wikimedia_Foundation>	<isLocatedIn>	<Los_Angeles>
+<Guinea-Bissau>	<participatedIn>	<Northern_Mali_conflict>
+<Dean_McDonald>	<playsFor>	<Ipswich_Town_F.C.>
+<United_Kingdom>	<participatedIn>	<Operation_Enduring_Freedom>
+<Frank_Worthington>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<James_Blunt>	<hasWonPrize>	<Brit_Awards>
+<Craig_Dobson>	<playsFor>	<Jamaica_national_football_team>	<occursSince>	"2004-##-##"
+<Loïc_Rémy>	<playsFor>	<Olympique_Lyonnais>
+<In_Your_House>	<isLocatedIn>	<Florida>
+<Mike_Salmon>	<isAffiliatedTo>	<Bolton_Wanderers_F.C.>
+<SkyTeam>	<isLocatedIn>	<Netherlands>
+<Megan_Fox>	<actedIn>	<Jonah_Hex_(film)>
+<El_Hadji_Diouf>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursSince>	"2011-##-##"
+<El_Hadji_Diouf>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursUntil>	"2012-##-##"
+<FC_Basel>	<isLocatedIn>	<Basel>
+<Mark_Crossley>	<isCitizenOf>	<Wales>
+<Martin_Nash_(soccer)>	<isCitizenOf>	<England>
+<Mike_Pollitt>	<playsFor>	<Sunderland_A.F.C.>
+<Trevor_Aylott>	<playsFor>	<Wycombe_Wanderers_F.C.>
+<Joe_Pasternak>	<wasBornIn>	<Austria-Hungary>
+<Emile_Hirsch>	<actedIn>	<Milk_(film)>
+<Toby_Ajala>	<isAffiliatedTo>	<Gateshead_F.C.>
+<Stephen_Dawson>	<isAffiliatedTo>	<Mansfield_Town_F.C.>
+<Kari_Wahlgren>	<livesIn>	<Los_Angeles>
+<Interscope_Records>	<isLocatedIn>	<United_States>
+<Ireland>	<participatedIn>	<United_Nations_Operation_in_Somalia_II>
+<Denver_Nuggets>	<isLocatedIn>	<Denver>
+<Syria>	<hasCapital>	<Damascus>
+<Venezuela>	<dealsWith>	<Spain>
+<Alessandro_Rosina>	<isAffiliatedTo>	<A.C._Cesena>
+<Valeri_Bojinov>	<playsFor>	<Vicenza_Calcio>	<occursSince>	"2013-##-##"
+<Gary_Mulligan>	<isAffiliatedTo>	<Gillingham_F.C.>
+<Uma_Thurman>	<actedIn>	<The_Avengers_(1998_film)>
+<Aaron_Brown_(footballer,_born_1980)>	<playsFor>	<Lincoln_City_F.C.>
+<Edward_Norton>	<actedIn>	<The_Illusionist_(2006_film)>
+<Carl_Sagan>	<hasWonPrize>	<Pulitzer_Prize_for_General_Nonfiction>
+<Stephen_Warnock>	<playsFor>	<Aston_Villa_F.C.>
+<Arthur_Miller>	<wasBornIn>	<Harlem>
+<Nora_Ephron>	<created>	<Julie_&_Julia>
+<Dominic_West>	<actedIn>	<Hannibal_Rising_(film)>
+<Karim_Rekik>	<wasBornIn>	<The_Hague>
+<Ernie_Watkins_(footballer,_born_1898)>	<isAffiliatedTo>	<Fulham_F.C.>
+<Larenz_Tate>	<actedIn>	<Ray_(film)>
+<Greg_Mills_(footballer)>	<playsFor>	<Boston_United_F.C.>	<occursSince>	"2013-##-##"
+<Leon_Russell>	<isCitizenOf>	<United_States>
+<Chris_Brown_(footballer,_born_1984)>	<playsFor>	<Preston_North_End_F.C.>	<occursSince>	"2008-##-##"
+<Chris_Brown_(footballer,_born_1984)>	<playsFor>	<Preston_North_End_F.C.>	<occursUntil>	"2011-##-##"
+<Dele_Adebola>	<playsFor>	<Rochdale_A.F.C.>
+<Boaz_Myhill>	<playsFor>	<Stockport_County_F.C.>	<occursSince>	"2003-##-##"
+<Mike_Basham>	<playsFor>	<Grays_Athletic_F.C.>
+<Equatorial_Guinea>	<hasOfficialLanguage>	<Spanish_language>
+<Coimbatore>	<isLocatedIn>	<Coimbatore_district>
+<Claude_Rains>	<hasWonPrize>	<Donaldson_Awards>
+<Lee_Peltier>	<wasBornIn>	<Liverpool>
+<Chris_Makin>	<isAffiliatedTo>	<Reading_F.C.>
+<Jack_Haines>	<isAffiliatedTo>	<Wrexham_A.F.C.>
+<Manny_Panther>	<isAffiliatedTo>	<Partick_Thistle_F.C.>
+<Shirley_MacLaine>	<actedIn>	<Around_the_World_in_80_Days_(1956_film)>
+<Alastair_Reynolds>	<isCitizenOf>	<United_Kingdom>
+<Fyvush_Finkel>	<isCitizenOf>	<United_States>
+<Ray_Haddington>	<isAffiliatedTo>	<A.F.C._Bournemouth>
+<Ramón_Núñez>	<isAffiliatedTo>	<Puebla_F.C.>
+<Steve_Lovell_(Welsh_footballer)>	<isAffiliatedTo>	<Ebbsfleet_United_F.C.>
+<Julian_Alsop>	<playsFor>	<Northampton_Town_F.C.>
+<SV_Darmstadt_98>	<isLocatedIn>	<Darmstadt>
+<Peter_McParland>	<isCitizenOf>	<United_Kingdom>
+<Jürgen_Colin>	<isCitizenOf>	<Netherlands>
+<Transylvania>	<isLocatedIn>	<Europe>
+<Columbia_University_Graduate_School_of_Journalism>	<isLocatedIn>	<Manhattan>
+<Gloria_Stuart>	<isCitizenOf>	<United_States>
+<Karan_Johar>	<directed>	<My_Name_Is_Khan>
+<Lomana_LuaLua>	<isAffiliatedTo>	<Portsmouth_F.C.>
+<Mark_Yeates>	<isCitizenOf>	<Republic_of_Ireland>
+<Bob_Fosse>	<directed>	<All_That_Jazz_(film)>
+<Rory_Fallon>	<isAffiliatedTo>	<Barnsley_F.C.>
+<Phil_Collins>	<isCitizenOf>	<United_Kingdom>
+<Walon_Green>	<hasWonPrize>	<Edgar_Award>
+<Snoop_Dogg>	<actedIn>	<Starsky_&_Hutch_(film)>
+<Elliot_Kebbie>	<playsFor>	<Leeds_United_F.C.>	<occursSince>	"2003-##-##"
+<Elliot_Kebbie>	<playsFor>	<Leeds_United_F.C.>	<occursUntil>	"2012-##-##"
+<Lee_Turnbull_(footballer)>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursSince>	"1987-##-##"
+<Lee_Turnbull_(footballer)>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursUntil>	"1991-##-##"
+<Paul_Rideout>	<playsFor>	<Swindon_Town_F.C.>
+<Jean-Claude_Darcheville>	<isCitizenOf>	<France>
+<James_Mason>	<actedIn>	<Julius_Caesar_(1953_film)>
+<Alan_Fettis>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Richard_Chamberlain>	<wasBornIn>	<Beverly_Hills,_California>
+<Philip_Pullman>	<hasWonPrize>	<Astrid_Lindgren_Memorial_Award>
+<Darko_Bodul>	<isAffiliatedTo>	<SC_Heerenveen>
+<Neil_Ross>	<livesIn>	<Los_Angeles>
+<Dimitar_Makriev>	<isAffiliatedTo>	<Inter_Milan>
+<Belarus>	<hasNeighbor>	<Lithuania>
+<Ian_Hendon>	<isAffiliatedTo>	<Northampton_Town_F.C.>
+<45th_Annual_Grammy_Awards>	<isLocatedIn>	<New_York_City>
+<Adam_Virgo>	<isAffiliatedTo>	<Bristol_Rovers_F.C.>
+<Neil_Webb>	<playsFor>	<Swindon_Town_F.C.>	<occursSince>	"1994-##-##"
+<Craig_Armstrong_(composer)>	<isCitizenOf>	<United_Kingdom>
+<Scott_Brown_(footballer,_born_April_1985)>	<isAffiliatedTo>	<Eastleigh_F.C.>
+<Eminem>	<wasBornIn>	<St._Joseph,_Missouri>
+<Danny_Cullip>	<isAffiliatedTo>	<Brighton_&_Hove_Albion_F.C.>
+<Peter_Meehan>	<isAffiliatedTo>	<Clyde_F.C.>
+<Lawrie_Madden>	<wasBornIn>	<London_Borough_of_Hackney>
+<Jim_Goodwin>	<playsFor>	<Hamilton_Academical_F.C.>
+<Chris_Allen_(footballer,_born_1972)>	<isAffiliatedTo>	<Oxford_United_F.C.>
+<Vancouver_Canucks>	<isLocatedIn>	<British_Columbia>
+<Paulo_César_Arruda_Parente>	<playsFor>	<Brazil_national_football_team>	<occursSince>	"2002-##-##"
+<Lewis_Guy>	<playsFor>	<Newcastle_United_F.C.>
+<Laurent_Robert>	<isAffiliatedTo>	<Levante_UD>
+<Andy_Ferrell>	<isAffiliatedTo>	<York_City_F.C.>
+<Sam_Jennings>	<playsFor>	<Olympique_de_Marseille>	<occursSince>	"1932-##-##"
+<Sam_Jennings>	<playsFor>	<Olympique_de_Marseille>	<occursUntil>	"1933-##-##"
+<Sacha_Opinel>	<isAffiliatedTo>	<Leyton_Orient_F.C.>
+<General_Dynamics>	<isLocatedIn>	<Fairfax_County,_Virginia>
+<Animax>	<isLocatedIn>	<Cuba>
+<Brian_Pinas>	<playsFor>	<Newcastle_United_F.C.>	<occursSince>	"1997-##-##"
+<Brian_Pinas>	<playsFor>	<Newcastle_United_F.C.>	<occursUntil>	"1998-##-##"
+<Tom_Cowan>	<isAffiliatedTo>	<Sheffield_United_F.C.>
+<Massachusetts>	<isLocatedIn>	<United_States>
+<Tommy_Chong>	<wasBornIn>	<Edmonton>
+<Richie_Partridge>	<playsFor>	<Kettering_Town_F.C.>	<occursSince>	"2009-##-##"
+<Diego_Perrone>	<isAffiliatedTo>	<Club_Olimpia>
+<Neil_Smith_(footballer)>	<playsFor>	<Stevenage_F.C.>	<occursSince>	"2002-##-##"
+<Fat_Joe>	<isCitizenOf>	<United_States>
+<Sharon_Osbourne>	<isCitizenOf>	<England>
+<Thomas_Edison>	<isCitizenOf>	<Netherlands>
+<Ned_Beatty>	<wasBornIn>	<Louisville,_Kentucky>
+<Roberto_Benigni>	<directed>	<Pinocchio_(2002_film)>
+<John_Burridge>	<playsFor>	<Manchester_City_F.C.>
+<Elia_Kazan>	<directed>	<On_the_Waterfront>
+<Islam_Feruz>	<playsFor>	<Blackpool_F.C.>	<occursSince>	"2015-##-##"
+<Joni_Mitchell>	<isCitizenOf>	<Canada>
+<Alberto_Gilardino>	<isCitizenOf>	<Italy>
+<NBCUniversal>	<owns>	<Amblin_Entertainment>
+<Giuseppe_Gemiti>	<isAffiliatedTo>	<Genoa_C.F.C.>
+<Jason_Lee_(footballer)>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Eric_Jones_(footballer,_born_1915)>	<playsFor>	<Kidderminster_Harriers_F.C.>
+<Scott_Canham>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<Marcel_Desailly>	<playsFor>	<Olympique_de_Marseille>	<occursSince>	"1992-##-##"
+<Marcel_Desailly>	<playsFor>	<Olympique_de_Marseille>	<occursUntil>	"1993-##-##"
+<Mickey_Evans_(footballer,_born_1973)>	<playsFor>	<Blackburn_Rovers_F.C.>	<occursSince>	"1992-##-##"
+<Felipe_Caicedo>	<playsFor>	<Levante_UD>	<occursSince>	"2010-##-##"
+<Felipe_Caicedo>	<playsFor>	<Levante_UD>	<occursUntil>	"2011-##-##"
+<Marco_Baroni>	<isAffiliatedTo>	<Udinese_Calcio>
+<Julia_Stiles>	<graduatedFrom>	<Columbia_University>
+<Mario_Bortolazzi>	<isAffiliatedTo>	<Hellas_Verona_F.C.>
+<Dean_Morgan>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<Don_Revie>	<playsFor>	<Leicester_City_F.C.>	<occursSince>	"1944-##-##"
+<Don_Revie>	<playsFor>	<Leicester_City_F.C.>	<occursUntil>	"1949-##-##"
+<Billy_Manuel>	<isAffiliatedTo>	<Grays_Athletic_F.C.>
+<Bertie_Brayley>	<isAffiliatedTo>	<Swindon_Town_F.C.>
+<Martin_Woods>	<isAffiliatedTo>	<Doncaster_Rovers_F.C.>
+<Chris_Palmer_(footballer)>	<isAffiliatedTo>	<Tamworth_F.C.>
+<Pascal_Chimbonda>	<isCitizenOf>	<France>
+<CeeLo_Green>	<isCitizenOf>	<United_States>
+<Youssouf_Hersi>	<isAffiliatedTo>	<Perth_Glory_FC>
+<Sam_Jennings>	<playsFor>	<Burnley_F.C.>	<occursSince>	"1932-##-##"
+<Kemy_Agustien>	<playsFor>	<Willem_II_(football_club)>	<occursSince>	"2004-##-##"
+<Kemy_Agustien>	<playsFor>	<Willem_II_(football_club)>	<occursUntil>	"2006-##-##"
+<Chris_Allen_(footballer,_born_1972)>	<playsFor>	<Luton_Town_F.C.>	<occursSince>	"1997-##-##"
+<Chris_Allen_(footballer,_born_1972)>	<playsFor>	<Luton_Town_F.C.>	<occursUntil>	"1998-##-##"
+<Kenya>	<participatedIn>	<Operation_Enduring_Freedom>
+<Ashley_Grimes_(footballer,_born_1957)>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<Battle_of_France>	<happenedIn>	<Netherlands>
+<Nolberto_Solano>	<playsFor>	<Boca_Juniors>	<occursSince>	"1997-##-##"
+<Nolberto_Solano>	<playsFor>	<Boca_Juniors>	<occursUntil>	"1998-##-##"
+<Gregg_Wylde>	<isAffiliatedTo>	<Celtic_F.C.>
+<Martin_O'Neill>	<isCitizenOf>	<Republic_of_Ireland>
+<Sophia_Loren>	<livesIn>	<Switzerland>
+<War_of_the_First_Coalition>	<happenedIn>	<Kingdom_of_Naples>
+<Leroy_Lita>	<playsFor>	<Middlesbrough_F.C.>
+<Arcadia,_California>	<isLocatedIn>	<Los_Angeles_County,_California>
+<Mario_Puzo>	<isCitizenOf>	<Italy>
+<Jim_Fryatt>	<wasBornIn>	<Southampton>
+<Stefano_Lombardi>	<playsFor>	<A.C._Perugia_Calcio>
+<Jimmy_Quinn_(footballer,_born_1959)>	<playsFor>	<Hereford_United_F.C.>
+<Mike_Nichols>	<isMarriedTo>	<Diane_Sawyer>
+<Mark_Yates_(footballer)>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Chiyoda,_Tokyo>	<isLocatedIn>	<Tokyo>
+<Conor_Sammon>	<playsFor>	<Ipswich_Town_F.C.>
+<John_Fashanu>	<isAffiliatedTo>	<Norwich_City_F.C.>
+<63rd_Academy_Awards>	<happenedIn>	<California>
+<Paul_Jones_(footballer,_born_1967)>	<playsFor>	<Liverpool_F.C.>	<occursSince>	"2004-##-##"
+<Walt_Disney_Studios_Motion_Pictures>	<isLocatedIn>	<Burbank,_California>
+<Tommy_Tynan>	<isAffiliatedTo>	<Sheffield_Wednesday_F.C.>
+<Georgi_Donkov>	<isAffiliatedTo>	<VfL_Bochum>
+<Louie_Soares>	<playsFor>	<Ebbsfleet_United_F.C.>
+<Axis_powers>	<participatedIn>	<World_War_II>
+<Kingdom_of_Naples>	<hasCapital>	<Naples>
+<Jean-Yves_M'voto>	<isCitizenOf>	<Cameroon>
+<Reg_Keating>	<playsFor>	<Birmingham_City_F.C.>	<occursSince>	"1931-##-##"
+<Reg_Keating>	<playsFor>	<Birmingham_City_F.C.>	<occursUntil>	"1932-##-##"
+<Kevin_Summerfield>	<playsFor>	<Cardiff_City_F.C.>
+<Giuseppe_Gemiti>	<playsFor>	<Udinese_Calcio>	<occursSince>	"2002-##-##"
+<Giuseppe_Gemiti>	<playsFor>	<Udinese_Calcio>	<occursUntil>	"2005-##-##"
+<Colin_Larkin_(footballer)>	<playsFor>	<Kidderminster_Harriers_F.C.>	<occursSince>	"2001-##-##"
+<Colin_Larkin_(footballer)>	<playsFor>	<Kidderminster_Harriers_F.C.>	<occursUntil>	"2002-##-##"
+<Drenthe>	<isLocatedIn>	<Netherlands>
+<Peter_Dougall>	<playsFor>	<Burnley_F.C.>	<occursSince>	"1926-##-##"
+<Peter_Dougall>	<playsFor>	<Burnley_F.C.>	<occursUntil>	"1929-##-##"
+<Alex_Graves>	<wasBornIn>	<Kansas_City,_Missouri>
+<Nialle_Rodney>	<playsFor>	<Mansfield_Town_F.C.>	<occursSince>	"2011-##-##"
+<Paul_Gascoigne>	<isAffiliatedTo>	<Kettering_Town_F.C.>
+<Daniel_Majstorović>	<isCitizenOf>	<Serbia>
+<Simon_Callow>	<actedIn>	<Shakespeare_in_Love>
+<Matt_Fish_(footballer)>	<isAffiliatedTo>	<Crystal_Palace_F.C.>
+<Eduardo_Hurtado>	<isCitizenOf>	<Argentina>
+<Thomas_Brodie-Sangster>	<actedIn>	<Bright_Star_(film)>
+<Mohamed_Sissoko>	<isAffiliatedTo>	<Levante_UD>
+<John_Barnes_(footballer)>	<isAffiliatedTo>	<Watford_F.C.>
+<Richard_Dreyfuss>	<actedIn>	<The_Goodbye_Girl>
+<Sid_Jones>	<isCitizenOf>	<England>
+<Luc_Besson>	<wasBornIn>	<Paris>
+<New_Rochelle,_New_York>	<isLocatedIn>	<United_States>
+<Jimmy_Miller_(footballer)>	<isAffiliatedTo>	<Coventry_City_F.C.>
+<Carole_Lombard>	<wasBornIn>	<Fort_Wayne,_Indiana>
+<Frank_Fielding>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Sangamon_County,_Illinois>	<isLocatedIn>	<Illinois>
+<United_Nations_Operation_in_Somalia_II>	<happenedIn>	<Somalia>
+<Stefano_Lombardi>	<isAffiliatedTo>	<A.C._Perugia_Calcio>
+<Pim_Verbeek>	<isCitizenOf>	<Australia>
+<Milwaukee_County,_Wisconsin>	<isLocatedIn>	<Milwaukee>
+<Kyle_Letheren>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2005-##-##"
+<Kyle_Letheren>	<playsFor>	<Swansea_City_A.F.C.>	<occursUntil>	"2006-##-##"
+<Michael_Moriarty>	<isCitizenOf>	<Canada>
+<Alexander_Hleb>	<isAffiliatedTo>	<FC_Barcelona>
+<Scott_Loach>	<isAffiliatedTo>	<Notts_County_F.C.>
+<Nathan_Koo-Boothe>	<playsFor>	<Farnborough_F.C.>
+<Carl_Dickinson>	<playsFor>	<Watford_F.C.>
+<Joe_Walters_(footballer)>	<isAffiliatedTo>	<Rochdale_A.F.C.>
+<Chris_Herd>	<playsFor>	<Chesterfield_F.C.>	<occursSince>	"2015-##-##"
+<Chris_Herd>	<playsFor>	<Chesterfield_F.C.>	<occursUntil>	"2016-##-##"
+<Brendan_Gleeson>	<actedIn>	<The_Village_(2004_film)>
+<Michael_Gray_(footballer)>	<playsFor>	<Leeds_United_F.C.>	<occursSince>	"2005-##-##"
+<Netherlands>	<participatedIn>	<Libyan_Civil_War_(2011)>
+<Jane_Lynch>	<actedIn>	<Role_Models>
+<Mich>	<isLocatedIn>	<Iran>
+<Gary_Jones_(footballer,_born_1969)>	<playsFor>	<Scunthorpe_United_F.C.>	<occursSince>	"1996-##-##"
+<Gary_Jones_(footballer,_born_1969)>	<playsFor>	<Scunthorpe_United_F.C.>	<occursUntil>	"1997-##-##"
+<Kim_Grant_(footballer)>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<Gavin_Heeroo>	<playsFor>	<Grays_Athletic_F.C.>
+<Raquel_Welch>	<isCitizenOf>	<United_States>
+<Bob_Geldof>	<isCitizenOf>	<Belgium>
+<Eugen_Bopp>	<isCitizenOf>	<Ukraine>
+<Peter_Meehan>	<playsFor>	<Sunderland_A.F.C.>
+<Bas-Rhin>	<isLocatedIn>	<France>
+<Matt_Clarke_(footballer,_born_1973)>	<isAffiliatedTo>	<Bolton_Wanderers_F.C.>
+<Giuseppe_Greco_(footballer,_born_1983)>	<isAffiliatedTo>	<U.C._Sampdoria>
+<Asmir_Begović>	<playsFor>	<Stoke_City_F.C.>	<occursSince>	"2010-##-##"
+<Asmir_Begović>	<playsFor>	<Stoke_City_F.C.>	<occursUntil>	"2015-##-##"
+<Glen_Johnson>	<playsFor>	<West_Ham_United_F.C.>	<occursSince>	"2002-##-##"
+<Glen_Johnson>	<playsFor>	<West_Ham_United_F.C.>	<occursUntil>	"2003-##-##"
+<Rubén_González_Rocha>	<playsFor>	<FC_Baku>
+<Taking_Woodstock>	<isLocatedIn>	<United_States>
+<James_Rebhorn>	<actedIn>	<The_Adventures_of_Pluto_Nash>
+<Dennis_Bailey_(footballer,_born_1965)>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Greenwood,_Mississippi>	<isLocatedIn>	<United_States>
+<Darren_Ward_(footballer,_born_1978)>	<isCitizenOf>	<England>
+<Bartholomew_Ogbeche>	<playsFor>	<Real_Valladolid>	<occursSince>	"2007-##-##"
+<Bartholomew_Ogbeche>	<playsFor>	<Real_Valladolid>	<occursUntil>	"2009-##-##"
+<Allen_McKnight>	<playsFor>	<Walsall_F.C.>	<occursSince>	"1991-##-##"
+<Allen_McKnight>	<playsFor>	<Walsall_F.C.>	<occursUntil>	"1992-##-##"
+<Peter_Berg>	<created>	<Friday_Night_Lights_(TV_series)>
+<Gabriel_Tamaș>	<isCitizenOf>	<England>
+<Dimitris_Nalitzis>	<playsFor>	<Greece_national_football_team>	<occursSince>	"2000-##-##"
+<Dimitris_Nalitzis>	<playsFor>	<Greece_national_football_team>	<occursUntil>	"2003-##-##"
+<Mark_Stein_(footballer)>	<playsFor>	<Stoke_City_F.C.>	<occursSince>	"1991-##-##"
+<Mark_Stein_(footballer)>	<playsFor>	<Stoke_City_F.C.>	<occursUntil>	"1993-##-##"
+<Rihanna>	<isCitizenOf>	<Barbados>
+<Mychael_Danna>	<wroteMusicFor>	<Girl,_Interrupted_(film)>
+<Éder_(Italian_footballer)>	<isAffiliatedTo>	<A.C._Cesena>
+<Lilian_Nalis>	<playsFor>	<Plymouth_Argyle_F.C.>
+<Bora_Milutinović>	<isCitizenOf>	<Nigeria>
+<Aldo_Duscher>	<isAffiliatedTo>	<RCD_Espanyol>
+<Rashida_Jones>	<wasBornIn>	<Los_Angeles>
+<Amarildo_Tavares_da_Silveira>	<playsFor>	<Botafogo_de_Futebol_e_Regatas>	<occursSince>	"1959-##-##"
+<Amarildo_Tavares_da_Silveira>	<playsFor>	<Botafogo_de_Futebol_e_Regatas>	<occursUntil>	"1963-##-##"
+<César_Prates>	<isAffiliatedTo>	<A.C._ChievoVerona>
+<Sanctuary_Records>	<isLocatedIn>	<England>
+<Magno_Vieira>	<playsFor>	<Cambridge_United_F.C.>	<occursSince>	"2008-##-##"
+<Road_to_Ultra>	<isLocatedIn>	<Mumbai>
+<Carlo_Nash>	<isAffiliatedTo>	<Wolverhampton_Wanderers_F.C.>
+<Colin_Gordon_(footballer)>	<playsFor>	<Leicester_City_F.C.>
+<Chris_Withe>	<wasBornIn>	<Liverpool>
+<Yale_School_of_Medicine>	<isLocatedIn>	<New_Haven,_Connecticut>
+<Dennis_Wann>	<isAffiliatedTo>	<Chester_City_F.C.>
+<John_Malkovich>	<actedIn>	<The_Man_in_the_Iron_Mask_(1998_film)>
+<Youssef_El_Akchaoui>	<isAffiliatedTo>	<Morocco_national_football_team>
+<Joe_Garner>	<isAffiliatedTo>	<Blackburn_Rovers_F.C.>
+<Harry_Connick_Jr.>	<isCitizenOf>	<England>
+<Patrick_Kanyuka>	<playsFor>	<Tamworth_F.C.>
+<Rebecca_Hall>	<actedIn>	<The_Town_(2010_film)>
+<Thomas_Ian_Nicholas>	<actedIn>	<American_Pie_(film)>
+<Arthur_Beadsworth>	<playsFor>	<Blackburn_Rovers_F.C.>	<occursSince>	"1905-##-##"
+<Douglas_Fairbanks>	<isCitizenOf>	<United_States>
+<Jamal_Alioui>	<isCitizenOf>	<Switzerland>
+<Eric_Gerets>	<isCitizenOf>	<United_Arab_Emirates>
+<Michele_Serena>	<playsFor>	<ACF_Fiorentina>	<occursSince>	"1995-##-##"
+<Michele_Serena>	<playsFor>	<ACF_Fiorentina>	<occursUntil>	"1998-##-##"
+<Joleon_Lescott>	<wasBornIn>	<Birmingham>
+<William_Thomson,_1st_Baron_Kelvin>	<isCitizenOf>	<England>
+<Simon_Walton>	<playsFor>	<Hartlepool_United_F.C.>
+<Ghana>	<hasOfficialLanguage>	<English_language>
+<Armenia>	<dealsWith>	<Turkey>
+<Marco_Motta>	<playsFor>	<Watford_F.C.>
+<Jonathan_Hunt_(footballer)>	<playsFor>	<Sheffield_United_F.C.>	<occursSince>	"1998-##-##"
+<Jonathan_Hunt_(footballer)>	<playsFor>	<Sheffield_United_F.C.>	<occursUntil>	"2000-##-##"
+<Joan_Rivers>	<isCitizenOf>	<Mali>
+<Damon_Lindelof>	<wasBornIn>	<Teaneck,_New_Jersey>
+<Marc_North>	<isAffiliatedTo>	<Kettering_Town_F.C.>
+<Andy_Oakes_(footballer)>	<isCitizenOf>	<England>
+<Izzy_Iriekpen>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2003-##-##"
+<Izzy_Iriekpen>	<playsFor>	<Swansea_City_A.F.C.>	<occursUntil>	"2007-##-##"
+<Blerim_Džemaili>	<playsFor>	<Bologna_F.C._1909>	<occursSince>	"2016-##-##"
+<Neil_Lennon>	<playsFor>	<Leicester_City_F.C.>	<occursSince>	"1996-##-##"
+<Neil_Lennon>	<playsFor>	<Leicester_City_F.C.>	<occursUntil>	"2000-##-##"
+<Kiernan_Hughes-Mason>	<isCitizenOf>	<Dominica>
+<John_Kelly_(footballer,_born_1960)>	<playsFor>	<Walsall_F.C.>	<occursSince>	"1989-##-##"
+<John_Kelly_(footballer,_born_1960)>	<playsFor>	<Walsall_F.C.>	<occursUntil>	"1991-##-##"
+<Martin_Short>	<actedIn>	<The_Spiderwick_Chronicles_(film)>
+<Martin_Thomas_(footballer,_born_1959)>	<playsFor>	<Southend_United_F.C.>	<occursSince>	"1983-##-##"
+<Trevor_Ross>	<isAffiliatedTo>	<AEK_Athens_F.C.>
+<Neil_Shipperley>	<isAffiliatedTo>	<Brentford_F.C.>
+<Diane_Keaton>	<isCitizenOf>	<Germany>
+<Richard_Nixon>	<isCitizenOf>	<England>
+<Michael_Bridges>	<isAffiliatedTo>	<Sunderland_A.F.C.>
+<Dave_Mackay>	<isCitizenOf>	<Scotland>
+<Lateef_Elford-Alliyu>	<isCitizenOf>	<Niger>
+<Pablo_Contreras>	<playsFor>	<AS_Monaco_FC>	<occursSince>	"1999-##-##"
+<Pablo_Contreras>	<playsFor>	<AS_Monaco_FC>	<occursUntil>	"2001-##-##"
+<Tony_Grealish>	<playsFor>	<Manchester_City_F.C.>	<occursSince>	"1986-##-##"
+<Tony_Grealish>	<playsFor>	<Manchester_City_F.C.>	<occursUntil>	"1987-##-##"
+<Ludwig_Wittgenstein>	<influences>	<Isaiah_Berlin>
+<Peter_Barnes_(footballer)>	<isAffiliatedTo>	<Hull_City_A.F.C.>
+<Danny_Haynes>	<isAffiliatedTo>	<Bristol_City_F.C.>
+<Yoko_Ono>	<isMarriedTo>	<John_Lennon>
+<Matthew_McConaughey>	<hasWonPrize>	<Independent_Spirit_Award_for_Best_Male_Lead>
+<Howard_Shore>	<wroteMusicFor>	<The_Lord_of_the_Rings_(film_series)>
+<Innsbruck>	<isLocatedIn>	<Tyrol_(state)>
+<Graham_Potter>	<playsFor>	<West_Bromwich_Albion_F.C.>
+<Simon_Whaley>	<isAffiliatedTo>	<Chesterfield_F.C.>
+<Nick_Pope_(footballer)>	<isAffiliatedTo>	<Welling_United_F.C.>
+<Rick_Rubin>	<created>	<Def_Jam_Recordings>
+<Roy_Carroll>	<playsFor>	<Hull_City_A.F.C.>	<occursSince>	"1995-##-##"
+<Roy_Carroll>	<playsFor>	<Hull_City_A.F.C.>	<occursUntil>	"1997-##-##"
+<Max_Casella>	<isCitizenOf>	<United_States>
+<Surrey,_British_Columbia>	<isLocatedIn>	<British_Columbia>
+<Pamela_Anderson>	<isCitizenOf>	<United_Kingdom>
+<Santa_Monica,_California>	<isLocatedIn>	<Los_Angeles_County,_California>
+<Eiður_Guðjohnsen>	<playsFor>	<Molde_FK>
+<Barry_Levinson>	<directed>	<Wag_the_Dog>
+<Iraq_War>	<happenedIn>	<Iraq>
+<Moses_Sakyi>	<isAffiliatedTo>	<Liberty_Professionals_F.C.>
+<2009_Iranian_presidential_election_protests>	<happenedIn>	<Halifax,_Nova_Scotia>
+<Lee_Holmes>	<isAffiliatedTo>	<Portsmouth_F.C.>
+<Peter_Falk>	<graduatedFrom>	<Syracuse_University>	<occursSince>	"1953-##-##"
+<Dejan_Petković>	<playsFor>	<Clube_de_Regatas_do_Flamengo>	<occursSince>	"2000-##-##"
+<Dejan_Petković>	<playsFor>	<Clube_de_Regatas_do_Flamengo>	<occursUntil>	"2001-##-##"
+<Charles_Rosher>	<diedIn>	<Lisbon>
+<Colombia>	<hasOfficialLanguage>	<Spanish_language>
+<Colin_Miller_(soccer)>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursSince>	"1986-##-##"
+<Colin_Miller_(soccer)>	<playsFor>	<Doncaster_Rovers_F.C.>	<occursUntil>	"1988-##-##"
+<Noel_Whelan_(footballer)>	<playsFor>	<Harrogate_Town_F.C.>
+<Marco_Negri>	<playsFor>	<Cagliari_Calcio>	<occursSince>	"2002-##-##"
+<Ballet_Shoes_(film)>	<isLocatedIn>	<United_Kingdom>
+<Elizabeth_Taylor>	<isMarriedTo>	<Richard_Burton>
+<Simon_Webster_(footballer)>	<isAffiliatedTo>	<Sheffield_United_F.C.>
+<The_Vow_(2012_film)>	<isLocatedIn>	<United_States>
+<Jon_Sheffield>	<playsFor>	<Hereford_United_F.C.>	<occursSince>	"1994-##-##"
+<Shanghai_Greenland_Shenhua_F.C.>	<isLocatedIn>	<Shanghai>
+<Martin_Paterson>	<playsFor>	<Port_Vale_F.C.>
+<Roy_O'Donovan>	<playsFor>	<Hartlepool_United_F.C.>	<occursSince>	"2010-##-##"
+<Richie_Ryan_(footballer)>	<isCitizenOf>	<Belgium>
+<Patrick_van_Aanholt>	<isAffiliatedTo>	<SBV_Vitesse>
+<Peter_Ustinov>	<actedIn>	<Quo_Vadis_(1951_film)>
+<Steve_Howey_(footballer)>	<playsFor>	<England_national_football_team>	<occursSince>	"1995-##-##"
+<Steve_Howey_(footballer)>	<playsFor>	<England_national_football_team>	<occursUntil>	"1996-##-##"
+<Judi_Dench>	<actedIn>	<My_Week_with_Marilyn>
+<Barry_Richardson_(English_footballer)>	<isAffiliatedTo>	<Wycombe_Wanderers_F.C.>
+<Clive_Barker>	<influences>	<Alan_Moore>
+<John_Seasman>	<isAffiliatedTo>	<Rotherham_United_F.C.>
+<James_Woods>	<actedIn>	<Once_Upon_a_Time_in_America>
+<Chukki_Eribenne>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"1998-##-##"
+<Chukki_Eribenne>	<playsFor>	<Coventry_City_F.C.>	<occursUntil>	"2000-##-##"
+<Toifilou_Maoulida>	<isCitizenOf>	<Monaco>
+<Gary_Phillips_(footballer)>	<playsFor>	<Brentford_F.C.>	<occursSince>	"1984-##-##"
+<Gary_Phillips_(footballer)>	<playsFor>	<Brentford_F.C.>	<occursUntil>	"1988-##-##"
+<Anonymous_(film)>	<isLocatedIn>	<United_Kingdom>
+<Shane_Lowry_(footballer)>	<wasBornIn>	<Perth>
+<Jonathan_Pryce>	<isCitizenOf>	<Wales>
+<Paulo_Costa_(footballer)>	<isCitizenOf>	<Greece>
+<Walt_Disney>	<isCitizenOf>	<Austria>
+<Robert_de_Pinho_de_Souza>	<isCitizenOf>	<Brazil>
+<Shirley_Ann_Russell>	<diedIn>	<London>
+<Raïs_M'Bolhi>	<wasBornIn>	<Paris>
+<Marc_Richards>	<playsFor>	<Barnsley_F.C.>	<occursSince>	"2005-##-##"
+<Marc_Richards>	<playsFor>	<Barnsley_F.C.>	<occursUntil>	"2007-##-##"
+<Steve_Morgan_(footballer)>	<isCitizenOf>	<England>
+<Mick_Kennedy>	<playsFor>	<Chesterfield_F.C.>	<occursSince>	"1992-##-##"
+<Mick_Kennedy>	<playsFor>	<Chesterfield_F.C.>	<occursUntil>	"1993-##-##"
+<Gavin_Mahon>	<playsFor>	<Hereford_United_F.C.>
+<Lee_McEvilly>	<isAffiliatedTo>	<Cambridge_United_F.C.>
+<Ralph_Fiennes>	<actedIn>	<The_English_Patient_(film)>
+<Kuwait>	<participatedIn>	<Gulf_War>
+<Garry_Marshall>	<isCitizenOf>	<Germany>
+<Klaus_Badelt>	<wroteMusicFor>	<TMNT_(film)>
+<Evan_Rachel_Wood>	<actedIn>	<The_Wrestler_(2008_film)>
+<Joe_Johnson_(footballer,_born_1911)>	<wasBornIn>	<Grimsby>
+<Clinton_Morrison>	<isAffiliatedTo>	<Colchester_United_F.C.>
+<John_Michael_Higgins>	<actedIn>	<A_Mighty_Wind>
+<Wayne_Biggins>	<isAffiliatedTo>	<Stoke_City_F.C.>
+<Jennifer_Connelly>	<livesIn>	<Brooklyn>
+<Scott_Shearer>	<playsFor>	<Wrexham_A.F.C.>	<occursSince>	"2010-##-##"
+<Scott_Shearer>	<playsFor>	<Wrexham_A.F.C.>	<occursUntil>	"2011-##-##"
+<Kevin_Spacey>	<actedIn>	<L.A._Confidential_(film)>
+<Nile_Ranger>	<playsFor>	<Barnsley_F.C.>	<occursSince>	"2011-##-##"
+<Dave_Halliday>	<isCitizenOf>	<Scotland>
+<Ryan_Brunt_(footballer)>	<isAffiliatedTo>	<Tranmere_Rovers_F.C.>
+<2010_Winter_Olympics>	<isLocatedIn>	<Canada>
+<Richard_Jobson_(footballer)>	<playsFor>	<Watford_F.C.>	<occursSince>	"1982-##-##"
+<Richard_Jobson_(footballer)>	<playsFor>	<Watford_F.C.>	<occursUntil>	"1985-##-##"
+<Shirley_MacLaine>	<actedIn>	<Cannonball_Run_II>
+<Angela_Lansbury>	<hasWonPrize>	<Laurence_Olivier_Award>
+<Will_Ferrell>	<actedIn>	<Bewitched_(2005_film)>
+<Ben_Roberts_(footballer)>	<isAffiliatedTo>	<Hartlepool_United_F.C.>
+<George_Berry_(footballer)>	<isAffiliatedTo>	<Stoke_City_F.C.>
+<Nigel_Gleghorn>	<playsFor>	<Burnley_F.C.>	<occursSince>	"1996-##-##"
+<Nigel_Gleghorn>	<playsFor>	<Burnley_F.C.>	<occursUntil>	"1998-##-##"
+<Michael_Shannon>	<actedIn>	<Man_of_Steel_(film)>
+<Dean_Holdsworth>	<isAffiliatedTo>	<Port_Vale_F.C.>
+<James_Riley_(soccer)>	<playsFor>	<Seattle_Sounders_FC>	<occursSince>	"2009-##-##"
+<James_Riley_(soccer)>	<playsFor>	<Seattle_Sounders_FC>	<occursUntil>	"2011-##-##"
+<Evander_Sno>	<playsFor>	<NAC_Breda>	<occursSince>	"2005-##-##"
+<Evander_Sno>	<playsFor>	<NAC_Breda>	<occursUntil>	"2006-##-##"
+<Bruno_Zuculini>	<isCitizenOf>	<England>
+<Jason_Banton>	<isAffiliatedTo>	<Milton_Keynes_Dons_F.C.>
+<Dean_Saunders>	<isAffiliatedTo>	<Oxford_United_F.C.>
+<Cristian_Bucchi>	<playsFor>	<Ternana_Calcio>	<occursSince>	"2001-##-##"
+<Cristian_Bucchi>	<playsFor>	<Ternana_Calcio>	<occursUntil>	"2002-##-##"
+<Ludwig_Wittgenstein>	<diedIn>	<Cambridge>
+<Peter_Crouch>	<playsFor>	<Southampton_F.C.>	<occursSince>	"2004-##-##"
+<Peter_Crouch>	<playsFor>	<Southampton_F.C.>	<occursUntil>	"2005-##-##"
+<Alex_Mathie>	<isAffiliatedTo>	<Newcastle_United_F.C.>
+<Paul_Marshall_(footballer)>	<isAffiliatedTo>	<Aberdeen_F.C.>
+<Barry_Robson>	<isAffiliatedTo>	<Middlesbrough_F.C.>
+<Alan_J._Pakula>	<isCitizenOf>	<United_States>
+<Jack_Nicholson>	<actedIn>	<A_Few_Good_Men>
+<Lateef_Elford-Alliyu>	<playsFor>	<Crawley_Town_F.C.>
+<Bob_Curry>	<isAffiliatedTo>	<Colchester_United_F.C.>
+<Colin_Hendry>	<isAffiliatedTo>	<Blackpool_F.C.>
+<Mandatory_Palestine>	<participatedIn>	<Italian_Campaign_(World_War_II)>
+<Kansas_City,_Missouri>	<isLocatedIn>	<Jackson_County,_Missouri>
+<Wehrmacht>	<isLocatedIn>	<Nazi_Germany>
+<Nicolas_Anelka>	<playsFor>	<France_national_football_team>	<occursSince>	"1998-##-##"
+<Nicolas_Anelka>	<playsFor>	<France_national_football_team>	<occursUntil>	"2010-##-##"
+<Michael_Blackwood_(footballer)>	<playsFor>	<Halesowen_Town_F.C.>	<occursSince>	"2003-##-##"
+<George_McNestry>	<playsFor>	<Sunderland_A.F.C.>	<occursSince>	"1929-##-##"
+<George_McNestry>	<playsFor>	<Sunderland_A.F.C.>	<occursUntil>	"1930-##-##"
+<Dave_Regis>	<playsFor>	<Southend_United_F.C.>	<occursSince>	"1994-##-##"
+<Dave_Regis>	<playsFor>	<Southend_United_F.C.>	<occursUntil>	"1996-##-##"
+<Jajá>	<isAffiliatedTo>	<Clube_de_Regatas_do_Flamengo>
+<Ottoman_Empire>	<hasOfficialLanguage>	<Turkish_language>
+<Nicky_Shorey>	<isAffiliatedTo>	<England_national_football_team>
+<John_Hendry_(footballer)>	<isAffiliatedTo>	<Swansea_City_A.F.C.>
+<Chicago_metropolitan_area>	<isLocatedIn>	<Evanston,_Illinois>
+<Jack_Nicholson>	<actedIn>	<Easy_Rider>
+<Rob_Burch_(footballer)>	<playsFor>	<Barnet_F.C.>	<occursSince>	"2007-##-##"
+<Ian_Stevens_(footballer)>	<isAffiliatedTo>	<Wrexham_A.F.C.>
+<Gary_McSheffrey>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Raphael_Meade>	<isAffiliatedTo>	<Odense_Boldklub>
+<Jane_Espenson>	<wasBornIn>	<Ames,_Iowa>
+<Rod_Steiger>	<actedIn>	<In_the_Heat_of_the_Night_(film)>
+<Clyde_Wijnhard>	<isAffiliatedTo>	<FC_Groningen>
+<Jim_McCalliog>	<isAffiliatedTo>	<Southampton_F.C.>
+<Viggo_Mortensen>	<actedIn>	<Psycho_(1998_film)>
+<Ademola_Bankole>	<playsFor>	<Barnet_F.C.>	<occursSince>	"2004-##-##"
+<New_Brunswick>	<hasCapital>	<Fredericton>
+<Rita_Wilson>	<isCitizenOf>	<Bulgaria>
+<Emma_Thompson>	<actedIn>	<Angels_in_America_(miniseries)>
+<Fumaça_(footballer,_born_1976)>	<isCitizenOf>	<England>
+<War_of_the_First_Coalition>	<happenedIn>	<Kingdom_of_Great_Britain>
+<Peter_Skipper>	<isAffiliatedTo>	<Scunthorpe_United_F.C.>
+<Kaba_Diawara>	<isAffiliatedTo>	<Stade_Rennais_F.C.>
+<James_Remar>	<isCitizenOf>	<Russia>
+<Iván_Kaviedes>	<playsFor>	<Ecuador_national_football_team>	<occursSince>	"1996-##-##"
+<Iván_Kaviedes>	<playsFor>	<Ecuador_national_football_team>	<occursUntil>	"2012-##-##"
+<British_Columbia>	<isLocatedIn>	<Vancouver>
+<Joni_Mitchell>	<hasWonPrize>	<Grammy_Lifetime_Achievement_Award>
+<Cory_Gibbs>	<playsFor>	<Chicago_Fire_Soccer_Club>	<occursSince>	"2011-##-##"
+<Cory_Gibbs>	<playsFor>	<Chicago_Fire_Soccer_Club>	<occursUntil>	"2012-##-##"
+<Kane_Ferdinand>	<playsFor>	<Peterborough_United_F.C.>	<occursSince>	"2012-##-##"
+<Kane_Ferdinand>	<playsFor>	<Peterborough_United_F.C.>	<occursUntil>	"2015-##-##"
+<James_Dunne>	<isAffiliatedTo>	<Wimbledon_F.C.>
+<David_Lee_(footballer,_born_1980)>	<playsFor>	<Hull_City_A.F.C.>	<occursSince>	"2001-##-##"
+<David_Lee_(footballer,_born_1980)>	<playsFor>	<Hull_City_A.F.C.>	<occursUntil>	"2002-##-##"
+<Brad_Jones_(footballer)>	<playsFor>	<Sheffield_Wednesday_F.C.>
+<Nintendo_World_Championships>	<isLocatedIn>	<Cleveland>
+<Long_Turkish_War>	<happenedIn>	<Czech_Republic>
+<Jason_Euell>	<isCitizenOf>	<Jamaica>
+<Ryan_Burge>	<isAffiliatedTo>	<Birmingham_City_F.C.>
+<Romania>	<dealsWith>	<Netherlands>
+<Paul_Kinnaird>	<isAffiliatedTo>	<Shrewsbury_Town_F.C.>
+<Stuart_Parker_(footballer)>	<playsFor>	<Blackburn_Rovers_F.C.>
+<Elvis_Costello>	<isMarriedTo>	<Diana_Krall>	<occursSince>	"2003-##-##"
+<Ben_Hamer>	<isAffiliatedTo>	<Bristol_City_F.C.>
+<Wilson_Kamavuaka>	<isCitizenOf>	<Republic_of_the_Congo>
+<Hans_Zimmer>	<wroteMusicFor>	<The_Da_Vinci_Code_(film)>
+<Wendy_Melvoin>	<created>	<Heroes_(TV_series)>
+<Bas_Savage>	<isAffiliatedTo>	<Gillingham_F.C.>
+<Paul_Auster>	<wasBornIn>	<Newark,_New_Jersey>
+<Luciano_Figueroa>	<playsFor>	<Genoa_C.F.C.>
+<Michael_Owen>	<wasBornIn>	<Chester>
+<Paul_Sorvino>	<actedIn>	<Bulworth>
+<Leighton_James>	<playsFor>	<Burnley_F.C.>	<occursSince>	"1970-##-##"
+<Leighton_James>	<playsFor>	<Burnley_F.C.>	<occursUntil>	"1975-##-##"
+<Pelé_(footballer,_born_1978)>	<isCitizenOf>	<Cape_Verde>
+<Tommy_Wright_(footballer,_born_1963)>	<isAffiliatedTo>	<Nottingham_Forest_F.C.>
+<Peter_Beagrie>	<playsFor>	<Scunthorpe_United_F.C.>	<occursSince>	"2001-##-##"
+<Peter_Beagrie>	<playsFor>	<Scunthorpe_United_F.C.>	<occursUntil>	"2006-##-##"
+<Eddie_Kelly_(footballer)>	<isCitizenOf>	<England>
+<Jimmy_Spencer_(footballer)>	<isAffiliatedTo>	<Cambridge_United_F.C.>
+<Tarcisio_Burgnich>	<isAffiliatedTo>	<Juventus_F.C.>
+<Martin_Jol>	<playsFor>	<FC_Twente>	<occursSince>	"1979-##-##"
+<Martin_Jol>	<playsFor>	<FC_Twente>	<occursUntil>	"1982-##-##"
+<Nobel_Prize_in_Physiology_or_Medicine>	<isLocatedIn>	<Stockholm>
+<Ben_Purkiss>	<wasBornIn>	<Sheffield>
+<Rob_Page>	<playsFor>	<Coventry_City_F.C.>	<occursSince>	"2005-##-##"
+<Rob_Page>	<playsFor>	<Coventry_City_F.C.>	<occursUntil>	"2008-##-##"
+<Luis_Alonso_Sandoval>	<isAffiliatedTo>	<Monarcas_Morelia>
+<David_Martin_(footballer,_born_1986)>	<isAffiliatedTo>	<Wimbledon_F.C.>
+<Alan_Silvestri>	<wroteMusicFor>	<Back_to_the_Future_Part_III>
+<Don_Johnson>	<isCitizenOf>	<England>
+<Cristian_Montaño>	<isAffiliatedTo>	<Oldham_Athletic_A.F.C.>
+<Gary_Shelton>	<isAffiliatedTo>	<Walsall_F.C.>
+<Sean_Hayes_(actor)>	<wasBornIn>	<Chicago>
+<Alan_White_(English_footballer)>	<isCitizenOf>	<England>
+<Gary_Powell_(footballer)>	<isCitizenOf>	<Wales>
+<Dorothy_Fields>	<diedIn>	<New_York_City>
+<Jason_Flemyng>	<actedIn>	<From_Hell_(film)>
+<Stewart_Littlewood>	<isAffiliatedTo>	<Oldham_Athletic_A.F.C.>
+<Denmark>	<dealsWith>	<United_States>
+<Maicon_Santos>	<playsFor>	<FC_Dallas>
+<Terry_Lees>	<playsFor>	<Roda_JC_Kerkrade>	<occursSince>	"1977-##-##"
+<Terry_Lees>	<playsFor>	<Roda_JC_Kerkrade>	<occursUntil>	"1979-##-##"
+<Maggie_Smith>	<hasWonPrize>	<Tony_Award>
+<Darius_Henderson>	<isCitizenOf>	<England>
+<Michael_Spies>	<wasBornIn>	<Stuttgart>
+<Gainesville,_Florida>	<isLocatedIn>	<United_States>
+<Darius_Henderson>	<playsFor>	<Coventry_City_F.C.>
+<Frances_Marion>	<diedIn>	<Los_Angeles>
+<War_of_1812>	<happenedIn>	<North_America>
+<John_McGuigan>	<playsFor>	<Swansea_City_A.F.C.>
+<Simon_Gillett>	<wasBornIn>	<Oxford>
+<Nathaniel_Mendez-Laing>	<playsFor>	<Sheffield_United_F.C.>	<occursSince>	"2011-##-##"
+<Concord,_New_Hampshire>	<isLocatedIn>	<New_Hampshire>
+<Felipe_Melo>	<playsFor>	<RCD_Mallorca>	<occursSince>	"2005-##-##"
+<Vera_Drake>	<isLocatedIn>	<France>
+<Trent_Reznor>	<wroteMusicFor>	<The_Social_Network>
+<Lake_Erie>	<isLocatedIn>	<Erie,_Pennsylvania>
+<Graham_Greene_(actor)>	<hasWonPrize>	<Grammy_Award>
+<Jayden_Stockley>	<playsFor>	<Exeter_City_F.C.>	<occursSince>	"2016-##-##"
+<Paul_Butler_(footballer,_born_1972)>	<isAffiliatedTo>	<Milton_Keynes_Dons_F.C.>
+<Ömer_Rıza>	<isCitizenOf>	<England>
+<Robert_Earnshaw>	<playsFor>	<Cardiff_City_F.C.>
+<Alexandre_Desplat>	<isCitizenOf>	<Greece>
+<Danny_Elfman>	<wroteMusicFor>	<Restless_(2011_film)>
+<Patrick_Suffo>	<isAffiliatedTo>	<FC_Barcelona_B>
+<Lauren_Bacall>	<actedIn>	<The_Mirror_Has_Two_Faces>
+<Adi_Yussuf>	<isCitizenOf>	<Tanzania>
+<Michel_Kuipers>	<isCitizenOf>	<England>
+<Kyle_McCulloch>	<isCitizenOf>	<United_States>
+<Confederate_States_of_America>	<participatedIn>	<American_Civil_War>
+<Kenny_Cooper>	<wasBornIn>	<Baltimore>
+<Adel_Taarabt>	<isAffiliatedTo>	<Queens_Park_Rangers_F.C.>
+<Lily_Tomlin>	<actedIn>	<And_the_Band_Played_On_(film)>
+<Darren_Jackson>	<isCitizenOf>	<Scotland>
+<Osvaldo_Ardiles>	<isAffiliatedTo>	<GNK_Dinamo_Zagreb>
+<General_Electric>	<isLocatedIn>	<Fairfield,_Connecticut>
+<Ben_Harding>	<isCitizenOf>	<England>
+<Rajasthan>	<isLocatedIn>	<Jaipur>
+<King_Records_(United_States)>	<isLocatedIn>	<Cincinnati>
+<Steve_Robinson_(Northern_Ireland_footballer)>	<isAffiliatedTo>	<Luton_Town_F.C.>
+<John_Lowey_(footballer)>	<isAffiliatedTo>	<Manchester_United_F.C.>
+<Scott_Davies_(footballer,_born_1988)>	<isAffiliatedTo>	<Aldershot_Town_F.C.>
+<Allen_McKnight>	<playsFor>	<Rotherham_United_F.C.>	<occursSince>	"1991-##-##"
+<Boise_State_University>	<isLocatedIn>	<Boise,_Idaho>
+<Vince_Gilligan>	<hasWonPrize>	<Writers_Guild_of_America_Award>
+<Michele_Serena>	<isAffiliatedTo>	<Calcio_Padova>
+<Miguel_de_Cervantes>	<influences>	<J._M._Coetzee>
+<Ally_Graham>	<playsFor>	<Ayr_United_F.C.>	<occursSince>	"1997-##-##"
+<Ally_Graham>	<playsFor>	<Ayr_United_F.C.>	<occursUntil>	"1998-##-##"
+<Wuhan>	<isLocatedIn>	<China>
+<Peter_Taylor_(footballer,_born_1953)>	<isAffiliatedTo>	<Wycombe_Wanderers_F.C.>
+<Nick_Proschwitz>	<playsFor>	<Hull_City_A.F.C.>	<occursSince>	"2012-##-##"
+<Nick_Proschwitz>	<playsFor>	<Hull_City_A.F.C.>	<occursUntil>	"2014-##-##"
+<Alan_White_(English_footballer)>	<playsFor>	<Boston_United_F.C.>	<occursSince>	"2005-##-##"
+<Alan_White_(English_footballer)>	<playsFor>	<Boston_United_F.C.>	<occursUntil>	"2006-##-##"
+<Mark_Danks>	<isCitizenOf>	<United_Kingdom>
+<Daniel_Nardiello>	<isAffiliatedTo>	<Plymouth_Argyle_F.C.>
+<Charlie_Miller>	<isCitizenOf>	<Scotland>
+<Worthing>	<isLocatedIn>	<Sussex>
+<Inyo_County,_California>	<isLocatedIn>	<California>
+<Pamela_Anderson>	<isCitizenOf>	<Canada>
+<Neil_Cox_(footballer)>	<isCitizenOf>	<England>
+<Mark_Stein_(footballer)>	<isAffiliatedTo>	<A.F.C._Bournemouth>
+<Richard_Jenkins>	<actedIn>	<The_Cabin_in_the_Woods>
+<Oleh_Koshelyuk>	<isCitizenOf>	<Ukraine>
+<Carl_Tiler>	<playsFor>	<Barnsley_F.C.>	<occursSince>	"1988-##-##"
+<Carl_Tiler>	<playsFor>	<Barnsley_F.C.>	<occursUntil>	"1991-##-##"
+<Citrus_County,_Florida>	<isLocatedIn>	<Florida>
+<Diane_Warren>	<hasWonPrize>	<APRA_Awards_(Australia)>
+<Saint_Petersburg_State_University>	<isLocatedIn>	<Saint_Petersburg>
+<Dave_Grohl>	<hasWonPrize>	<Grammy_Award>
+<Electric_Daisy_Carnival>	<isLocatedIn>	<Las_Vegas>
+<John_Sutton_(footballer)>	<playsFor>	<Tottenham_Hotspur_F.C.>
+<Sam_Neill>	<actedIn>	<Evil_Angels_(film)>
+<Santa_Rosa,_California>	<isLocatedIn>	<United_States>
+<Algeria>	<isLocatedIn>	<Africa>
+<John_Keeley>	<isAffiliatedTo>	<Chester_City_F.C.>
+<Robert_A._Heinlein>	<influences>	<Charles_Stross>
+<Lucy_Liu>	<isCitizenOf>	<United_States>
+<Japan>	<hasCurrency>	<Japanese_yen>
+<Thomas_Newman>	<wroteMusicFor>	<In_the_Bedroom>
+<Dave_Martin_(footballer,_born_1963)>	<isAffiliatedTo>	<Leyton_Orient_F.C.>
+<John_Rawls>	<graduatedFrom>	<Massachusetts_Institute_of_Technology>
+<Stuart_Cash>	<playsFor>	<Wycombe_Wanderers_F.C.>
+<El_Salvador>	<dealsWith>	<China>
+<Matteo_Brighi>	<playsFor>	<A.C._ChievoVerona>
+<Victor_Sikora>	<playsFor>	<Netherlands_national_football_team>	<occursSince>	"2001-##-##"
+<Victor_Sikora>	<playsFor>	<Netherlands_national_football_team>	<occursUntil>	"2002-##-##"
+<Mike_Stowell>	<playsFor>	<Preston_North_End_F.C.>
+<Bill_Pendergast>	<playsFor>	<Crewe_Alexandra_F.C.>
+<Dele_Adebola>	<isAffiliatedTo>	<Bristol_City_F.C.>
+<Noel_Hunt>	<isCitizenOf>	<Republic_of_Ireland>
+<Shirley_Knight>	<isCitizenOf>	<United_States>
+<Wally_Bellett>	<playsFor>	<Chelmsford_City_F.C.>	<occursSince>	"1954-##-##"
+<Wally_Bellett>	<playsFor>	<Chelmsford_City_F.C.>	<occursUntil>	"1961-##-##"
+<Jimmy_Rayner>	<playsFor>	<Peterborough_United_F.C.>	<occursSince>	"1958-##-##"
+<Jimmy_Rayner>	<playsFor>	<Peterborough_United_F.C.>	<occursUntil>	"1963-##-##"
+<Ian_Miller_(footballer,_born_1955)>	<playsFor>	<Bury_F.C.>	<occursSince>	"1973-##-##"
+<Ian_Miller_(footballer,_born_1955)>	<playsFor>	<Bury_F.C.>	<occursUntil>	"1974-##-##"
+<Mark_Wilson_(English_footballer)>	<playsFor>	<Tranmere_Rovers_F.C.>
+<Jay_Emmanuel-Thomas>	<isCitizenOf>	<England>
+<Duncan_McKenzie>	<isAffiliatedTo>	<Everton_F.C.>
+<Willie_D._Burton>	<isCitizenOf>	<United_States>
+<Lucas_Silva_(footballer,_born_1984)>	<isAffiliatedTo>	<Tiburones_Rojos_de_Veracruz>
+<Bruce_Dyer>	<playsFor>	<Stoke_City_F.C.>	<occursSince>	"2005-##-##"
+<Bruce_Dyer>	<playsFor>	<Stoke_City_F.C.>	<occursUntil>	"2006-##-##"
+<Takehito_Koyasu>	<isCitizenOf>	<Japan>
+<Keith_Lowe_(footballer)>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2006-##-##"
+<30_Days_of_Night_(film)>	<isLocatedIn>	<United_States>
+<Steve_Guinan>	<isAffiliatedTo>	<Shrewsbury_Town_F.C.>
+<Mel_Gibson>	<actedIn>	<Gallipoli_(1981_film)>
+<William_Thomson,_1st_Baron_Kelvin>	<livesIn>	<Cambridge>
+<Adam_Hammill>	<playsFor>	<Barnsley_F.C.>	<occursSince>	"2009-##-##"
+<Adam_Hammill>	<playsFor>	<Barnsley_F.C.>	<occursUntil>	"2011-##-##"
+<John_Roberts_(footballer,_born_1946)>	<isAffiliatedTo>	<Arsenal_F.C.>
+<Richie_Partridge>	<isAffiliatedTo>	<Bristol_Rovers_F.C.>
+<Waheeda_Rehman>	<isCitizenOf>	<India>
+<Craig_Rocastle>	<wasBornIn>	<Lewisham>
+<Riccardo_Meggiorini>	<playsFor>	<A.C._ChievoVerona>
+<Sunil_Dutt>	<isCitizenOf>	<India>
+<Emerson_(footballer,_born_1976)>	<isAffiliatedTo>	<Brazil_national_football_team>
+<EasyJet>	<isLocatedIn>	<Barcelona–El_Prat_Airport>
+<North_Dakota>	<isLocatedIn>	<United_States>
+<Geoff_Horsfield>	<isAffiliatedTo>	<Leicester_City_F.C.>
+<Cliff_Robertson>	<isCitizenOf>	<United_States>
+<Danny_Granville>	<isAffiliatedTo>	<Norwich_City_F.C.>
+<Michael_Blackwood_(footballer)>	<isAffiliatedTo>	<Worcester_City_F.C.>
+<Joe_Lewis_(footballer)>	<playsFor>	<Stockport_County_F.C.>	<occursSince>	"2007-##-##"
+<82nd_Academy_Awards>	<happenedIn>	<Hollywood>
+<Nicolas_Cage>	<actedIn>	<Moonstruck>
+<Tim_Curry>	<actedIn>	<Terry_Pratchett's_The_Colour_of_Magic>
+<Lindsay_Lohan>	<actedIn>	<I_Know_Who_Killed_Me>
+<Ian_Redford>	<wasBornIn>	<Perth,_Scotland>
+<Lauren_Bacall>	<isCitizenOf>	<Poland>
+<Frank_Large>	<isCitizenOf>	<United_States>
+<Sierra_Entertainment>	<isLocatedIn>	<Fresno,_California>
+<Sanmi_Odelusi>	<isAffiliatedTo>	<Reading_F.C.>
+<Lee_Thorpe>	<isAffiliatedTo>	<Brentford_F.C.>
+<Theoni_V._Aldredge>	<isCitizenOf>	<Greece>
+<Gwen_Stefani>	<isCitizenOf>	<United_Kingdom>
+<Rabindranath_Tagore>	<wasBornIn>	<Kolkata>
+<Los_Lobos>	<wroteMusicFor>	<Spy_Kids>
+<Fergie_(singer)>	<actedIn>	<Nine_(2009_live-action_film)>
+<Paul_Gerrard>	<playsFor>	<Everton_F.C.>	<occursSince>	"1996-##-##"
+<Paul_Gerrard>	<playsFor>	<Everton_F.C.>	<occursUntil>	"2004-##-##"
+<Crispin_Freeman>	<wasBornIn>	<Chicago>
+<George_Kirby_(footballer)>	<playsFor>	<Brentford_F.C.>
+<The_Rainmaker_(1997_film)>	<isLocatedIn>	<Germany>
+<Ibrahima_Sonko>	<isCitizenOf>	<Senegal>
+<Danijel_Pranjić>	<playsFor>	<SC_Heerenveen>	<occursSince>	"2005-##-##"
+<Danijel_Pranjić>	<playsFor>	<SC_Heerenveen>	<occursUntil>	"2009-##-##"
+<Ciarán_Toner>	<playsFor>	<Cambridge_United_F.C.>	<occursSince>	"2005-##-##"
+<George_Stevens>	<directed>	<A_Place_in_the_Sun_(film)>
+<Richard_O'Donnell>	<isAffiliatedTo>	<Chesterfield_F.C.>
+<KV_Mechelen>	<hasWonPrize>	<Nobel_Prize_in_Physiology_or_Medicine>
+<Ray_Liotta>	<isCitizenOf>	<United_States>
+<Tony_Lormor>	<playsFor>	<Shrewsbury_Town_F.C.>
+<Felix_Bastians>	<playsFor>	<Northwich_Victoria_F.C.>	<occursSince>	"2006-##-##"
+<Felix_Bastians>	<playsFor>	<Northwich_Victoria_F.C.>	<occursUntil>	"2007-##-##"
+<Jeff_Whitley>	<playsFor>	<Northwich_Victoria_F.C.>
+<Andy_Saville>	<playsFor>	<Hull_City_A.F.C.>	<occursSince>	"1983-##-##"
+<Andy_Saville>	<playsFor>	<Hull_City_A.F.C.>	<occursUntil>	"1989-##-##"
+<Costa_Rica>	<dealsWith>	<Mexico>
+<Ian_Harte>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Chicago>	<isLocatedIn>	<Chicago_metropolitan_area>
+<Junichi_Inamoto>	<isAffiliatedTo>	<Eintracht_Frankfurt>
+<Brian_Birch>	<isAffiliatedTo>	<Helsingborgs_IF>
+<Stuart_Hicks>	<playsFor>	<Preston_North_End_F.C.>	<occursSince>	"1994-##-##"
+<Stuart_Hicks>	<playsFor>	<Preston_North_End_F.C.>	<occursUntil>	"1995-##-##"
+<Chris_Pronger>	<isAffiliatedTo>	<Edmonton_Oilers>
+<Dave_Beasant>	<playsFor>	<Nottingham_Forest_F.C.>	<occursSince>	"1997-##-##"
+<Dave_Beasant>	<playsFor>	<Nottingham_Forest_F.C.>	<occursUntil>	"2001-##-##"
+<Roque_Santa_Cruz>	<playsFor>	<FC_Bayern_Munich>	<occursSince>	"1999-##-##"
+<Roque_Santa_Cruz>	<playsFor>	<FC_Bayern_Munich>	<occursUntil>	"2007-##-##"
+<Anthony_Hopkins>	<actedIn>	<Alexander_(2004_film)>
+<Zé_Roberto>	<playsFor>	<Brazil_national_football_team>	<occursSince>	"1995-##-##"
+<Zé_Roberto>	<playsFor>	<Brazil_national_football_team>	<occursUntil>	"2006-##-##"
+<Laura_Carmichael>	<isCitizenOf>	<England>
+<Tom_Green>	<isMarriedTo>	<Drew_Barrymore>
+<Matt_Clarke_(footballer,_born_1973)>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"2001-##-##"
+<Cree_Summer>	<isCitizenOf>	<United_States>
+<Trevor_Carson>	<playsFor>	<Chesterfield_F.C.>	<occursSince>	"2008-##-##"
+<Trevor_Carson>	<playsFor>	<Chesterfield_F.C.>	<occursUntil>	"2009-##-##"
+<Robert_De_Niro>	<isCitizenOf>	<Netherlands>
+<Carmine_Gautieri>	<isAffiliatedTo>	<A.S._Livorno_Calcio>
+<Wayne_Brown_(footballer,_born_August_1977)>	<isAffiliatedTo>	<Gillingham_F.C.>
+<Eddie_McGoldrick>	<isAffiliatedTo>	<Republic_of_Ireland_national_football_team>
+<Weber_State_University>	<isLocatedIn>	<Utah>
+<Ravi_Shankar>	<wroteMusicFor>	<Gandhi_(film)>
+<Michael_Cera>	<actedIn>	<Scott_Pilgrim_vs._the_World>
+<Daniel_Dennett>	<isCitizenOf>	<United_States>
+<Mike_Pollitt>	<playsFor>	<Notts_County_F.C.>	<occursSince>	"1995-##-##"
+<Mike_Pollitt>	<playsFor>	<Notts_County_F.C.>	<occursUntil>	"1998-##-##"
+<June_Carter_Cash>	<isCitizenOf>	<United_States>
+<Kevin_Cooper_(footballer)>	<playsFor>	<Norwich_City_F.C.>	<occursSince>	"2004-##-##"
+<Ben_Gordon_(footballer,_born_1991)>	<wasBornIn>	<Bradford>
+<Alexander_Payne>	<hasWonPrize>	<Academy_Award_for_Best_Adapted_Screenplay>
+<Alex_Manninger>	<isAffiliatedTo>	<ACF_Fiorentina>
+<Sienna_Miller>	<wasBornIn>	<New_York_City>
+<Darius_Henderson>	<isAffiliatedTo>	<Mansfield_Town_F.C.>
+<Warner_Bros._Animation>	<isLocatedIn>	<California>
+<Tom_Heaton>	<isAffiliatedTo>	<Burnley_F.C.>
+<Lee_Fowler>	<isAffiliatedTo>	<Oxford_United_F.C.>
+<Mark_Wilson_(English_footballer)>	<playsFor>	<Walsall_F.C.>
+<Nikola_Vujadinović>	<wasBornIn>	<Belgrade>
+<Guus_Hiddink>	<playsFor>	<PSV_Eindhoven>	<occursSince>	"1970-##-##"
+<Guus_Hiddink>	<playsFor>	<PSV_Eindhoven>	<occursUntil>	"1972-##-##"
+<Danny_Sonner>	<isCitizenOf>	<Northern_Ireland>
+<Don_Weston>	<isAffiliatedTo>	<Altrincham_F.C.>
+<Nikola_Tesla>	<isCitizenOf>	<Hungary>
+<Guus_Hiddink>	<isAffiliatedTo>	<Australia_national_soccer_team>
+<Dwane_Lee>	<playsFor>	<Aldershot_Town_F.C.>	<occursSince>	"2002-##-##"
+<Rosario_Dawson>	<wasBornIn>	<New_York_City>
+<Grzegorz_Szamotulski>	<isAffiliatedTo>	<Legia_Warsaw>
+<The_Golden_Compass_(film)>	<isLocatedIn>	<United_States>
+<Jamie_Waite>	<isCitizenOf>	<United_Kingdom>
+<Jason_Brown_(footballer)>	<isAffiliatedTo>	<Wales_national_football_team>
+<Tobey_Maguire>	<isCitizenOf>	<United_States>
+<Nathan_Lane>	<isCitizenOf>	<United_States>
+<Song_Chong-gug>	<isAffiliatedTo>	<South_Korea_national_football_team>
+<Gary_Alexander_(footballer)>	<isAffiliatedTo>	<AFC_Wimbledon>
+<Sam_Irving>	<isCitizenOf>	<Scotland>
+<Percy_Whipp>	<playsFor>	<Swindon_Town_F.C.>	<occursSince>	"1930-##-##"
+<Percy_Whipp>	<playsFor>	<Swindon_Town_F.C.>	<occursUntil>	"1931-##-##"
+<Hayden_Foxe>	<isAffiliatedTo>	<West_Ham_United_F.C.>
+<John_Ford>	<actedIn>	<The_Quiet_Man>
+<Chris_Kettings>	<isAffiliatedTo>	<York_City_F.C.>
+<Alecko_Eskandarian>	<isCitizenOf>	<Iran>
+<Paul_Fitzpatrick>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursSince>	"1985-##-##"
+<Paul_Fitzpatrick>	<playsFor>	<Bolton_Wanderers_F.C.>	<occursUntil>	"1986-##-##"
+<Toho>	<isLocatedIn>	<Chiyoda,_Tokyo>
+<Sydney_Pollack>	<directed>	<The_Firm_(1993_film)>
+<Columbia,_South_Carolina>	<isLocatedIn>	<South_Carolina>
+<New_Bedford,_Massachusetts>	<isLocatedIn>	<Massachusetts>
+<Andy_Kennedy_(footballer,_born_1964)>	<isAffiliatedTo>	<Sheffield_United_F.C.>
+<Rachel_Portman>	<wroteMusicFor>	<Beloved_(film)>
+<Sofia_Coppola>	<hasWonPrize>	<Independent_Spirit_Award_for_Best_Director>
+<FC_Zenit_Saint_Petersburg>	<isLocatedIn>	<Russia>
+<Andy_Keogh>	<isAffiliatedTo>	<Leeds_United_F.C.>
+<Stuart_McMillan_(footballer)>	<isAffiliatedTo>	<Gillingham_F.C.>
+<West_Java>	<hasWonPrize>	<Nobel_Prize_in_Physics>
+<Jon_Shaw>	<isAffiliatedTo>	<Mansfield_Town_F.C.>
+<Gustave_Flaubert>	<influences>	<George_Orwell>
+<Gerry_Anderson>	<isCitizenOf>	<England>
+<Jared_Borgetti>	<playsFor>	<C.F._Monterrey>	<occursSince>	"2008-##-##"
+<Candice_Bergen>	<isCitizenOf>	<Sweden>
+<11Eleven_Project>	<isLocatedIn>	<United_States>
+<Tom_Flanagan_(footballer)>	<isAffiliatedTo>	<Barnet_F.C.>
+<Meryl_Streep>	<actedIn>	<Fantastic_Mr._Fox_(film)>
+<Ardent_Records>	<isLocatedIn>	<Memphis,_Tennessee>
+<Neil_Simon>	<created>	<The_Goodbye_Girl>
+<Ryan_McCann>	<isAffiliatedTo>	<Ayr_United_F.C.>
+<Timothy_Spall>	<isCitizenOf>	<England>
+<Brian_Murphy_(association_footballer)>	<playsFor>	<Swansea_City_A.F.C.>	<occursSince>	"2003-##-##"
+<Brian_Murphy_(association_footballer)>	<playsFor>	<Swansea_City_A.F.C.>	<occursUntil>	"2006-##-##"
+<Russell_Coughlin>	<playsFor>	<Exeter_City_F.C.>	<occursSince>	"1993-##-##"
+<Russell_Coughlin>	<playsFor>	<Exeter_City_F.C.>	<occursUntil>	"1995-##-##"
+<Nathan_Byrne>	<isAffiliatedTo>	<Wolverhampton_Wanderers_F.C.>
+<Cicely_Tyson>	<wasBornIn>	<New_York_City>
+<Philip_Yordan>	<hasWonPrize>	<Edgar_Award>
+<Westminster_School>	<isLocatedIn>	<City_of_Westminster>
+<Allan_Russell>	<isCitizenOf>	<England>
+<O'Neill_Donaldson>	<isAffiliatedTo>	<Mansfield_Town_F.C.>
+<Bobby_Olejnik>	<isAffiliatedTo>	<Falkirk_F.C.>
+<Juan_Manuel_Olivera>	<isCitizenOf>	<Chile>
+<United_States_Virgin_Islands>	<isLocatedIn>	<United_States>
+<Dieumerci_Mbokani>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Mark_Pembridge>	<isCitizenOf>	<United_Kingdom>
+<Ray_Liotta>	<actedIn>	<Smokin'_Aces>
+<Carter_Burwell>	<wroteMusicFor>	<Velvet_Goldmine>
+<Clyde_Wijnhard>	<playsFor>	<Darlington_F.C.>
+<Charlton_Heston>	<isCitizenOf>	<England>
+<Adrian_Viveash>	<playsFor>	<Oxford_United_F.C.>	<occursSince>	"2002-##-##"
+<Adrian_Viveash>	<playsFor>	<Oxford_United_F.C.>	<occursUntil>	"2003-##-##"
+<Luís_Leal_(footballer)>	<playsFor>	<C.F._Os_Belenenses>
+<Micky_Adams>	<isAffiliatedTo>	<Sheffield_United_F.C.>
+<Gaston_Taument>	<isCitizenOf>	<Austria>
+<Chris_Isaak>	<isCitizenOf>	<United_States>
+<Peter_McParland>	<playsFor>	<Aston_Villa_F.C.>	<occursSince>	"1952-##-##"
+<Peter_McParland>	<playsFor>	<Aston_Villa_F.C.>	<occursUntil>	"1962-##-##"
+<Devin_Townsend>	<wasBornIn>	<New_Westminster>
+<Greater_Sudbury>	<isLocatedIn>	<Ontario>
+<Anthony_Elding>	<playsFor>	<Stevenage_F.C.>	<occursSince>	"2003-##-##"
+<Anthony_Elding>	<playsFor>	<Stevenage_F.C.>	<occursUntil>	"2006-##-##"
+<Jaap_Stam>	<playsFor>	<PSV_Eindhoven>	<occursSince>	"1996-##-##"
+<Jaap_Stam>	<playsFor>	<PSV_Eindhoven>	<occursUntil>	"1998-##-##"
+<Brian_Murphy_(association_footballer)>	<isAffiliatedTo>	<Swansea_City_A.F.C.>
+<Dominican_Republic>	<hasOfficialLanguage>	<Spanish_language>
+<Gene_Stupnitsky>	<isCitizenOf>	<United_States>
+<Edward_Zwick>	<directed>	<The_Last_Samurai>
+<Joe_Bradshaw_(footballer)>	<isCitizenOf>	<France>
+<Angels_&_Airwaves_Presents_Love_Live>	<isCitizenOf>	<Scotland>
+<Enrico_Fermi>	<isCitizenOf>	<Israel>
+<Federico_Fellini>	<isCitizenOf>	<Greece>
+<Denmark>	<isCitizenOf>	<Netherlands>
+<Alan_Thompson_(footballer,_born_1973)>	<isCitizenOf>	<England>
+<Josh_Wright>	<isCitizenOf>	<England>
+<Derek_McInnes>	<isCitizenOf>	<Scotland>
+<Bruno_Rodriguez>	<isCitizenOf>	<Norway>
+<Young_Adam_(film)>	<isCitizenOf>	<Norway>
+<Liam_George>	<isCitizenOf>	<India>
+<Mel_Brooks>	<isCitizenOf>	<England>
+<Abel_Xavier>	<isCitizenOf>	<England>
+<Jamie_O'Hara_(footballer)>	<isCitizenOf>	<United_States>
+<Jamie_O'Hara_(footballer)>	<isCitizenOf>	<Greece>
+<Jeffrey_Monakana>	<isCitizenOf>	<United_States>
+<Colin_Miller_(soccer)>	<isCitizenOf>	<Republic_of_Ireland>
+<Dougie_Freedman>	<isCitizenOf>	<Republic_of_Ireland>
+<The_Walt_Disney_Company>	<isCitizenOf>	<England>
+<Adel_Taarabt>	<isCitizenOf>	<England>
+<Leighton_Meester>	<isCitizenOf>	<Kazakhstan>
+<Paul_Rachubka>	<isCitizenOf>	<Cape_Verde>
+<David_McCracken>	<isCitizenOf>	<Russia>
+<Ed_Asner>	<isCitizenOf>	<United_States>
+<Christian_Hanson_(footballer)>	<isCitizenOf>	<Greece>
+<Ivory_Coast>	<isCitizenOf>	<Russia>
+<Cristian_Daniel_Ledesma>	<isCitizenOf>	<Netherlands>
+<Calum_Davenport>	<isCitizenOf>	<Italy>
+<Invercargill>	<isCitizenOf>	<England>
+<Geoff_Scott_(footballer)>	<isCitizenOf>	<United_States>
+<Liam_Chilvers>	<isCitizenOf>	<India>
+<Alessandro_Bastrini>	<isCitizenOf>	<Cameroon>
+<Dean_Howell>	<isCitizenOf>	<England>
+<Roberto_Baronio>	<isCitizenOf>	<Russia>
+<Ben_Smith_(footballer,_born_1978)>	<isCitizenOf>	<England>
+<Jonathan_Swift>	<isCitizenOf>	<United_Kingdom>
+<Tony_Pulis>	<isCitizenOf>	<Australia>
+<Milan>	<isCitizenOf>	<Niger>
+<Mali>	<isCitizenOf>	<Australia>
+<Parlophone>	<isCitizenOf>	<United_Kingdom>
+<Brian_Kidd>	<isCitizenOf>	<United_States>
+<Toumani_Diagouraga>	<isCitizenOf>	<England>
+<John_Cairns_(footballer)>	<isCitizenOf>	<England>
+<Don_Knotts>	<isCitizenOf>	<United_States>
+<James_Tavernier>	<isCitizenOf>	<Chile>
+<Etta_James>	<isCitizenOf>	<Austria>
+<Rolando_Bianchi>	<isCitizenOf>	<United_States>
+<Simon_Grayson>	<isCitizenOf>	<Scotland>
+<Simon_Grayson>	<isCitizenOf>	<England>
+<Corrado_Colombo>	<isCitizenOf>	<Tanzania>
+<Corrado_Colombo>	<isCitizenOf>	<Wales>
+<Alphonse_Tchami>	<isCitizenOf>	<Tanzania>
+<Abdulai_Bell-Baggie>	<isCitizenOf>	<United_States>
+<Abdulai_Bell-Baggie>	<isCitizenOf>	<France>
+<Myles_Weston>	<isCitizenOf>	<United_States>
+<Nathan_Blake>	<isCitizenOf>	<United_States>
+<Nathan_Blake>	<isCitizenOf>	<England>
+<Niall_Thompson>	<isCitizenOf>	<United_States>
+<Niall_Thompson>	<isCitizenOf>	<England>
+<Andrew_Stanton>	<isCitizenOf>	<United_Kingdom>
+<Tokyo>	<isCitizenOf>	<Scotland>
+<Alejandro_Scopelli>	<isCitizenOf>	<India>
+<Grand_Teton_National_Park>	<isCitizenOf>	<England>
+<Charlie_Sheringham>	<isCitizenOf>	<Switzerland>
+<Charlie_Sheringham>	<isCitizenOf>	<Sweden>
+<Blackpool>	<isCitizenOf>	<France>
+<Landon_Donovan>	<isCitizenOf>	<Hungary>
+<Antonio_Banderas>	<isCitizenOf>	<Austria>
+<Emory_University>	<isCitizenOf>	<Croatia>
+<Djibril_Cissé>	<isCitizenOf>	<United_States>
+<David_Mendes_da_Silva>	<isCitizenOf>	<England>
+<David_Mendes_da_Silva>	<isCitizenOf>	<France>
+<Dan_Harding>	<isCitizenOf>	<United_States>
+<Dan_Harding>	<isCitizenOf>	<India>
+<Poland>	<isCitizenOf>	<Jamaica>
+<Chris_Powell>	<isCitizenOf>	<Israel>
+<Grégory_Tadé>	<isCitizenOf>	<United_Kingdom>
+<David_Thewlis>	<isCitizenOf>	<United_Kingdom>
+<Gerry_Francis>	<isCitizenOf>	<Belgium>
+<Gerry_Francis>	<isCitizenOf>	<United_States>
+<Tim_Matheson>	<isCitizenOf>	<Austria>
+<Jason_Brown_(footballer)>	<isCitizenOf>	<Panama>
+<Jason_Brown_(footballer)>	<isCitizenOf>	<United_States>
+<Legend_(1985_film)>	<isCitizenOf>	<United_Kingdom>
+<Stark_County,_Ohio>	<isCitizenOf>	<United_Kingdom>
+<Jermaine_Beckford>	<isCitizenOf>	<England>
+<Jermaine_Beckford>	<isCitizenOf>	<Barbados>
+<Fred_Williamson>	<isCitizenOf>	<Jamaica>
+<Tim_Sherwood>	<isCitizenOf>	<Croatia>
+<Brian_Marwood>	<isCitizenOf>	<France>
+<Jon_Macken>	<isCitizenOf>	<Argentina>
+<Dave_Reeves>	<isCitizenOf>	<England>
+<Dave_Reeves>	<isCitizenOf>	<Northern_Ireland>
+<Latvia>	<isCitizenOf>	<Russia>
+<Johann_Smith>	<isCitizenOf>	<Argentina>
+<Paul_Dalglish>	<isCitizenOf>	<Russia>
+<Paul_Dalglish>	<isCitizenOf>	<Russia>
+<Johann_Wolfgang_von_Goethe>	<isCitizenOf>	<Denmark>
+<Bradley_Thomas_(footballer)>	<isCitizenOf>	<Croatia>
+<Darren_Dunning>	<isCitizenOf>	<Jamaica>
+<Darren_Dunning>	<isCitizenOf>	<Canada>
+<Ian_Muir>	<isCitizenOf>	<Switzerland>
+<Christopher_Guest>	<isCitizenOf>	<Greece>
+<Norman_Mailer>	<isCitizenOf>	<United_States>
+<Patrick_Kluivert>	<isCitizenOf>	<England>
+<Patrick_Kluivert>	<isCitizenOf>	<Hungary>
+<Peter_Shilton>	<isCitizenOf>	<Scotland>
+<Sally_Field>	<isCitizenOf>	<England>
+<Liam_Miller>	<isCitizenOf>	<England>
+<Indo-Pakistani_War_of_1971>	<isCitizenOf>	<United_States>
+<Simon_Gillett>	<isCitizenOf>	<United_States>
+<Kelvin_Langmead>	<isCitizenOf>	<Jamaica>
+<Peter_Berg>	<isCitizenOf>	<United_States>
+<Jake_Edwards_(footballer,_born_1976)>	<isCitizenOf>	<Wales>
+<Jamie_Day_(footballer,_born_1979)>	<isCitizenOf>	<Israel>
+<Ryan_Clarke>	<isCitizenOf>	<Ukraine>
+<Ryan_Clarke>	<isCitizenOf>	<Republic_of_Ireland>
+<Nick_Burton>	<isCitizenOf>	<England>
+<Nick_Burton>	<isCitizenOf>	<Israel>
+<Tom_Hanks>	<isCitizenOf>	<Wales>
+<Austria-Hungary>	<isCitizenOf>	<England>
+<Edward_G._Robinson>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Dallas>	<isCitizenOf>	<United_States>
+<Adil_Ramzi>	<isCitizenOf>	<England>
+<Parker_Posey>	<isCitizenOf>	<United_States>
+<Lincoln_City_F.C.>	<isCitizenOf>	<United_States>
+<Daniel_Inouye>	<isCitizenOf>	<United_States>
+<Joe_Anyinsah>	<isCitizenOf>	<England>
+<Joe_Anyinsah>	<isCitizenOf>	<Scotland>
+<Björn_Runström>	<isCitizenOf>	<Russia>
+<Björn_Runström>	<isCitizenOf>	<United_States>
+<Ademola_Bankole>	<isCitizenOf>	<Scotland>
+<University_of_Vienna>	<isCitizenOf>	<Denmark>
+<Eric_Wynalda>	<isCitizenOf>	<Greece>
+<Igor_Mitreski>	<isCitizenOf>	<United_States>
+<Toni_Silva>	<isCitizenOf>	<Wales>
+<Italy>	<isCitizenOf>	<England>
+<Brad_Jones_(footballer)>	<isCitizenOf>	<Niger>
+<The_Culinary_Institute_of_America>	<isCitizenOf>	<United_States>
+<White_Plains,_New_York>	<isCitizenOf>	<United_States>
+<Craig_Ireland>	<isCitizenOf>	<England>
+<Bobby_Mimms>	<isCitizenOf>	<United_Kingdom>
+<Eastern_Kentucky_University>	<isCitizenOf>	<United_Kingdom>
+<Roberto_Baggio>	<isCitizenOf>	<England>
+<Roberto_Baggio>	<isCitizenOf>	<Greece>
+<Edgar_Rice_Burroughs>	<isCitizenOf>	<Netherlands>
+<Fresno_County,_California>	<isCitizenOf>	<United_States>
+<Trésor_Kandol>	<isCitizenOf>	<India>
+<Harvey_Weinstein>	<isCitizenOf>	<Scotland>
+<Groucho_Marx>	<isCitizenOf>	<United_States>
+<Chris_Hackett_(footballer)>	<isCitizenOf>	<United_States>
+<Ramon_Menezes>	<isCitizenOf>	<India>
+<Matty_Lund>	<isCitizenOf>	<United_Arab_Emirates>
+<Matty_Lund>	<isCitizenOf>	<United_States>
+<Ian_Holloway>	<isCitizenOf>	<England>
+<Ian_Holloway>	<isCitizenOf>	<United_States>
+<Rebecca_Hall>	<isCitizenOf>	<United_States>
+<Asia_Argento>	<isCitizenOf>	<United_Kingdom>
+<Steven_Tyler>	<isCitizenOf>	<United_States>
+<Kevin_Lisbie>	<isCitizenOf>	<Netherlands>
+<Luftwaffe>	<isCitizenOf>	<England>
+<Leonard_Nimoy>	<isCitizenOf>	<England>
+<Jean-Philippe_Javary>	<isCitizenOf>	<Scotland>
+<Jocky_Wright>	<isCitizenOf>	<Russia>
+<Harry_Belafonte>	<isCitizenOf>	<England>
+<Lee_Cox_(footballer)>	<isCitizenOf>	<England>
+<Lee_Cox_(footballer)>	<isCitizenOf>	<Chile>
+<Joaquin_Phoenix>	<isCitizenOf>	<United_States>
+<Alan_Bennett_(footballer,_born_1981)>	<isCitizenOf>	<United_Kingdom>
+<Leroy_Chambers>	<isCitizenOf>	<Israel>
+<Mark_Burchill>	<isCitizenOf>	<United_States>
+<Mark_Burchill>	<isCitizenOf>	<United_States>
+<Peter_Marinello>	<isCitizenOf>	<Republic_of_Ireland>
+<Gertrude_Stein>	<isCitizenOf>	<United_States>
+<Simon_Grayson>	<isCitizenOf>	<United_Kingdom>
+<Adam_Proudlock>	<isCitizenOf>	<England>
+<Pontifical_Gregorian_University>	<isCitizenOf>	<Belgium>
+<Bam_Margera>	<isCitizenOf>	<Denmark>
+<Ben_Wilkinson>	<isCitizenOf>	<United_States>
+<Peter_Molloy_(footballer,_born_1909)>	<isCitizenOf>	<England>
+<Huntington,_New_York>	<isCitizenOf>	<England>
+<Tommy_Anderson_(footballer)>	<isCitizenOf>	<England>
+<Craig_McAllister>	<isCitizenOf>	<England>
+<Alias_(TV_series)>	<isCitizenOf>	<England>
+<Michael_Stipe>	<isCitizenOf>	<England>
+<Ed_O'Neill>	<isCitizenOf>	<England>
+<James_Dunne>	<isCitizenOf>	<England>
+<Jerry_Siegel>	<isCitizenOf>	<England>
+<Greg_Mills_(footballer)>	<isCitizenOf>	<United_States>
+<Greg_Mills_(footballer)>	<isCitizenOf>	<France>
+<Jayden_Stockley>	<isCitizenOf>	<Senegal>
+<Jayden_Stockley>	<isCitizenOf>	<England>
+<Kamloops>	<isCitizenOf>	<France>
+<Alfie_Conn_Jr.>	<isCitizenOf>	<Republic_of_the_Congo>
+<Eddie_Albert>	<isCitizenOf>	<United_States>
+<Columbia_Law_School>	<isCitizenOf>	<India>
+<Bill_Pullman>	<isCitizenOf>	<Australia>
+<Neil_Cutler>	<isCitizenOf>	<United_Kingdom>
+<Neil_Cutler>	<isCitizenOf>	<Greece>
+<Amsterdam>	<isCitizenOf>	<United_States>
+<Mick_Bodley>	<isCitizenOf>	<Republic_of_Ireland>
+<Intel>	<isCitizenOf>	<Cyprus>
+<James_Beattie_(footballer)>	<isCitizenOf>	<Croatia>
+<Marcus_Haber>	<isCitizenOf>	<England>
+<Gaël_Givet>	<isCitizenOf>	<Sweden>
+<Danny_Simpson>	<isCitizenOf>	<England>
+<Richard_Pryor>	<isCitizenOf>	<Belgium>
+<Kevin_McCarthy_(actor)>	<isCitizenOf>	<England>
+<Nicolas_Cage>	<isCitizenOf>	<United_States>
+<Alex_Gibney>	<isCitizenOf>	<El_Salvador>
+<Martin_Hodge>	<isCitizenOf>	<United_States>
+<Andrew_Davies_(footballer)>	<isCitizenOf>	<Panama>
+<Jeff_Wealands>	<isCitizenOf>	<United_States>
+<Los_Angeles_International_Airport>	<isCitizenOf>	<England>
+<Henri_Lansbury>	<isCitizenOf>	<Germany>
+<Bartholomew_Ogbeche>	<isCitizenOf>	<Wales>
+<Andy_Kiwomya>	<isCitizenOf>	<England>
+<Andy_Kiwomya>	<isCitizenOf>	<United_Arab_Emirates>
+<David_Crown>	<isCitizenOf>	<England>
+<David_Crown>	<isCitizenOf>	<Sweden>
+<Andrew_Hughes_(footballer,_born_1978)>	<isCitizenOf>	<United_States>
+<Habib_Bamogo>	<isCitizenOf>	<England>
+<Habib_Bamogo>	<isCitizenOf>	<United_States>
+<Danny_Graham_(footballer)>	<isCitizenOf>	<United_States>
+<Matthew_Barnes-Homer>	<isCitizenOf>	<Russia>
+<Pavel_Pergl>	<isCitizenOf>	<Sweden>
+<Claude_Davis>	<isCitizenOf>	<Russia>
+<Dave_Hanson_(footballer)>	<isCitizenOf>	<Wales>
+<Richard_Sylbert>	<isCitizenOf>	<Switzerland>
+<Michigan>	<isCitizenOf>	<Spain>
+<Matt_Dillon>	<isCitizenOf>	<United_States>
+<Peter_Swan_(footballer,_born_1966)>	<isCitizenOf>	<England>
+<Alfred_Molina>	<isCitizenOf>	<Spain>
+<Kevin_James_(English_footballer)>	<isCitizenOf>	<United_States>
+<Novak_Djokovic>	<isCitizenOf>	<United_Kingdom>
+<Hugh_Laurie>	<isCitizenOf>	<Spain>
+<Chris_Allen_(footballer,_born_1972)>	<isCitizenOf>	<France>
+<Baltimore–Washington_metropolitan_area>	<isCitizenOf>	<Austria>
+<Maceo_Rigters>	<isCitizenOf>	<India>
+<Martin_Short>	<isCitizenOf>	<United_States>
+<Art_Center_College_of_Design>	<isCitizenOf>	<Germany>
+<Bolt_(2008_film)>	<isCitizenOf>	<United_States>
+<Alfredo_Foni>	<isCitizenOf>	<England>
+<Perry_Suckling>	<isCitizenOf>	<United_States>
+<Jérôme_Leroy_(footballer)>	<isCitizenOf>	<Wales>
+<Yago_Fernández>	<isCitizenOf>	<United_States>
+<Yago_Fernández>	<isCitizenOf>	<France>
+<Dave_Regis>	<isCitizenOf>	<Republic_of_Ireland>
+<Aimee_Mann>	<isCitizenOf>	<England>
+<Michael_Duberry>	<isCitizenOf>	<Republic_of_Ireland>
+<Michael_Duberry>	<isCitizenOf>	<Netherlands>
+<Emerson_Thome>	<isCitizenOf>	<Hungary>
+<George_W._Bush>	<isCitizenOf>	<United_Kingdom>
+<Danny_Andrew>	<isCitizenOf>	<England>
+<Tim_Blake_Nelson>	<isCitizenOf>	<England>
+<Frank_Swift>	<isCitizenOf>	<Bangladesh>
+<Frank_Swift>	<isCitizenOf>	<Chile>
+<Nikodimos_Papavasiliou>	<isCitizenOf>	<England>
+<Peter_Nicholas_(footballer)>	<isCitizenOf>	<Germany>
+<Mike_Walker_(Welsh_footballer)>	<isCitizenOf>	<England>
+<Mike_Walker_(Welsh_footballer)>	<isCitizenOf>	<Republic_of_Ireland>
+<Frances_McDormand>	<isCitizenOf>	<England>
+<Danny_Elfman>	<isCitizenOf>	<England>
+<Kevin_McLeod_(footballer)>	<isCitizenOf>	<England>
+<Shlomi_Arbeitman>	<isCitizenOf>	<England>
+<Sylvester_Stallone>	<isCitizenOf>	<El_Salvador>
+<Phil_Spector>	<isCitizenOf>	<United_Kingdom>
+<Shefki_Kuqi>	<isCitizenOf>	<Greece>
+<Danny_Guthrie>	<isCitizenOf>	<England>
+<Danny_Guthrie>	<isCitizenOf>	<Scotland>
+<Danny_Coyne>	<isCitizenOf>	<United_Kingdom>
+<Greg_Halford>	<isCitizenOf>	<United_States>
+<Kingston_upon_Hull>	<isCitizenOf>	<Netherlands>
+<George_Lucas>	<isCitizenOf>	<Scotland>
+<Robert_Loggia>	<isCitizenOf>	<Republic_of_Ireland>
+<Jae_Martin>	<isCitizenOf>	<India>
+<Daniel_Nardiello>	<isCitizenOf>	<Argentina>
+<Tony_Rougier>	<isCitizenOf>	<Dominica>
+<Tony_Rougier>	<isCitizenOf>	<England>
+<War_of_the_Fourth_Coalition>	<isCitizenOf>	<Italy>
+<Albano_Bizzarri>	<isCitizenOf>	<Wales>
+<Tony_Warner>	<isCitizenOf>	<England>
+<New_England_Conservatory_of_Music>	<isCitizenOf>	<United_States>
+<Robert_F._Kennedy>	<isCitizenOf>	<United_States>
+<Trevor_Aylott>	<isCitizenOf>	<United_States>
+<Nicky_Summerbee>	<isCitizenOf>	<England>
+<In_Your_House>	<isCitizenOf>	<United_States>
+<Tony_Witter>	<isCitizenOf>	<United_Kingdom>
+<Tony_Witter>	<isCitizenOf>	<Netherlands>
+<Guy_Branston>	<isCitizenOf>	<United_States>
+<Queen_Victoria>	<isCitizenOf>	<Spain>
+<nl/UNAMIS>	<isCitizenOf>	<Slovenia>
+<Lee_Fowler>	<isCitizenOf>	<Canada>
+<Jon_Newby>	<isCitizenOf>	<Wales>
+<Horace_Brindley>	<isCitizenOf>	<United_States>
+<Scott_Canham>	<isCitizenOf>	<United_Kingdom>
+<Orlando_Engelaar>	<isCitizenOf>	<Argentina>
+<Robert_F._Kennedy>	<isCitizenOf>	<Hungary>
+<France>	<isCitizenOf>	<Germany>
+<Aaron_Shure>	<isCitizenOf>	<United_States>
+<Dave_Rogers_(footballer,_born_1975)>	<isCitizenOf>	<United_Kingdom>
+<Dave_Rogers_(footballer,_born_1975)>	<isCitizenOf>	<Kazakhstan>
+<Hancock_(film)>	<isCitizenOf>	<United_States>
+<Ludacris>	<isCitizenOf>	<United_States>
+<Neil_Warnock>	<isCitizenOf>	<United_States>
+<Keith_Houchen>	<isCitizenOf>	<United_States>
+<Keith_Houchen>	<isCitizenOf>	<England>
+<Kasper_Schmeichel>	<isCitizenOf>	<England>
+<Kasper_Schmeichel>	<isCitizenOf>	<England>
+<Adam_Rooney>	<isCitizenOf>	<Hungary>
+<Marvel_Entertainment>	<isCitizenOf>	<United_States>
+<Sean_Connery>	<isCitizenOf>	<Scotland>
+<Barry_Siddall>	<isCitizenOf>	<Scotland>
+<Graham_Potter>	<isCitizenOf>	<Ukraine>
+<Ryan_Reynolds>	<isCitizenOf>	<Hungary>
+<Keith_Rowland>	<isCitizenOf>	<England>
+<Graham_Newton>	<isCitizenOf>	<Russia>
+<Graham_Newton>	<isCitizenOf>	<Bulgaria>
+<Chris_Zebroski>	<isCitizenOf>	<Nigeria>
+<Chris_Zebroski>	<isCitizenOf>	<Spain>
+<Sanchez_Watt>	<isCitizenOf>	<Austria>
+<Nikodimos_Papavasiliou>	<isCitizenOf>	<France>
+<Richard_Walker_(footballer,_born_1977)>	<isCitizenOf>	<Niger>
+<Kevin_Phillips_(footballer)>	<isCitizenOf>	<England>
+<Brian_Jackson_(footballer,_born_1933)>	<isCitizenOf>	<Netherlands>
+<Richard_Key>	<isCitizenOf>	<United_States>
+<Gavin_Hoyte>	<isCitizenOf>	<England>
+<Tomislav_Ivić>	<isCitizenOf>	<United_States>
+<Chris_Adamson>	<isCitizenOf>	<United_States>
+<Scott_Loach>	<isCitizenOf>	<United_States>
+<Roberto_Di_Matteo>	<isCitizenOf>	<Chile>
+<Roberto_Di_Matteo>	<isCitizenOf>	<United_States>
+<Van_Nest_Polglase>	<isCitizenOf>	<England>
+<Hartford_Wolf_Pack>	<isCitizenOf>	<United_Kingdom>
+<Frances_McDormand>	<isCitizenOf>	<Republic_of_Ireland>
+<Bertrand_Bossu>	<isCitizenOf>	<United_States>
+<Diane_Lane>	<isCitizenOf>	<Switzerland>
+<Donna_Summer>	<isCitizenOf>	<Italy>
+<Sean_Dyche>	<isCitizenOf>	<Sweden>
+<Karl_Ready>	<isCitizenOf>	<United_States>
+<Dave_Norton>	<isCitizenOf>	<India>
+<Cape_May_County,_New_Jersey>	<isCitizenOf>	<United_States>
+<Loïc_Rémy>	<isCitizenOf>	<England>
+<Arkansas>	<isCitizenOf>	<England>
+<Julian_de_Guzman>	<isCitizenOf>	<India>
+<John_Guidetti>	<isCitizenOf>	<England>
+<Appalachian_Mountains>	<isCitizenOf>	<Scotland>
+<Paul_Musselwhite>	<isCitizenOf>	<Israel>
+<Maurizio_Iorio>	<isCitizenOf>	<Hungary>
+<Epsom>	<isCitizenOf>	<Republic_of_Ireland>
+<Alou_Diarra>	<isCitizenOf>	<Republic_of_Ireland>
+<Alou_Diarra>	<isCitizenOf>	<United_Kingdom>
+<49th_Annual_Grammy_Awards>	<isCitizenOf>	<Belgium>
+<Owain_Tudur_Jones>	<isCitizenOf>	<Sweden>
+<Owain_Tudur_Jones>	<isCitizenOf>	<United_States>
+<Bulawayo>	<isCitizenOf>	<Canada>
+<Bob_Ludwig>	<isCitizenOf>	<United_States>
+<Edmund_Husserl>	<isCitizenOf>	<Cape_Verde>
+<Chris_Sutton>	<isCitizenOf>	<England>
+<Maurizio_Iorio>	<isCitizenOf>	<Puerto_Rico>
+<Darren_Ward_(footballer,_born_1974)>	<isCitizenOf>	<England>
+<Richie_Foran>	<isCitizenOf>	<Sweden>
+<Anthony_Hopkins>	<isCitizenOf>	<United_Kingdom>
+<Matuzalém>	<isCitizenOf>	<United_States>
+<Giovanni_Sio>	<isCitizenOf>	<United_Arab_Emirates>
+<Andy_O'Brien_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Peter_Kyle>	<isCitizenOf>	<England>
+<Luigi_Radice>	<isCitizenOf>	<United_States>
+<Luigi_Radice>	<isCitizenOf>	<England>
+<Rwanda>	<isCitizenOf>	<England>
+<József_Viola>	<isCitizenOf>	<Scotland>
+<State_highways_serving_Virginia_state_institutions>	<isCitizenOf>	<United_States>
+<Pamela_Adlon>	<isCitizenOf>	<England>
+<Harry_Roberts_(footballer,_born_1907)>	<isCitizenOf>	<United_States>
+<Lee_Canoville>	<isCitizenOf>	<Cameroon>
+<Arthur_Phoenix>	<isCitizenOf>	<Senegal>
+<John_Michael_Higgins>	<isCitizenOf>	<Belgium>
+<Tom_Cowan>	<isCitizenOf>	<Wales>
+<James_Ingram>	<isCitizenOf>	<England>
+<Steven_Zaillian>	<isCitizenOf>	<United_States>
+<Davide_Dionigi>	<isCitizenOf>	<El_Salvador>
+<Graham_Potter>	<isCitizenOf>	<Denmark>
+<Scott_McGarvey>	<isCitizenOf>	<Italy>
+<Scott_McGarvey>	<isCitizenOf>	<Australia>
+<Salt_(2010_film)>	<isCitizenOf>	<Netherlands>
+<Barry_Siddall>	<isCitizenOf>	<Russia>
+<Barry_Siddall>	<isCitizenOf>	<Argentina>
+<Mark_Nicholls>	<isCitizenOf>	<England>
+<East_Asia>	<isCitizenOf>	<Cape_Verde>
+<Tajikistan>	<isCitizenOf>	<India>
+<Larry_Fine>	<isCitizenOf>	<United_States>
+<Sam_Togwell>	<isCitizenOf>	<England>
+<Mark_Rawle>	<isCitizenOf>	<England>
+<Van_Nuys>	<isCitizenOf>	<England>
+<Peter_Beadle>	<isCitizenOf>	<England>
+<Winnipeg>	<isCitizenOf>	<Martinique>
+<Michael_Laudrup>	<isCitizenOf>	<United_Kingdom>
+<Jeffrey_Bruma>	<isCitizenOf>	<France>
+<Jeffrey_Bruma>	<isCitizenOf>	<United_Kingdom>
+<Modibo_Diakité>	<isCitizenOf>	<England>
+<Andy_Gray_(footballer,_born_1964)>	<isCitizenOf>	<United_States>
+<James_Newton_Howard>	<isCitizenOf>	<Bulgaria>
+<Gary_Barnett_(footballer)>	<isCitizenOf>	<United_States>
+<Gary_Barnett_(footballer)>	<isCitizenOf>	<Germany>
+<Willem_Dafoe>	<isCitizenOf>	<Cameroon>
+<Charles_Brackett>	<isCitizenOf>	<Argentina>
+<Stuart_Elliott_(footballer,_born_1977)>	<isCitizenOf>	<Scotland>
+<Alan_Daley>	<isCitizenOf>	<England>
+<John_Rowlands_(footballer)>	<isCitizenOf>	<Croatia>
+<I_Love_You_Phillip_Morris>	<isCitizenOf>	<United_States>
+<Martin_Thomas_(footballer,_born_1959)>	<isCitizenOf>	<Jamaica>
+<Darren_Byfield>	<isCitizenOf>	<Germany>
+<Fraizer_Campbell>	<isCitizenOf>	<Russia>
+<Davide_Dionigi>	<isCitizenOf>	<England>
+<Saddam_Hussein>	<isCitizenOf>	<United_States>
+<Paul_Ritchie_(footballer,_born_1975)>	<isCitizenOf>	<United_States>
+<Paul_Ritchie_(footballer,_born_1975)>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Andy_Dow>	<isCitizenOf>	<England>
+<CBS_Corporation>	<isCitizenOf>	<England>
+<Robert_Louis_Stevenson>	<isCitizenOf>	<Cyprus>
+<Carl_Alford>	<isCitizenOf>	<United_Kingdom>
+<Paolo_Sammarco>	<isCitizenOf>	<Austria>
+<Somalia>	<isCitizenOf>	<United_States>
+<Serbia>	<isCitizenOf>	<Hungary>
+<Monroe,_Louisiana>	<isCitizenOf>	<Wales>
+<Edward_Shearmur>	<isCitizenOf>	<England>
+<Anaheim,_California>	<isCitizenOf>	<Russia>
+<Ryan_Lowe>	<isCitizenOf>	<Israel>
+<Ryan_Lowe>	<isCitizenOf>	<United_States>
+<Jon_Parkin>	<isCitizenOf>	<United_States>
+<India>	<isCitizenOf>	<United_States>
+<Elizabeth_McGovern>	<isCitizenOf>	<United_Kingdom>
+<The_Haunting_(1999_film)>	<isCitizenOf>	<England>
+<James_Beattie_(footballer)>	<isCitizenOf>	<United_States>
+<Simon_Colosimo>	<isCitizenOf>	<United_States>
+<Greece>	<isCitizenOf>	<France>
+<Gerry_Peyton>	<isCitizenOf>	<England>
+<Late_Show_(CBS_TV_series)>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Shatrughan_Sinha>	<isCitizenOf>	<Australia>
+<1932_Summer_Olympics>	<isCitizenOf>	<United_States>
+<Armand_Assante>	<isCitizenOf>	<England>
+<21st_Academy_Awards>	<isCitizenOf>	<Ukraine>
+<Jamaica>	<isCitizenOf>	<United_States>
+<Tommy_Anderson_(footballer)>	<isCitizenOf>	<United_States>
+<Another_Year_(film)>	<isCitizenOf>	<United_Kingdom>
+<Bob_Curry>	<isCitizenOf>	<Scotland>
+<Dany_N'Guessan>	<isCitizenOf>	<Australia>
+<Dany_N'Guessan>	<isCitizenOf>	<England>
+<Will_Buckley_(footballer)>	<isCitizenOf>	<United_States>
+<Linda_Cardellini>	<isCitizenOf>	<Scotland>
+<Scott_Spencer_(footballer)>	<isCitizenOf>	<England>
+<Kumasi>	<isCitizenOf>	<Cyprus>
+<Uche_Ikpeazu>	<isCitizenOf>	<Croatia>
+<Kieran_McAnespie>	<isCitizenOf>	<United_States>
+<Kasey_Keller>	<isCitizenOf>	<Jamaica>
+<Matt_McNeil>	<isCitizenOf>	<Germany>
+<Daniel_Kearns_(footballer)>	<isCitizenOf>	<England>
+<Reece_Styche>	<isCitizenOf>	<United_States>
+<Chicago_metropolitan_area>	<isCitizenOf>	<Scotland>
+<Warren_Aspinall>	<isCitizenOf>	<Sweden>
+<Brad_Friedel>	<isCitizenOf>	<Scotland>
+<Ryan_Brunt_(footballer)>	<isCitizenOf>	<Scotland>
+<Basil_Poledouris>	<isCitizenOf>	<India>
+<Aly_Cissokho>	<isCitizenOf>	<Japan>
+<Paul_Evans_(footballer,_born_1974)>	<isCitizenOf>	<England>
+<James_Newton_Howard>	<isCitizenOf>	<Argentina>
+<Jordan_Parkes>	<isCitizenOf>	<England>
+<11Eleven_Project>	<isCitizenOf>	<England>
+<Steve_Zahn>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Jimi_Hendrix>	<isCitizenOf>	<England>
+<Salma_Hayek>	<isCitizenOf>	<United_States>
+<Danny_Maddix>	<isCitizenOf>	<United_States>
+<Frederick_Mearns>	<isCitizenOf>	<United_States>
+<Carthage>	<isCitizenOf>	<United_States>
+<Chris_Eagles>	<isCitizenOf>	<England>
+<Graham_Potter>	<isCitizenOf>	<Brazil>
+<James_Wallace_(footballer,_born_1991)>	<isCitizenOf>	<England>
+<Jérôme_Leroy_(footballer)>	<isCitizenOf>	<United_States>
+<Ray_Crawford_(footballer)>	<isCitizenOf>	<Italy>
+<Ray_Crawford_(footballer)>	<isCitizenOf>	<India>
+<Ronnie_Wallwork>	<isCitizenOf>	<Germany>
+<Rocky_Mountains>	<isCitizenOf>	<England>
+<Adrian_Littlejohn>	<isCitizenOf>	<Jamaica>
+<Simeon_Hodson>	<isCitizenOf>	<United_States>
+<Al_Green>	<isCitizenOf>	<United_States>
+<Brian_Parkin>	<isCitizenOf>	<Australia>
+<Brian_Parkin>	<isCitizenOf>	<Austria>
+<Van_Johnson>	<isCitizenOf>	<Canada>
+<Des_Lyttle>	<isCitizenOf>	<Israel>
+<Jack_Reynolds_(footballer,_born_1869)>	<isCitizenOf>	<Netherlands>
+<Jack_Reynolds_(footballer,_born_1869)>	<isCitizenOf>	<Niger>
+<2009_Sundance_Film_Festival>	<isCitizenOf>	<Northern_Ireland>
+<Wayne_Cegielski>	<isCitizenOf>	<Argentina>
+<Kevin_Smith>	<isCitizenOf>	<England>
+<Iraq>	<isCitizenOf>	<Greece>
+<Patrick_McGoohan>	<isCitizenOf>	<United_States>
+<Noah_Taylor>	<isCitizenOf>	<England>
+<Ishmael_Miller>	<isCitizenOf>	<Italy>
+<Ishmael_Miller>	<isCitizenOf>	<United_States>
+<Ryan_Hall_(footballer)>	<isCitizenOf>	<France>
+<Himesh_Reshammiya>	<isCitizenOf>	<India>
+<Ismaïl_Aissati>	<isCitizenOf>	<England>
+<John_Williams_(footballer,_born_1968)>	<isCitizenOf>	<England>
+<Terry_Phelan>	<isCitizenOf>	<Russia>
+<Billy_Knott>	<isCitizenOf>	<Jamaica>
+<Bas_Savage>	<isCitizenOf>	<England>
+<Gavin_Ward_(footballer)>	<isCitizenOf>	<France>
+<2017_Romanian_protests>	<isCitizenOf>	<England>
+<Georg_Wilhelm_Friedrich_Hegel>	<isCitizenOf>	<England>
+<David_Giles_(footballer)>	<isCitizenOf>	<Italy>
+<David_Giles_(footballer)>	<isCitizenOf>	<England>
+<Mark_Schwarzer>	<isCitizenOf>	<Ukraine>
+<Mark_Schwarzer>	<isCitizenOf>	<Greece>
+<Matt_Stone>	<isCitizenOf>	<United_States>
+<Richard_Burton>	<isCitizenOf>	<United_States>
+<Anne_Bancroft>	<isCitizenOf>	<United_States>
+<Keith_Treacy>	<isCitizenOf>	<Wales>
+<Billy_Zane>	<isCitizenOf>	<Austria>
+<Fred_Bevan>	<isCitizenOf>	<United_States>
+<Fred_Bevan>	<isCitizenOf>	<United_Kingdom>
+<Scouting_in_California>	<isCitizenOf>	<England>
+<Craig_Allardyce>	<isCitizenOf>	<Germany>
+<Neville_Roach>	<isCitizenOf>	<United_States>
+<Drewe_Broughton>	<isCitizenOf>	<Germany>
+<Billy_Crudup>	<isCitizenOf>	<England>
+<Alejandro_Scopelli>	<isCitizenOf>	<Republic_of_Ireland>
+<Jonathan_Walters>	<isCitizenOf>	<United_Kingdom>
+<Jonathan_Walters>	<isCitizenOf>	<England>
+<Tom_Skerritt>	<isCitizenOf>	<United_States>
+<René_Descartes>	<isCitizenOf>	<England>
+<Guy_Branston>	<isCitizenOf>	<Russia>
+<Alex_Mathie>	<isCitizenOf>	<Japan>
+<Alex_Mathie>	<isCitizenOf>	<Netherlands>
+<Jordan_Rose>	<isCitizenOf>	<India>
+<Jon_Dahl_Tomasson>	<isCitizenOf>	<United_States>
+<Terry_Howard>	<isCitizenOf>	<Australia>
+<Terry_Howard>	<isCitizenOf>	<Italy>
+<Bill_Wyman>	<isCitizenOf>	<Hungary>
+<Carlton_Cuse>	<isCitizenOf>	<Italy>
+<Sam_Russell_(footballer,_born_1982)>	<isCitizenOf>	<Hungary>
+<Kingdom_of_Romania>	<isCitizenOf>	<Australia>
+<Ottoman_Empire>	<isCitizenOf>	<Italy>
+<Ashley_Bayes>	<isCitizenOf>	<Wales>
+<John_Eustace>	<isCitizenOf>	<Republic_of_Ireland>
+<Oscar_Gobern>	<isCitizenOf>	<England>
+<Kevin_Austin>	<isCitizenOf>	<Israel>
+<Lloyd_Opara>	<isCitizenOf>	<Wales>
+<Lampros_Choutos>	<isCitizenOf>	<England>
+<Lampros_Choutos>	<isCitizenOf>	<United_Kingdom>
+<Stuart_Elliott_(footballer,_born_1977)>	<isCitizenOf>	<United_States>
+<Dani_Osvaldo>	<isCitizenOf>	<Denmark>
+<War_of_the_Spanish_Succession>	<isCitizenOf>	<France>
+<Lesser_Antilles>	<isCitizenOf>	<Wales>
+<Chris_Coyne>	<isCitizenOf>	<England>
+<Andy_Serkis>	<isCitizenOf>	<England>
+<Colm_Feore>	<isCitizenOf>	<England>
+<Kevin_Dearden>	<isCitizenOf>	<Greece>
+<Neil_Tarrant>	<isCitizenOf>	<Serbia>
+<Rodrigo_(footballer,_born_1991)>	<isCitizenOf>	<Scotland>
+<Rodrigo_(footballer,_born_1991)>	<isCitizenOf>	<United_States>
+<Raúl_Díaz_Arce>	<isCitizenOf>	<United_States>
+<Dick_Advocaat>	<isCitizenOf>	<Panama>
+<Dick_Advocaat>	<isCitizenOf>	<Germany>
+<2017_Romanian_protests>	<isCitizenOf>	<United_States>
+<Russian_Empire>	<isCitizenOf>	<United_States>
+<Dave_Metchick>	<isCitizenOf>	<Spain>
+<Colin_Cameron_(footballer)>	<isCitizenOf>	<Greece>
+<Colin_Cameron_(footballer)>	<isCitizenOf>	<England>
+<Philippe_Senderos>	<isCitizenOf>	<United_States>
+<Kazakhstan>	<isCitizenOf>	<England>
+<Andy_Linighan>	<isCitizenOf>	<England>
+<Traianos_Dellas>	<isCitizenOf>	<United_States>
+<George_Carlin>	<isCitizenOf>	<England>
+<Brent_Sancho>	<isCitizenOf>	<United_Kingdom>
+<Habsburg_Monarchy>	<isCitizenOf>	<United_Kingdom>
+<Danube>	<isCitizenOf>	<Belgium>
+<Elliot_Goldenthal>	<isCitizenOf>	<Greece>
+<Antony_Sher>	<isCitizenOf>	<United_Kingdom>
+<Brian_Rice_(footballer)>	<isCitizenOf>	<United_States>
+<Simon_Heslop>	<isCitizenOf>	<United_Kingdom>
+<Mark_Wilson_(English_footballer)>	<isCitizenOf>	<England>
+<James_Chester>	<isCitizenOf>	<India>
+<2017_Romanian_protests>	<isCitizenOf>	<England>
+<Tom_Cowan>	<isCitizenOf>	<England>
+<Shaun_Goater>	<isCitizenOf>	<United_States>
+<Astrit_Ajdarević>	<isCitizenOf>	<United_States>
+<Drewe_Broughton>	<isCitizenOf>	<Russia>
+<Fred_Pagnam>	<isCitizenOf>	<Martinique>
+<Fred_Pagnam>	<isCitizenOf>	<United_States>
+<James_Fox>	<isCitizenOf>	<Netherlands>
+<Patrick_Agyemang>	<isCitizenOf>	<Scotland>
+<Matt_Elliott_(footballer)>	<isCitizenOf>	<England>
+<Yale_Divinity_School>	<isCitizenOf>	<United_States>
+<Nicky_Summerbee>	<isCitizenOf>	<India>
+<Dennis_Rodman>	<isCitizenOf>	<United_States>
+<Dennis_Rodman>	<isCitizenOf>	<Netherlands>
+<Geoff_Thomas_(footballer,_born_1964)>	<isCitizenOf>	<United_Kingdom>
+<Libya>	<isCitizenOf>	<England>
+<Aruna_Irani>	<isCitizenOf>	<United_Kingdom>
+<Province_of_Como>	<isCitizenOf>	<Wales>
+<Wayne_Biggins>	<isCitizenOf>	<United_Kingdom>
+<Clint_Hill_(footballer)>	<isCitizenOf>	<India>
+<Pennine_Alps>	<isCitizenOf>	<United_States>
+<Allan_Holdsworth>	<isCitizenOf>	<Canada>
+<Epic_Soundtrax>	<isCitizenOf>	<United_States>
+<Amari_Morgan-Smith>	<isCitizenOf>	<United_States>
+<Esteban_Cambiasso>	<isCitizenOf>	<El_Salvador>
+<New_Zealand>	<isCitizenOf>	<United_Kingdom>
+<Alex_Taylor_(footballer)>	<isCitizenOf>	<Spain>
+<Michael_Danzey>	<isCitizenOf>	<Republic_of_Ireland>
+<Les_Ferdinand>	<isCitizenOf>	<United_States>
+<Patrick_Kluivert>	<isCitizenOf>	<England>
+<Patrick_Kluivert>	<isCitizenOf>	<Italy>
+<M._Night_Shyamalan>	<isCitizenOf>	<Cyprus>
+<Rafik_Djebbour>	<isCitizenOf>	<United_States>
+<David_O._Russell>	<isCitizenOf>	<Australia>
+<Kemar_Roofe>	<isCitizenOf>	<Argentina>
+<Jonson_Clarke-Harris>	<isCitizenOf>	<Italy>
+<Alan_Lee_(footballer)>	<isCitizenOf>	<United_States>
+<Steve_Anthrobus>	<isCitizenOf>	<Netherlands>
+<Justin_Chambers>	<isCitizenOf>	<England>
+<Gary_Waddock>	<isCitizenOf>	<Wales>
+<Gary_Waddock>	<isCitizenOf>	<Belgium>
+<Brian_Taylor_(footballer,_born_1937)>	<isCitizenOf>	<United_States>
+<Scott_Barrett_(footballer)>	<isCitizenOf>	<Greece>
+<Nick_Cusack>	<isCitizenOf>	<Netherlands>
+<Monsef_Zerka>	<isCitizenOf>	<Israel>
+<Terrence_McNally>	<isCitizenOf>	<Senegal>
+<Jim_Harvey>	<isCitizenOf>	<Bahrain>
+<Douglas_Adams>	<isCitizenOf>	<Senegal>
+<Lawrence_Kasdan>	<isCitizenOf>	<Italy>
+<India>	<isCitizenOf>	<Bangladesh>
+<David_Crown>	<isCitizenOf>	<England>
+<David_Crown>	<isCitizenOf>	<United_States>
+<Cássio_Oliveira>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Kinji_Fukasaku>	<isCitizenOf>	<United_Kingdom>
+<Peru>	<isCitizenOf>	<United_Kingdom>
+<Carl_Bradshaw_(footballer)>	<isCitizenOf>	<India>
+<Electric_Daisy_Carnival>	<isCitizenOf>	<Belgium>
+<Josh_Walker_(English_footballer)>	<isCitizenOf>	<United_States>
+<Phil_Marsh>	<isCitizenOf>	<United_States>
+<Tony_Scully>	<isCitizenOf>	<England>
+<Orange_County,_California>	<isCitizenOf>	<United_States>
+<József_Viola>	<isCitizenOf>	<Belgium>
+<Malaysia>	<isCitizenOf>	<Nigeria>
+<Darryl_Flahavan>	<isCitizenOf>	<England>
+<Jyothika>	<isCitizenOf>	<United_Kingdom>
+<Jonatan_Johansson_(footballer)>	<isCitizenOf>	<England>
+<David_Ogden_Stiers>	<isCitizenOf>	<Slovenia>
+<Phil_Stant>	<isCitizenOf>	<England>
+<Craig_Rocastle>	<isCitizenOf>	<United_States>
+<Craig_Rocastle>	<isCitizenOf>	<England>
+<Anthony_Pulis>	<isCitizenOf>	<England>
+<David_Brightwell>	<isCitizenOf>	<Greece>
+<Marc_North>	<isCitizenOf>	<United_States>
+<Hayden_Foxe>	<isCitizenOf>	<United_States>
+<Hayden_Foxe>	<isCitizenOf>	<United_States>
+<Frankie_Sutherland>	<isCitizenOf>	<India>
+<Kevin_Gallen>	<isCitizenOf>	<England>
+<Kevin_Gallen>	<isCitizenOf>	<Italy>
+<Rosemary_Harris>	<isCitizenOf>	<United_States>
+<Andy_Petterson>	<isCitizenOf>	<Austria>
+<Sam_Jennings>	<isCitizenOf>	<United_States>
+<Nathan_Fillion>	<isCitizenOf>	<Germany>
+<Simon_Walton>	<isCitizenOf>	<England>
+<Marco_Baroni>	<isCitizenOf>	<United_States>
+<Julia_Roberts>	<isCitizenOf>	<England>
+<Julia_Roberts>	<isCitizenOf>	<England>
+<Dominic_Blizzard>	<isCitizenOf>	<England>
+<Christian_Eduardo_Giménez>	<isCitizenOf>	<England>
+<Assassins_(film)>	<isCitizenOf>	<Monaco>
+<Amelia_(film)>	<isCitizenOf>	<Russia>
+<Shohreh_Aghdashloo>	<isCitizenOf>	<Greece>
+<Alex_Rodman>	<isCitizenOf>	<Italy>
+<James_O'Connor_(footballer,_born_1984)>	<isCitizenOf>	<England>
+<Olof_Mellberg>	<isCitizenOf>	<England>
+<Jason_Kidd>	<isCitizenOf>	<Northern_Ireland>
+<John_Fashanu>	<isCitizenOf>	<Germany>
+<John_Fashanu>	<isCitizenOf>	<United_States>
+<The_Scorpion_King>	<isCitizenOf>	<United_States>
+<Kenny_Burns>	<isCitizenOf>	<United_States>
+<Kenny_Burns>	<isCitizenOf>	<Netherlands>
+<Paul_Allen_(footballer)>	<isCitizenOf>	<Germany>
+<Lee_Hodges_(footballer,_born_1978)>	<isCitizenOf>	<Austria>
+<Simeon_Jackson>	<isCitizenOf>	<United_States>
+<Simeon_Jackson>	<isCitizenOf>	<England>
+<Dean_Brill>	<isCitizenOf>	<England>
+<Dean_Brill>	<isCitizenOf>	<United_States>
+<Abel_Xavier>	<isCitizenOf>	<Hungary>
+<St._Louis_Blues>	<isCitizenOf>	<Russia>
+<Dominic_West>	<isCitizenOf>	<Barbados>
+<Joseph_S._O'Leary>	<isCitizenOf>	<Cape_Verde>
+<Mike_Marsh_(footballer)>	<isCitizenOf>	<United_States>
+<Gary_Kelly_(footballer,_born_1966)>	<isCitizenOf>	<Netherlands>
+<John_Guidetti>	<isCitizenOf>	<Cyprus>
+<Steve_Taylor_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Aron_Winter>	<isCitizenOf>	<United_Kingdom>
+<Bondz_N'Gala>	<isCitizenOf>	<United_States>
+<Peter_Ramage>	<isCitizenOf>	<France>
+<Peter_Ramage>	<isCitizenOf>	<Bahrain>
+<Antoine_Sibierski>	<isCitizenOf>	<India>
+<Antoine_Sibierski>	<isCitizenOf>	<England>
+<Lee_Morris_(footballer)>	<isCitizenOf>	<United_States>
+<Matt_Jackson>	<isCitizenOf>	<United_Kingdom>
+<Mark_Hamill>	<isCitizenOf>	<France>
+<Ronald_Reagan>	<isCitizenOf>	<United_Kingdom>
+<Ronald_Reagan>	<isCitizenOf>	<Argentina>
+<Anatole_Litvak>	<isCitizenOf>	<Denmark>
+<Romano_Perticone>	<isCitizenOf>	<Sweden>
+<Niels_Bohr>	<isCitizenOf>	<England>
+<Paul_Bannon>	<isCitizenOf>	<United_States>
+<Brett_Angell>	<isCitizenOf>	<Scotland>
+<John_Moncur>	<isCitizenOf>	<Japan>
+<United_States>	<isCitizenOf>	<Netherlands>
+<John_Byrne_(footballer,_born_1939)>	<isCitizenOf>	<Netherlands>
+<Jon_Beswetherick>	<isCitizenOf>	<Russia>
+<Alex_Cisak>	<isCitizenOf>	<France>
+<UEFA>	<isCitizenOf>	<Germany>
+<Jay_Bothroyd>	<isCitizenOf>	<United_States>
+<Jay_Bothroyd>	<isCitizenOf>	<Bangladesh>
+<Bruce_Greenwood>	<isCitizenOf>	<Netherlands>
+<Graham_Greene_(actor)>	<isCitizenOf>	<United_Arab_Emirates>
+<Sean_Astin>	<isCitizenOf>	<United_States>
+<David_Davis_(footballer)>	<isCitizenOf>	<England>
+<Clint_Eastwood>	<isCitizenOf>	<United_States>
+<Daniel_Webb_(footballer)>	<isCitizenOf>	<Russia>
+<Daniel_Webb_(footballer)>	<isCitizenOf>	<Argentina>
+<Louis_Saha>	<isCitizenOf>	<United_States>
+<Jonny_Margetts>	<isCitizenOf>	<Hungary>
+<Jonny_Margetts>	<isCitizenOf>	<Italy>
+<Lee_Ho_(footballer,_born_1984)>	<isCitizenOf>	<England>
+<Ginger_Rogers>	<isCitizenOf>	<United_Kingdom>
+<Craig_Davies_(footballer)>	<isCitizenOf>	<United_States>
+<Abel_Xavier>	<isCitizenOf>	<Germany>
+<Gregor_Rioch>	<isCitizenOf>	<United_States>
+<Law_&_Order>	<isCitizenOf>	<United_States>
+<Peter_Stone>	<isCitizenOf>	<England>
+<Ventura,_California>	<isCitizenOf>	<Senegal>
+<Wayne_Gray_(footballer)>	<isCitizenOf>	<England>
+<Pablo_Mills>	<isCitizenOf>	<Canada>
+<Ed_Helms>	<isCitizenOf>	<Russia>
+<Jack_Warden>	<isCitizenOf>	<Wales>
+<Kei_Kamara>	<isCitizenOf>	<Brazil>
+<Girl,_Interrupted_(film)>	<isCitizenOf>	<United_States>
+<Chris_Killen>	<isCitizenOf>	<England>
+<George_Hamilton_(actor)>	<isCitizenOf>	<United_Kingdom>
+<Lee_Martin_(footballer,_born_1987)>	<isCitizenOf>	<England>
+<Vladimir_Petrović>	<isCitizenOf>	<India>
+<Kelly_Preston>	<isCitizenOf>	<England>
+<Heiner_Backhaus>	<isCitizenOf>	<France>
+<Christian_Vieri>	<isCitizenOf>	<Niger>
+<Christian_Vieri>	<isCitizenOf>	<United_States>
+<Paul_Haggis>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<James_Horner>	<isCitizenOf>	<Netherlands>
+<Sabri_Lamouchi>	<isCitizenOf>	<United_States>
+<Harry_Gregson-Williams>	<isCitizenOf>	<Serbia>
+<Emmanuel_Omoyinmi>	<isCitizenOf>	<Argentina>
+<Emmanuel_Omoyinmi>	<isCitizenOf>	<United_States>
+<Kyle_MacLachlan>	<isCitizenOf>	<Tanzania>
+<Ben_Chorley>	<isCitizenOf>	<England>
+<Ben_Chorley>	<isCitizenOf>	<Spain>
+<Arthur_Sharp_(footballer)>	<isCitizenOf>	<Jamaica>
+<Kris_Taylor>	<isCitizenOf>	<England>
+<Kris_Taylor>	<isCitizenOf>	<United_States>
+<Gus_Uhlenbeek>	<isCitizenOf>	<United_Kingdom>
+<Joey_Barton>	<isCitizenOf>	<Hungary>
+<Joey_Barton>	<isCitizenOf>	<Scotland>
+<Claudio_Ranieri>	<isCitizenOf>	<England>
+<Claudio_Ranieri>	<isCitizenOf>	<Italy>
+<Bonnie_Hunt>	<isCitizenOf>	<England>
+<Mickaël_Antoine-Curier>	<isCitizenOf>	<United_States>
+<Wayne_Routledge>	<isCitizenOf>	<United_States>
+<Wayne_Routledge>	<isCitizenOf>	<United_Arab_Emirates>
+<Geoff_Thomas_(footballer,_born_1964)>	<isCitizenOf>	<Belgium>
+<David_Hibbert>	<isCitizenOf>	<England>
+<David_Hibbert>	<isCitizenOf>	<Wales>
+<Artie_Lange>	<isCitizenOf>	<Japan>
+<Steve_Torpey_(footballer,_born_1970)>	<isCitizenOf>	<Italy>
+<Tony_Cottee>	<isCitizenOf>	<Scotland>
+<Nathan_Delfouneso>	<isCitizenOf>	<England>
+<Edward_Said>	<isCitizenOf>	<Belgium>
+<State_of_Mexico>	<isCitizenOf>	<United_States>
+<Belgrade>	<isCitizenOf>	<Italy>
+<Graham_Roberts>	<isCitizenOf>	<United_States>
+<Marc_Goodfellow>	<isCitizenOf>	<Italy>
+<Marc_Goodfellow>	<isCitizenOf>	<United_States>
+<Carlos_Ruiz_(Guatemalan_footballer)>	<isCitizenOf>	<Wales>
+<Jason_van_Blerk>	<isCitizenOf>	<United_Kingdom>
+<Normandy>	<isCitizenOf>	<France>
+<Warren_Feeney>	<isCitizenOf>	<United_States>
+<Paul_Holsgrove>	<isCitizenOf>	<United_States>
+<Terry_Dunfield>	<isCitizenOf>	<England>
+<Ariel_Graziani>	<isCitizenOf>	<Canada>
+<Daniel_Jones_(footballer)>	<isCitizenOf>	<Netherlands>
+<Lewis_Montrose>	<isCitizenOf>	<England>
+<Tangled>	<isCitizenOf>	<United_States>
+<46th_Academy_Awards>	<isCitizenOf>	<Italy>
+<Byron_Webster>	<isCitizenOf>	<England>
+<Lee_J._Cobb>	<isCitizenOf>	<Republic_of_the_Congo>
+<Darren_Ward_(footballer,_born_1974)>	<isCitizenOf>	<United_States>
+<Darren_Ward_(footballer,_born_1974)>	<isCitizenOf>	<Italy>
+<XXX_(2002_film)>	<isCitizenOf>	<Netherlands>
+<Burt_Lancaster>	<isCitizenOf>	<England>
+<Chris_Crowe>	<isCitizenOf>	<England>
+<Harry_Worley>	<isCitizenOf>	<United_Kingdom>
+<Harry_Worley>	<isCitizenOf>	<Bulgaria>
+<Art_Carney>	<isCitizenOf>	<France>
+<Chris_Cooper>	<isCitizenOf>	<United_Kingdom>
+<Walter_Samuel>	<isCitizenOf>	<Cape_Verde>
+<Walter_Samuel>	<isCitizenOf>	<Austria>
+<Jimmy_Fallon>	<isCitizenOf>	<India>
+<Harry_Warren>	<isCitizenOf>	<Wales>
+<Emyr_Huws>	<isCitizenOf>	<United_States>
+<Emyr_Huws>	<isCitizenOf>	<Germany>
+<Ben_Affleck>	<isCitizenOf>	<England>
+<Iago_Falque>	<isCitizenOf>	<Republic_of_Ireland>
+<Hillsborough_County,_New_Hampshire>	<isCitizenOf>	<United_States>
+<Billy_Hendry>	<isCitizenOf>	<France>
+<Chevy_Chase>	<isCitizenOf>	<Germany>
+<English_Civil_War>	<isCitizenOf>	<Wales>
+<Eric_Wynalda>	<isCitizenOf>	<Spain>
+<Glen_Southam>	<isCitizenOf>	<United_States>
+<Wayne_Dyer_(footballer)>	<isCitizenOf>	<Norway>
+<Jacques_Derrida>	<isCitizenOf>	<United_States>
+<Mel_Brooks>	<isCitizenOf>	<England>
+<Michael_Shannon>	<isCitizenOf>	<England>
+<James_Beattie_(footballer)>	<isCitizenOf>	<Austria>
+<James_Beattie_(footballer)>	<isCitizenOf>	<Scotland>
+<Eritrea>	<isCitizenOf>	<Netherlands>
+<James_L._Brooks>	<isCitizenOf>	<United_States>
+<United_States>	<isCitizenOf>	<Bangladesh>
+<Emanuele_Pesaresi>	<isCitizenOf>	<United_States>
+<St._Louis_Blues>	<isCitizenOf>	<Austria>
+<Rajinikanth>	<isCitizenOf>	<Russia>
+<Albert_Holmes_(footballer,_born_1885)>	<isCitizenOf>	<United_States>
+<Albert_Holmes_(footballer,_born_1885)>	<isCitizenOf>	<Netherlands>
+<Copenhagen>	<isCitizenOf>	<Ukraine>
+<Vietnam>	<isCitizenOf>	<United_Kingdom>
+<Yossi_Benayoun>	<isCitizenOf>	<Israel>
+<Yossi_Benayoun>	<isCitizenOf>	<Greece>
+<Chris_Kettings>	<isCitizenOf>	<Israel>
+<Chris_Kettings>	<isCitizenOf>	<United_States>
+<Bruno_Marioni>	<isCitizenOf>	<England>
+<Gérson_Magrão>	<isCitizenOf>	<Australia>
+<Billy_Davies>	<isCitizenOf>	<Norway>
+<Greg_Pearson>	<isCitizenOf>	<Scotland>
+<Courtney_Pitt>	<isCitizenOf>	<Spain>
+<Michael_Chabon>	<isCitizenOf>	<United_States>
+<Isaiah_Washington>	<isCitizenOf>	<United_States>
+<Chris_Whyte>	<isCitizenOf>	<England>
+<Chris_Whyte>	<isCitizenOf>	<Russia>
+<George_Carlin>	<isCitizenOf>	<England>
+<Dean_Hammond>	<isCitizenOf>	<Ukraine>
+<Peter_Gilbert>	<isCitizenOf>	<Netherlands>
+<Saša_Ilić_(footballer,_born_1972)>	<isCitizenOf>	<United_States>
+<Eli_Wallach>	<isCitizenOf>	<Belgium>
+<Cuca_(footballer)>	<isCitizenOf>	<Bulgaria>
+<Jimmy_Gauld>	<isCitizenOf>	<United_Kingdom>
+<John_Michael_Higgins>	<isCitizenOf>	<Jamaica>
+<Billy_Hendry>	<isCitizenOf>	<Wales>
+<Willem_Dafoe>	<isCitizenOf>	<United_States>
+<David_Beckham>	<isCitizenOf>	<England>
+<Lilo_&_Stitch>	<isCitizenOf>	<England>
+<Mark_Bowen_(footballer)>	<isCitizenOf>	<United_States>
+<Carole_Lombard>	<isCitizenOf>	<Scotland>
+<Turkey>	<isCitizenOf>	<United_States>
+<Juan_Esnáider>	<isCitizenOf>	<Russia>
+<Macalester_College>	<isCitizenOf>	<Serbia>
+<The_Surreal_Life>	<isCitizenOf>	<Iran>
+<Ian_James_Corlett>	<isCitizenOf>	<United_States>
+<Lee_Chapman>	<isCitizenOf>	<England>
+<Union_of_South_Africa>	<isCitizenOf>	<Martinique>
+<Lawrie_Madden>	<isCitizenOf>	<Scotland>
+<Lawrie_Madden>	<isCitizenOf>	<United_States>
+<Sylvia_Sidney>	<isCitizenOf>	<United_States>
+<Jimmy_Kennedy_(footballer)>	<isCitizenOf>	<Netherlands>
+<Meagan_Good>	<isCitizenOf>	<Sweden>
+<Bridesmaids_(2011_film)>	<isCitizenOf>	<Italy>
+<Djamel_Abdoun>	<isCitizenOf>	<Bulgaria>
+<Grand_Rapids,_Michigan>	<isCitizenOf>	<Netherlands>
+<Michael_Spillane_(footballer)>	<isCitizenOf>	<United_States>
+<Pasquale_Foggia>	<isCitizenOf>	<India>
+<Berkshire>	<isCitizenOf>	<United_States>
+<Pat_Terry>	<isCitizenOf>	<United_States>
+<Chris_Arthur>	<isCitizenOf>	<United_States>
+<Joe_Anyinsah>	<isCitizenOf>	<England>
+<Bon_Jovi>	<isCitizenOf>	<United_States>
+<Youngstown,_Ohio>	<isCitizenOf>	<Serbia>
+<Matt_Fry>	<isCitizenOf>	<United_States>
+<Matt_Fry>	<isCitizenOf>	<Norway>
+<Jermaine_Pennant>	<isCitizenOf>	<United_States>
+<Garry_Chalk>	<isCitizenOf>	<France>
+<Byron_Webster>	<isCitizenOf>	<United_States>
+<Donal_Murphy>	<isCitizenOf>	<Republic_of_Ireland>
+<Wayne_Clarke_(footballer)>	<isCitizenOf>	<England>
+<Abigail_Breslin>	<isCitizenOf>	<United_States>
+<Carlos_Bocanegra>	<isCitizenOf>	<England>
+<Worcester_County,_Massachusetts>	<isCitizenOf>	<England>
+<John_Turner_(footballer,_born_1954)>	<isCitizenOf>	<England>
+<Giovani_dos_Santos>	<isCitizenOf>	<England>
+<Julian_Joachim>	<isCitizenOf>	<Republic_of_Ireland>
+<Rudi_Skácel>	<isCitizenOf>	<Switzerland>
+<Donna_Summer>	<isCitizenOf>	<United_States>
+<Keith_Edwards_(footballer,_born_1957)>	<isCitizenOf>	<Cape_Verde>
+<Béla_Guttmann>	<isCitizenOf>	<Canada>
+<Koei_Tecmo>	<isCitizenOf>	<Croatia>
+<Clint_Eastwood>	<isCitizenOf>	<India>
+<2013–14_chikungunya_outbreak>	<isCitizenOf>	<Russia>
+<K.A.A._Gent>	<isCitizenOf>	<Switzerland>
+<Simon_Cziommer>	<isCitizenOf>	<Denmark>
+<Simeon_Hodson>	<isCitizenOf>	<United_Kingdom>
+<Jason_Harris_(footballer,_born_1976)>	<isCitizenOf>	<Cyprus>
+<Anthony_Williams_(footballer)>	<isCitizenOf>	<Scotland>
+<Henry_James>	<isCitizenOf>	<England>
+<Gordon_Hill_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<W._E._B._Du_Bois>	<isCitizenOf>	<United_States>
+<Howard_Gordon>	<isCitizenOf>	<Canada>
+<Eamonn_O'Keefe>	<isCitizenOf>	<United_States>
+<Eamonn_O'Keefe>	<isCitizenOf>	<United_States>
+<Aidan_Davison>	<isCitizenOf>	<Japan>
+<Damjan_Đoković>	<isCitizenOf>	<Russia>
+<Ralph_Fiennes>	<isCitizenOf>	<Netherlands>
+<Kevin_Lisbie>	<isCitizenOf>	<United_Kingdom>
+<Kevin_Lisbie>	<isCitizenOf>	<Switzerland>
+<Jim_McDonagh>	<isCitizenOf>	<France>
+<Paul_Wilson_(footballer,_born_1968)>	<isCitizenOf>	<Spain>
+<Paul_Wilson_(footballer,_born_1968)>	<isCitizenOf>	<England>
+<Pakistan>	<isCitizenOf>	<Netherlands>
+<Jordan_Stewart_(footballer,_born_1982)>	<isCitizenOf>	<Bulgaria>
+<Jordan_Stewart_(footballer,_born_1982)>	<isCitizenOf>	<United_States>
+<Darren_Byfield>	<isCitizenOf>	<Austria>
+<Canada>	<isCitizenOf>	<United_States>
+<Savo_Pavićević>	<isCitizenOf>	<England>
+<Savo_Pavićević>	<isCitizenOf>	<United_States>
+<Vanderlei_Luxemburgo>	<isCitizenOf>	<England>
+<Daniel_Inouye>	<isCitizenOf>	<Spain>
+<Derek_Jacobi>	<isCitizenOf>	<Panama>
+<Elizabeth_Banks>	<isCitizenOf>	<Scotland>
+<Bill_McGarry>	<isCitizenOf>	<Italy>
+<Guylain_Ndumbu-Nsungu>	<isCitizenOf>	<United_States>
+<Bert_Powell>	<isCitizenOf>	<Argentina>
+<Dave_Reeves>	<isCitizenOf>	<England>
+<Jobi_McAnuff>	<isCitizenOf>	<Sweden>
+<Jobi_McAnuff>	<isCitizenOf>	<Wales>
+<Tony_Hateley>	<isCitizenOf>	<Spain>
+<Tony_Hateley>	<isCitizenOf>	<Monaco>
+<Andy_Todd_(footballer,_born_1974)>	<isCitizenOf>	<England>
+<Sri_Lanka>	<isCitizenOf>	<Austria>
+<Alex_MacDonald_(footballer,_born_1990)>	<isCitizenOf>	<United_States>
+<Sid_Binks>	<isCitizenOf>	<United_States>
+<Patricia_Arquette>	<isCitizenOf>	<Wales>
+<Jeffrey_Jones>	<isCitizenOf>	<England>
+<Branco_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Wayne_Bridge>	<isCitizenOf>	<Germany>
+<Wayne_Bridge>	<isCitizenOf>	<United_States>
+<Alex_Borstein>	<isCitizenOf>	<Germany>
+<Narada_Bernard>	<isCitizenOf>	<United_Kingdom>
+<Narada_Bernard>	<isCitizenOf>	<England>
+<Cristiano_Lucarelli>	<isCitizenOf>	<United_States>
+<Edmonton_Eskimos>	<isCitizenOf>	<Cape_Verde>
+<Abdulai_Bell-Baggie>	<isCitizenOf>	<United_States>
+<Michael_Chopra>	<isCitizenOf>	<England>
+<Michael_Chopra>	<isCitizenOf>	<Italy>
+<Marion_County,_Florida>	<isCitizenOf>	<Scotland>
+<2K_Games>	<isCitizenOf>	<India>
+<Iain_Turner>	<isCitizenOf>	<England>
+<Byzantine_Empire>	<isCitizenOf>	<United_Kingdom>
+<Louis_Briscoe>	<isCitizenOf>	<United_Kingdom>
+<Louis_Briscoe>	<isCitizenOf>	<England>
+<Paul-José_M'Poku>	<isCitizenOf>	<United_States>
+<Jack_Reynolds_(footballer,_born_1869)>	<isCitizenOf>	<England>
+<Neil_Ramsbottom>	<isCitizenOf>	<England>
+<Neil_Ramsbottom>	<isCitizenOf>	<United_States>
+<Klaas-Jan_Huntelaar>	<isCitizenOf>	<England>
+<Klaas-Jan_Huntelaar>	<isCitizenOf>	<United_Kingdom>
+<Robert_Silverberg>	<isCitizenOf>	<France>
+<Mark_Farrington>	<isCitizenOf>	<United_States>
+<Giuseppe_Gemiti>	<isCitizenOf>	<Japan>
+<Giuseppe_Gemiti>	<isCitizenOf>	<Jamaica>
+<Tony_Currie_(footballer)>	<isCitizenOf>	<England>
+<Tony_Currie_(footballer)>	<isCitizenOf>	<Monaco>
+<Wikimedia_Foundation>	<isCitizenOf>	<United_States>
+<Guinea-Bissau>	<isCitizenOf>	<Republic_of_Ireland>
+<Dean_McDonald>	<isCitizenOf>	<England>
+<United_Kingdom>	<isCitizenOf>	<England>
+<Frank_Worthington>	<isCitizenOf>	<India>
+<James_Blunt>	<isCitizenOf>	<England>
+<Craig_Dobson>	<isCitizenOf>	<Scotland>
+<Loïc_Rémy>	<isCitizenOf>	<United_States>
+<In_Your_House>	<isCitizenOf>	<United_States>
+<Mike_Salmon>	<isCitizenOf>	<Bangladesh>
+<SkyTeam>	<isCitizenOf>	<Senegal>
+<Megan_Fox>	<isCitizenOf>	<France>
+<El_Hadji_Diouf>	<isCitizenOf>	<India>
+<El_Hadji_Diouf>	<isCitizenOf>	<England>
+<FC_Basel>	<isCitizenOf>	<Italy>
+<Mike_Pollitt>	<isCitizenOf>	<Wales>
+<Trevor_Aylott>	<isCitizenOf>	<United_States>
+<Joe_Pasternak>	<isCitizenOf>	<Martinique>
+<Emile_Hirsch>	<isCitizenOf>	<England>
+<Toby_Ajala>	<isCitizenOf>	<Hungary>
+<Stephen_Dawson>	<isCitizenOf>	<England>
+<Kari_Wahlgren>	<isCitizenOf>	<United_States>
+<Interscope_Records>	<isCitizenOf>	<Republic_of_the_Congo>
+<Ireland>	<isCitizenOf>	<United_States>
+<Denver_Nuggets>	<isCitizenOf>	<Scotland>
+<Syria>	<isCitizenOf>	<Spain>
+<Venezuela>	<isCitizenOf>	<United_States>
+<Alessandro_Rosina>	<isCitizenOf>	<United_States>
+<Valeri_Bojinov>	<isCitizenOf>	<Bangladesh>
+<Gary_Mulligan>	<isCitizenOf>	<United_States>
+<Aaron_Brown_(footballer,_born_1980)>	<isCitizenOf>	<Greece>
+<Edward_Norton>	<isCitizenOf>	<Netherlands>
+<Carl_Sagan>	<isCitizenOf>	<United_States>
+<Stephen_Warnock>	<isCitizenOf>	<Bangladesh>
+<Arthur_Miller>	<isCitizenOf>	<Belgium>
+<Nora_Ephron>	<isCitizenOf>	<Germany>
+<Dominic_West>	<isCitizenOf>	<Australia>
+<Karim_Rekik>	<isCitizenOf>	<Australia>
+<Ernie_Watkins_(footballer,_born_1898)>	<isCitizenOf>	<Greece>
+<Larenz_Tate>	<isCitizenOf>	<Martinique>
+<Greg_Mills_(footballer)>	<isCitizenOf>	<United_States>
+<Chris_Brown_(footballer,_born_1984)>	<isCitizenOf>	<France>
+<Chris_Brown_(footballer,_born_1984)>	<isCitizenOf>	<Spain>
+<Dele_Adebola>	<isCitizenOf>	<Republic_of_Ireland>
+<Boaz_Myhill>	<isCitizenOf>	<Scotland>
+<Mike_Basham>	<isCitizenOf>	<United_States>
+<Equatorial_Guinea>	<isCitizenOf>	<England>
+<Coimbatore>	<isCitizenOf>	<United_States>
+<Claude_Rains>	<isCitizenOf>	<England>
+<Lee_Peltier>	<isCitizenOf>	<England>
+<Chris_Makin>	<isCitizenOf>	<Scotland>
+<Jack_Haines>	<isCitizenOf>	<England>
+<Manny_Panther>	<isCitizenOf>	<United_States>
+<Shirley_MacLaine>	<isCitizenOf>	<United_States>
+<Ray_Haddington>	<isCitizenOf>	<Scotland>
+<Ramón_Núñez>	<isCitizenOf>	<Scotland>
+<Steve_Lovell_(Welsh_footballer)>	<isCitizenOf>	<Cape_Verde>
+<Julian_Alsop>	<isCitizenOf>	<England>
+<SV_Darmstadt_98>	<isCitizenOf>	<England>
+<Transylvania>	<isCitizenOf>	<United_States>
+<Columbia_University_Graduate_School_of_Journalism>	<isCitizenOf>	<England>
+<Karan_Johar>	<isCitizenOf>	<United_States>
+<Lomana_LuaLua>	<isCitizenOf>	<United_Kingdom>
+<Bob_Fosse>	<isCitizenOf>	<United_Arab_Emirates>
+<Rory_Fallon>	<isCitizenOf>	<Iran>
+<Walon_Green>	<isCitizenOf>	<United_States>
+<Snoop_Dogg>	<isCitizenOf>	<United_States>
+<Elliot_Kebbie>	<isCitizenOf>	<United_States>
+<Elliot_Kebbie>	<isCitizenOf>	<Greece>
+<Lee_Turnbull_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Lee_Turnbull_(footballer)>	<isCitizenOf>	<United_States>
+<Paul_Rideout>	<isCitizenOf>	<England>
+<James_Mason>	<isCitizenOf>	<Northern_Ireland>
+<Alan_Fettis>	<isCitizenOf>	<England>
+<Richard_Chamberlain>	<isCitizenOf>	<United_Kingdom>
+<Philip_Pullman>	<isCitizenOf>	<England>
+<Darko_Bodul>	<isCitizenOf>	<England>
+<Neil_Ross>	<isCitizenOf>	<United_States>
+<Dimitar_Makriev>	<isCitizenOf>	<Monaco>
+<Belarus>	<isCitizenOf>	<United_States>
+<Ian_Hendon>	<isCitizenOf>	<United_States>
+<45th_Annual_Grammy_Awards>	<isCitizenOf>	<England>
+<Adam_Virgo>	<isCitizenOf>	<Niger>
+<Neil_Webb>	<isCitizenOf>	<United_States>
+<Scott_Brown_(footballer,_born_April_1985)>	<isCitizenOf>	<Panama>
+<Eminem>	<isCitizenOf>	<England>
+<Danny_Cullip>	<isCitizenOf>	<Netherlands>
+<Peter_Meehan>	<isCitizenOf>	<United_States>
+<Lawrie_Madden>	<isCitizenOf>	<United_States>
+<Jim_Goodwin>	<isCitizenOf>	<United_States>
+<Chris_Allen_(footballer,_born_1972)>	<isCitizenOf>	<India>
+<Vancouver_Canucks>	<isCitizenOf>	<Denmark>
+<Paulo_César_Arruda_Parente>	<isCitizenOf>	<India>
+<Lewis_Guy>	<isCitizenOf>	<Chile>
+<Laurent_Robert>	<isCitizenOf>	<United_States>
+<Andy_Ferrell>	<isCitizenOf>	<United_States>
+<Sam_Jennings>	<isCitizenOf>	<England>
+<Sam_Jennings>	<isCitizenOf>	<Australia>
+<Sacha_Opinel>	<isCitizenOf>	<United_States>
+<General_Dynamics>	<isCitizenOf>	<United_States>
+<Animax>	<isCitizenOf>	<United_States>
+<Brian_Pinas>	<isCitizenOf>	<France>
+<Brian_Pinas>	<isCitizenOf>	<India>
+<Tom_Cowan>	<isCitizenOf>	<United_States>
+<Massachusetts>	<isCitizenOf>	<France>
+<Tommy_Chong>	<isCitizenOf>	<United_States>
+<Richie_Partridge>	<isCitizenOf>	<England>
+<Diego_Perrone>	<isCitizenOf>	<Italy>
+<Neil_Smith_(footballer)>	<isCitizenOf>	<Chile>
+<Ned_Beatty>	<isCitizenOf>	<Belgium>
+<Roberto_Benigni>	<isCitizenOf>	<Jamaica>
+<John_Burridge>	<isCitizenOf>	<Sweden>
+<Elia_Kazan>	<isCitizenOf>	<England>
+<Islam_Feruz>	<isCitizenOf>	<Republic_of_Ireland>
+<NBCUniversal>	<isCitizenOf>	<United_States>
+<Giuseppe_Gemiti>	<isCitizenOf>	<Scotland>
+<Jason_Lee_(footballer)>	<isCitizenOf>	<United_States>
+<Eric_Jones_(footballer,_born_1915)>	<isCitizenOf>	<United_States>
+<Scott_Canham>	<isCitizenOf>	<Italy>
+<Marcel_Desailly>	<isCitizenOf>	<El_Salvador>
+<Marcel_Desailly>	<isCitizenOf>	<England>
+<Mickey_Evans_(footballer,_born_1973)>	<isCitizenOf>	<United_States>
+<Felipe_Caicedo>	<isCitizenOf>	<England>
+<Felipe_Caicedo>	<isCitizenOf>	<Belgium>
+<Marco_Baroni>	<isCitizenOf>	<United_States>
+<Mario_Bortolazzi>	<isCitizenOf>	<England>
+<Dean_Morgan>	<isCitizenOf>	<Martinique>
+<Don_Revie>	<isCitizenOf>	<United_States>
+<Don_Revie>	<isCitizenOf>	<Canada>
+<Billy_Manuel>	<isCitizenOf>	<Cyprus>
+<Bertie_Brayley>	<isCitizenOf>	<England>
+<Martin_Woods>	<isCitizenOf>	<United_States>
+<Chris_Palmer_(footballer)>	<isCitizenOf>	<Cyprus>
+<Youssouf_Hersi>	<isCitizenOf>	<England>
+<Sam_Jennings>	<isCitizenOf>	<United_States>
+<Kemy_Agustien>	<isCitizenOf>	<Ukraine>
+<Kemy_Agustien>	<isCitizenOf>	<England>
+<Chris_Allen_(footballer,_born_1972)>	<isCitizenOf>	<England>
+<Chris_Allen_(footballer,_born_1972)>	<isCitizenOf>	<United_Kingdom>
+<Kenya>	<isCitizenOf>	<India>
+<Ashley_Grimes_(footballer,_born_1957)>	<isCitizenOf>	<Netherlands>
+<Battle_of_France>	<isCitizenOf>	<United_States>
+<Nolberto_Solano>	<isCitizenOf>	<Poland>
+<Nolberto_Solano>	<isCitizenOf>	<Senegal>
+<Gregg_Wylde>	<isCitizenOf>	<Belgium>
+<Sophia_Loren>	<isCitizenOf>	<England>
+<War_of_the_First_Coalition>	<isCitizenOf>	<Kazakhstan>
+<Leroy_Lita>	<isCitizenOf>	<Brazil>
+<Arcadia,_California>	<isCitizenOf>	<Wales>
+<Jim_Fryatt>	<isCitizenOf>	<United_States>
+<Stefano_Lombardi>	<isCitizenOf>	<England>
+<Jimmy_Quinn_(footballer,_born_1959)>	<isCitizenOf>	<England>
+<Mike_Nichols>	<isCitizenOf>	<United_States>
+<Mark_Yates_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Chiyoda,_Tokyo>	<isCitizenOf>	<United_States>
+<Conor_Sammon>	<isCitizenOf>	<Canada>
+<John_Fashanu>	<isCitizenOf>	<England>
+<63rd_Academy_Awards>	<isCitizenOf>	<England>
+<Paul_Jones_(footballer,_born_1967)>	<isCitizenOf>	<Mali>
+<Walt_Disney_Studios_Motion_Pictures>	<isCitizenOf>	<United_Kingdom>
+<Tommy_Tynan>	<isCitizenOf>	<Netherlands>
+<Georgi_Donkov>	<isCitizenOf>	<France>
+<Louie_Soares>	<isCitizenOf>	<England>
+<Axis_powers>	<isCitizenOf>	<Wales>
+<Kingdom_of_Naples>	<isCitizenOf>	<England>
+<Reg_Keating>	<isCitizenOf>	<United_States>
+<Reg_Keating>	<isCitizenOf>	<United_Kingdom>
+<Kevin_Summerfield>	<isCitizenOf>	<England>
+<Giuseppe_Gemiti>	<isCitizenOf>	<England>
+<Giuseppe_Gemiti>	<isCitizenOf>	<United_States>
+<Colin_Larkin_(footballer)>	<isCitizenOf>	<United_States>
+<Colin_Larkin_(footballer)>	<isCitizenOf>	<Scotland>
+<Drenthe>	<isCitizenOf>	<France>
+<Peter_Dougall>	<isCitizenOf>	<Cameroon>
+<Peter_Dougall>	<isCitizenOf>	<Netherlands>
+<Alex_Graves>	<isCitizenOf>	<United_States>
+<Nialle_Rodney>	<isCitizenOf>	<United_States>
+<Paul_Gascoigne>	<isCitizenOf>	<Canada>
+<Simon_Callow>	<isCitizenOf>	<United_States>
+<Matt_Fish_(footballer)>	<isCitizenOf>	<England>
+<Thomas_Brodie-Sangster>	<isCitizenOf>	<Greece>
+<Mohamed_Sissoko>	<isCitizenOf>	<Italy>
+<John_Barnes_(footballer)>	<isCitizenOf>	<El_Salvador>
+<Richard_Dreyfuss>	<isCitizenOf>	<Wales>
+<Luc_Besson>	<isCitizenOf>	<Puerto_Rico>
+<New_Rochelle,_New_York>	<isCitizenOf>	<Monaco>
+<Jimmy_Miller_(footballer)>	<isCitizenOf>	<Netherlands>
+<Carole_Lombard>	<isCitizenOf>	<Scotland>
+<Frank_Fielding>	<isCitizenOf>	<England>
+<Sangamon_County,_Illinois>	<isCitizenOf>	<India>
+<United_Nations_Operation_in_Somalia_II>	<isCitizenOf>	<Scotland>
+<Stefano_Lombardi>	<isCitizenOf>	<France>
+<Milwaukee_County,_Wisconsin>	<isCitizenOf>	<Italy>
+<Kyle_Letheren>	<isCitizenOf>	<Hungary>
+<Kyle_Letheren>	<isCitizenOf>	<United_States>
+<Alexander_Hleb>	<isCitizenOf>	<United_States>
+<Scott_Loach>	<isCitizenOf>	<Germany>
+<Nathan_Koo-Boothe>	<isCitizenOf>	<England>
+<Carl_Dickinson>	<isCitizenOf>	<United_Kingdom>
+<Joe_Walters_(footballer)>	<isCitizenOf>	<Jamaica>
+<Chris_Herd>	<isCitizenOf>	<England>
+<Chris_Herd>	<isCitizenOf>	<United_States>
+<Brendan_Gleeson>	<isCitizenOf>	<Niger>
+<Michael_Gray_(footballer)>	<isCitizenOf>	<England>
+<Netherlands>	<isCitizenOf>	<England>
+<Jane_Lynch>	<isCitizenOf>	<United_States>
+<Mich>	<isCitizenOf>	<India>
+<Gary_Jones_(footballer,_born_1969)>	<isCitizenOf>	<Canada>
+<Gary_Jones_(footballer,_born_1969)>	<isCitizenOf>	<Jamaica>
+<Kim_Grant_(footballer)>	<isCitizenOf>	<France>
+<Gavin_Heeroo>	<isCitizenOf>	<United_Kingdom>
+<Peter_Meehan>	<isCitizenOf>	<Sweden>
+<Bas-Rhin>	<isCitizenOf>	<England>
+<Matt_Clarke_(footballer,_born_1973)>	<isCitizenOf>	<Monaco>
+<Giuseppe_Greco_(footballer,_born_1983)>	<isCitizenOf>	<Netherlands>
+<Asmir_Begović>	<isCitizenOf>	<United_States>
+<Asmir_Begović>	<isCitizenOf>	<India>
+<Glen_Johnson>	<isCitizenOf>	<Russia>
+<Glen_Johnson>	<isCitizenOf>	<England>
+<Rubén_González_Rocha>	<isCitizenOf>	<England>
+<Taking_Woodstock>	<isCitizenOf>	<France>
+<James_Rebhorn>	<isCitizenOf>	<Wales>
+<Dennis_Bailey_(footballer,_born_1965)>	<isCitizenOf>	<United_States>
+<Greenwood,_Mississippi>	<isCitizenOf>	<Cape_Verde>
+<Bartholomew_Ogbeche>	<isCitizenOf>	<El_Salvador>
+<Bartholomew_Ogbeche>	<isCitizenOf>	<Denmark>
+<Allen_McKnight>	<isCitizenOf>	<United_States>
+<Allen_McKnight>	<isCitizenOf>	<England>
+<Peter_Berg>	<isCitizenOf>	<Russia>
+<Dimitris_Nalitzis>	<isCitizenOf>	<Netherlands>
+<Dimitris_Nalitzis>	<isCitizenOf>	<England>
+<Mark_Stein_(footballer)>	<isCitizenOf>	<Belgium>
+<Mark_Stein_(footballer)>	<isCitizenOf>	<Netherlands>
+<Mychael_Danna>	<isCitizenOf>	<England>
+<Éder_(Italian_footballer)>	<isCitizenOf>	<England>
+<Lilian_Nalis>	<isCitizenOf>	<United_Kingdom>
+<Aldo_Duscher>	<isCitizenOf>	<United_States>
+<Rashida_Jones>	<isCitizenOf>	<United_Kingdom>
+<Amarildo_Tavares_da_Silveira>	<isCitizenOf>	<United_States>
+<Amarildo_Tavares_da_Silveira>	<isCitizenOf>	<United_States>
+<César_Prates>	<isCitizenOf>	<France>
+<Sanctuary_Records>	<isCitizenOf>	<Ukraine>
+<Magno_Vieira>	<isCitizenOf>	<Russia>
+<Road_to_Ultra>	<isCitizenOf>	<Netherlands>
+<Carlo_Nash>	<isCitizenOf>	<United_Kingdom>
+<Colin_Gordon_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Chris_Withe>	<isCitizenOf>	<United_States>
+<Yale_School_of_Medicine>	<isCitizenOf>	<France>
+<Dennis_Wann>	<isCitizenOf>	<United_States>
+<John_Malkovich>	<isCitizenOf>	<Ukraine>
+<Youssef_El_Akchaoui>	<isCitizenOf>	<England>
+<Joe_Garner>	<isCitizenOf>	<Jamaica>
+<Patrick_Kanyuka>	<isCitizenOf>	<United_States>
+<Rebecca_Hall>	<isCitizenOf>	<Hungary>
+<Thomas_Ian_Nicholas>	<isCitizenOf>	<Italy>
+<Arthur_Beadsworth>	<isCitizenOf>	<Serbia>
+<Michele_Serena>	<isCitizenOf>	<United_States>
+<Michele_Serena>	<isCitizenOf>	<England>
+<Joleon_Lescott>	<isCitizenOf>	<United_Kingdom>
+<Simon_Walton>	<isCitizenOf>	<United_States>
+<Ghana>	<isCitizenOf>	<Spain>
+<Armenia>	<isCitizenOf>	<Netherlands>
+<Marco_Motta>	<isCitizenOf>	<Scotland>
+<Jonathan_Hunt_(footballer)>	<isCitizenOf>	<Netherlands>
+<Jonathan_Hunt_(footballer)>	<isCitizenOf>	<England>
+<Damon_Lindelof>	<isCitizenOf>	<United_States>
+<Marc_North>	<isCitizenOf>	<England>
+<Izzy_Iriekpen>	<isCitizenOf>	<Australia>
+<Izzy_Iriekpen>	<isCitizenOf>	<Argentina>
+<Blerim_Džemaili>	<isCitizenOf>	<Wales>
+<Neil_Lennon>	<isCitizenOf>	<United_States>
+<Neil_Lennon>	<isCitizenOf>	<Italy>
+<John_Kelly_(footballer,_born_1960)>	<isCitizenOf>	<France>
+<John_Kelly_(footballer,_born_1960)>	<isCitizenOf>	<Belgium>
+<Martin_Short>	<isCitizenOf>	<Germany>
+<Martin_Thomas_(footballer,_born_1959)>	<isCitizenOf>	<Argentina>
+<Trevor_Ross>	<isCitizenOf>	<United_States>
+<Neil_Shipperley>	<isCitizenOf>	<Republic_of_Ireland>
+<Michael_Bridges>	<isCitizenOf>	<England>
+<Pablo_Contreras>	<isCitizenOf>	<Austria>
+<Pablo_Contreras>	<isCitizenOf>	<Argentina>
+<Tony_Grealish>	<isCitizenOf>	<Poland>
+<Tony_Grealish>	<isCitizenOf>	<United_States>
+<Ludwig_Wittgenstein>	<isCitizenOf>	<United_States>
+<Peter_Barnes_(footballer)>	<isCitizenOf>	<United_States>
+<Danny_Haynes>	<isCitizenOf>	<Senegal>
+<Yoko_Ono>	<isCitizenOf>	<United_Kingdom>
+<Matthew_McConaughey>	<isCitizenOf>	<England>
+<Howard_Shore>	<isCitizenOf>	<England>
+<Innsbruck>	<isCitizenOf>	<England>
+<Graham_Potter>	<isCitizenOf>	<Republic_of_the_Congo>
+<Simon_Whaley>	<isCitizenOf>	<England>
+<Nick_Pope_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Rick_Rubin>	<isCitizenOf>	<England>
+<Roy_Carroll>	<isCitizenOf>	<Iran>
+<Roy_Carroll>	<isCitizenOf>	<Russia>
+<Surrey,_British_Columbia>	<isCitizenOf>	<England>
+<Santa_Monica,_California>	<isCitizenOf>	<England>
+<Eiður_Guðjohnsen>	<isCitizenOf>	<Wales>
+<Barry_Levinson>	<isCitizenOf>	<England>
+<Iraq_War>	<isCitizenOf>	<Greece>
+<Moses_Sakyi>	<isCitizenOf>	<Scotland>
+<2009_Iranian_presidential_election_protests>	<isCitizenOf>	<United_States>
+<Lee_Holmes>	<isCitizenOf>	<United_States>
+<Peter_Falk>	<isCitizenOf>	<United_States>
+<Dejan_Petković>	<isCitizenOf>	<United_States>
+<Dejan_Petković>	<isCitizenOf>	<United_States>
+<Charles_Rosher>	<isCitizenOf>	<Sweden>
+<Colombia>	<isCitizenOf>	<United_Kingdom>
+<Colin_Miller_(soccer)>	<isCitizenOf>	<Cyprus>
+<Colin_Miller_(soccer)>	<isCitizenOf>	<England>
+<Noel_Whelan_(footballer)>	<isCitizenOf>	<Australia>
+<Marco_Negri>	<isCitizenOf>	<England>
+<Ballet_Shoes_(film)>	<isCitizenOf>	<Cape_Verde>
+<Elizabeth_Taylor>	<isCitizenOf>	<United_States>
+<Simon_Webster_(footballer)>	<isCitizenOf>	<Netherlands>
+<The_Vow_(2012_film)>	<isCitizenOf>	<Martinique>
+<Jon_Sheffield>	<isCitizenOf>	<Austria>
+<Shanghai_Greenland_Shenhua_F.C.>	<isCitizenOf>	<United_States>
+<Martin_Paterson>	<isCitizenOf>	<England>
+<Roy_O'Donovan>	<isCitizenOf>	<United_States>
+<Patrick_van_Aanholt>	<isCitizenOf>	<Scotland>
+<Peter_Ustinov>	<isCitizenOf>	<Germany>
+<Steve_Howey_(footballer)>	<isCitizenOf>	<United_States>
+<Steve_Howey_(footballer)>	<isCitizenOf>	<United_States>
+<Judi_Dench>	<isCitizenOf>	<United_States>
+<Barry_Richardson_(English_footballer)>	<isCitizenOf>	<United_States>
+<Clive_Barker>	<isCitizenOf>	<England>
+<John_Seasman>	<isCitizenOf>	<United_States>
+<James_Woods>	<isCitizenOf>	<England>
+<Chukki_Eribenne>	<isCitizenOf>	<Democratic_Republic_of_the_Congo>
+<Chukki_Eribenne>	<isCitizenOf>	<Chile>
+<Gary_Phillips_(footballer)>	<isCitizenOf>	<England>
+<Gary_Phillips_(footballer)>	<isCitizenOf>	<England>
+<Anonymous_(film)>	<isCitizenOf>	<England>
+<Shane_Lowry_(footballer)>	<isCitizenOf>	<United_States>
+<Shirley_Ann_Russell>	<isCitizenOf>	<Republic_of_the_Congo>
+<Raïs_M'Bolhi>	<isCitizenOf>	<Poland>
+<Marc_Richards>	<isCitizenOf>	<United_States>
+<Marc_Richards>	<isCitizenOf>	<United_States>
+<Mick_Kennedy>	<isCitizenOf>	<Israel>
+<Mick_Kennedy>	<isCitizenOf>	<Argentina>
+<Gavin_Mahon>	<isCitizenOf>	<England>
+<Lee_McEvilly>	<isCitizenOf>	<England>
+<Ralph_Fiennes>	<isCitizenOf>	<India>
+<Kuwait>	<isCitizenOf>	<United_States>
+<Klaus_Badelt>	<isCitizenOf>	<England>
+<Evan_Rachel_Wood>	<isCitizenOf>	<Italy>
+<Joe_Johnson_(footballer,_born_1911)>	<isCitizenOf>	<India>
+<John_Michael_Higgins>	<isCitizenOf>	<England>
+<Wayne_Biggins>	<isCitizenOf>	<Belgium>
+<Jennifer_Connelly>	<isCitizenOf>	<England>
+<Scott_Shearer>	<isCitizenOf>	<Russia>
+<Scott_Shearer>	<isCitizenOf>	<England>
+<Kevin_Spacey>	<isCitizenOf>	<Niger>
+<Nile_Ranger>	<isCitizenOf>	<Scotland>
+<Ryan_Brunt_(footballer)>	<isCitizenOf>	<Japan>
+<2010_Winter_Olympics>	<isCitizenOf>	<England>
+<Richard_Jobson_(footballer)>	<isCitizenOf>	<Wales>
+<Richard_Jobson_(footballer)>	<isCitizenOf>	<Italy>
+<Shirley_MacLaine>	<isCitizenOf>	<Netherlands>
+<Angela_Lansbury>	<isCitizenOf>	<Israel>
+<Ben_Roberts_(footballer)>	<isCitizenOf>	<Netherlands>
+<George_Berry_(footballer)>	<isCitizenOf>	<England>
+<Nigel_Gleghorn>	<isCitizenOf>	<England>
+<Nigel_Gleghorn>	<isCitizenOf>	<United_States>
+<Michael_Shannon>	<isCitizenOf>	<United_States>
+<Dean_Holdsworth>	<isCitizenOf>	<United_States>
+<James_Riley_(soccer)>	<isCitizenOf>	<United_States>
+<James_Riley_(soccer)>	<isCitizenOf>	<England>
+<Evander_Sno>	<isCitizenOf>	<United_States>
+<Evander_Sno>	<isCitizenOf>	<Iran>
+<Jason_Banton>	<isCitizenOf>	<Austria>
+<Dean_Saunders>	<isCitizenOf>	<England>
+<Cristian_Bucchi>	<isCitizenOf>	<England>
+<Cristian_Bucchi>	<isCitizenOf>	<Scotland>
+<Ludwig_Wittgenstein>	<isCitizenOf>	<United_States>
+<Peter_Crouch>	<isCitizenOf>	<England>
+<Peter_Crouch>	<isCitizenOf>	<England>
+<Alex_Mathie>	<isCitizenOf>	<England>
+<Paul_Marshall_(footballer)>	<isCitizenOf>	<Sweden>
+<Barry_Robson>	<isCitizenOf>	<Denmark>
+<Jack_Nicholson>	<isCitizenOf>	<England>
+<Bob_Curry>	<isCitizenOf>	<United_Kingdom>
+<Colin_Hendry>	<isCitizenOf>	<Ukraine>
+<Mandatory_Palestine>	<isCitizenOf>	<United_Kingdom>
+<Kansas_City,_Missouri>	<isCitizenOf>	<Bahrain>
+<Wehrmacht>	<isCitizenOf>	<Netherlands>
+<Nicolas_Anelka>	<isCitizenOf>	<England>
+<Nicolas_Anelka>	<isCitizenOf>	<Japan>
+<Michael_Blackwood_(footballer)>	<isCitizenOf>	<Spain>
+<George_McNestry>	<isCitizenOf>	<Scotland>
+<George_McNestry>	<isCitizenOf>	<France>
+<Dave_Regis>	<isCitizenOf>	<Argentina>
+<Dave_Regis>	<isCitizenOf>	<United_Kingdom>
+<Jajá>	<isCitizenOf>	<Italy>
+<Ottoman_Empire>	<isCitizenOf>	<United_States>
+<Nicky_Shorey>	<isCitizenOf>	<England>
+<John_Hendry_(footballer)>	<isCitizenOf>	<Belgium>
+<Chicago_metropolitan_area>	<isCitizenOf>	<England>
+<Jack_Nicholson>	<isCitizenOf>	<Austria>
+<Rob_Burch_(footballer)>	<isCitizenOf>	<England>
+<Ian_Stevens_(footballer)>	<isCitizenOf>	<Jamaica>
+<Gary_McSheffrey>	<isCitizenOf>	<United_Kingdom>
+<Raphael_Meade>	<isCitizenOf>	<United_States>
+<Jane_Espenson>	<isCitizenOf>	<Switzerland>
+<Clyde_Wijnhard>	<isCitizenOf>	<Italy>
+<Jim_McCalliog>	<isCitizenOf>	<England>
+<Viggo_Mortensen>	<isCitizenOf>	<United_States>
+<Ademola_Bankole>	<isCitizenOf>	<United_States>
+<New_Brunswick>	<isCitizenOf>	<England>
+<Emma_Thompson>	<isCitizenOf>	<England>
+<War_of_the_First_Coalition>	<isCitizenOf>	<Scotland>
+<Peter_Skipper>	<isCitizenOf>	<England>
+<Kaba_Diawara>	<isCitizenOf>	<United_States>
+<Iván_Kaviedes>	<isCitizenOf>	<Belgium>
+<Iván_Kaviedes>	<isCitizenOf>	<United_States>
+<British_Columbia>	<isCitizenOf>	<United_Kingdom>
+<Cory_Gibbs>	<isCitizenOf>	<England>
+<Cory_Gibbs>	<isCitizenOf>	<England>
+<Kane_Ferdinand>	<isCitizenOf>	<India>
+<Kane_Ferdinand>	<isCitizenOf>	<England>
+<James_Dunne>	<isCitizenOf>	<Argentina>
+<David_Lee_(footballer,_born_1980)>	<isCitizenOf>	<Puerto_Rico>
+<David_Lee_(footballer,_born_1980)>	<isCitizenOf>	<Netherlands>
+<Brad_Jones_(footballer)>	<isCitizenOf>	<Greece>
+<Nintendo_World_Championships>	<isCitizenOf>	<United_Kingdom>
+<Long_Turkish_War>	<isCitizenOf>	<United_States>
+<Ryan_Burge>	<isCitizenOf>	<Belgium>
+<Romania>	<isCitizenOf>	<Brazil>
+<Paul_Kinnaird>	<isCitizenOf>	<Israel>
+<Stuart_Parker_(footballer)>	<isCitizenOf>	<Netherlands>
+<Elvis_Costello>	<isCitizenOf>	<United_States>
+<Ben_Hamer>	<isCitizenOf>	<England>
+<Hans_Zimmer>	<isCitizenOf>	<England>
+<Wendy_Melvoin>	<isCitizenOf>	<Martinique>
+<Bas_Savage>	<isCitizenOf>	<United_States>
+<Paul_Auster>	<isCitizenOf>	<Cape_Verde>
+<Luciano_Figueroa>	<isCitizenOf>	<Argentina>
+<Michael_Owen>	<isCitizenOf>	<England>
+<Paul_Sorvino>	<isCitizenOf>	<United_States>
+<Leighton_James>	<isCitizenOf>	<United_States>
+<Leighton_James>	<isCitizenOf>	<Wales>
+<Tommy_Wright_(footballer,_born_1963)>	<isCitizenOf>	<United_Kingdom>
+<Peter_Beagrie>	<isCitizenOf>	<Netherlands>
+<Peter_Beagrie>	<isCitizenOf>	<United_States>
+<Jimmy_Spencer_(footballer)>	<isCitizenOf>	<Canada>
+<Tarcisio_Burgnich>	<isCitizenOf>	<Nigeria>
+<Martin_Jol>	<isCitizenOf>	<England>
+<Martin_Jol>	<isCitizenOf>	<United_States>
+<Nobel_Prize_in_Physiology_or_Medicine>	<isCitizenOf>	<England>
+<Ben_Purkiss>	<isCitizenOf>	<Scotland>
+<Rob_Page>	<isCitizenOf>	<United_States>
+<Rob_Page>	<isCitizenOf>	<United_States>
+<Luis_Alonso_Sandoval>	<isCitizenOf>	<Sweden>
+<David_Martin_(footballer,_born_1986)>	<isCitizenOf>	<Scotland>
+<Alan_Silvestri>	<isCitizenOf>	<Denmark>
+<Cristian_Montaño>	<isCitizenOf>	<Ukraine>
+<Gary_Shelton>	<isCitizenOf>	<United_States>
+<Sean_Hayes_(actor)>	<isCitizenOf>	<Argentina>
+<Dorothy_Fields>	<isCitizenOf>	<England>
+<Jason_Flemyng>	<isCitizenOf>	<England>
+<Stewart_Littlewood>	<isCitizenOf>	<England>
+<Denmark>	<isCitizenOf>	<England>
+<Maicon_Santos>	<isCitizenOf>	<United_States>
+<Terry_Lees>	<isCitizenOf>	<Cyprus>
+<Terry_Lees>	<isCitizenOf>	<England>
+<Maggie_Smith>	<isCitizenOf>	<United_Kingdom>
+<Michael_Spies>	<isCitizenOf>	<Iran>
+<Gainesville,_Florida>	<isCitizenOf>	<United_Kingdom>
+<Frances_Marion>	<isCitizenOf>	<Greece>
+<War_of_1812>	<isCitizenOf>	<Russia>
+<John_McGuigan>	<isCitizenOf>	<Cameroon>
+<Simon_Gillett>	<isCitizenOf>	<Scotland>
+<Nathaniel_Mendez-Laing>	<isCitizenOf>	<Republic_of_Ireland>
+<Concord,_New_Hampshire>	<isCitizenOf>	<England>
+<Felipe_Melo>	<isCitizenOf>	<United_Kingdom>
+<Vera_Drake>	<isCitizenOf>	<Russia>
+<Trent_Reznor>	<isCitizenOf>	<United_States>
+<Lake_Erie>	<isCitizenOf>	<Italy>
+<Graham_Greene_(actor)>	<isCitizenOf>	<United_Kingdom>
+<Jayden_Stockley>	<isCitizenOf>	<Bahrain>
+<Paul_Butler_(footballer,_born_1972)>	<isCitizenOf>	<Jamaica>
+<Robert_Earnshaw>	<isCitizenOf>	<Scotland>
+<Danny_Elfman>	<isCitizenOf>	<Belgium>
+<Patrick_Suffo>	<isCitizenOf>	<England>
+<Confederate_States_of_America>	<isCitizenOf>	<England>
+<Kenny_Cooper>	<isCitizenOf>	<England>
+<Adel_Taarabt>	<isCitizenOf>	<Netherlands>
+<Lily_Tomlin>	<isCitizenOf>	<United_States>
+<Osvaldo_Ardiles>	<isCitizenOf>	<United_States>
+<General_Electric>	<isCitizenOf>	<England>
+<Rajasthan>	<isCitizenOf>	<England>
+<King_Records_(United_States)>	<isCitizenOf>	<England>
+<Steve_Robinson_(Northern_Ireland_footballer)>	<isCitizenOf>	<England>
+<John_Lowey_(footballer)>	<isCitizenOf>	<England>
+<Scott_Davies_(footballer,_born_1988)>	<isCitizenOf>	<United_States>
+<Allen_McKnight>	<isCitizenOf>	<England>
+<Boise_State_University>	<isCitizenOf>	<Italy>
+<Vince_Gilligan>	<isCitizenOf>	<Puerto_Rico>
+<Michele_Serena>	<isCitizenOf>	<United_States>
+<Miguel_de_Cervantes>	<isCitizenOf>	<England>
+<Ally_Graham>	<isCitizenOf>	<England>
+<Ally_Graham>	<isCitizenOf>	<Italy>
+<Wuhan>	<isCitizenOf>	<United_Kingdom>
+<Peter_Taylor_(footballer,_born_1953)>	<isCitizenOf>	<United_States>
+<Nick_Proschwitz>	<isCitizenOf>	<Cyprus>
+<Nick_Proschwitz>	<isCitizenOf>	<Greece>
+<Daniel_Nardiello>	<isCitizenOf>	<United_Kingdom>
+<Worthing>	<isCitizenOf>	<United_States>
+<Inyo_County,_California>	<isCitizenOf>	<United_States>
+<Mark_Stein_(footballer)>	<isCitizenOf>	<Netherlands>
+<Richard_Jenkins>	<isCitizenOf>	<United_States>
+<Carl_Tiler>	<isCitizenOf>	<Austria>
+<Carl_Tiler>	<isCitizenOf>	<United_States>
+<Citrus_County,_Florida>	<isCitizenOf>	<Germany>
+<Diane_Warren>	<isCitizenOf>	<United_Kingdom>
+<Saint_Petersburg_State_University>	<isCitizenOf>	<United_States>
+<Dave_Grohl>	<isCitizenOf>	<India>
+<Electric_Daisy_Carnival>	<isCitizenOf>	<United_States>
+<John_Sutton_(footballer)>	<isCitizenOf>	<Cyprus>
+<Sam_Neill>	<isCitizenOf>	<England>
+<Santa_Rosa,_California>	<isCitizenOf>	<United_States>
+<Algeria>	<isCitizenOf>	<Austria>
+<John_Keeley>	<isCitizenOf>	<Republic_of_Ireland>
+<Robert_A._Heinlein>	<isCitizenOf>	<England>
+<Japan>	<isCitizenOf>	<United_States>
+<Thomas_Newman>	<isCitizenOf>	<Russia>
+<Dave_Martin_(footballer,_born_1963)>	<isCitizenOf>	<Iran>
+<John_Rawls>	<isCitizenOf>	<United_Kingdom>
+<Stuart_Cash>	<isCitizenOf>	<England>
+<El_Salvador>	<isCitizenOf>	<England>
+<Matteo_Brighi>	<isCitizenOf>	<Wales>
+<Victor_Sikora>	<isCitizenOf>	<England>
+<Victor_Sikora>	<isCitizenOf>	<United_States>
+<Mike_Stowell>	<isCitizenOf>	<England>
+<Bill_Pendergast>	<isCitizenOf>	<England>
+<Dele_Adebola>	<isCitizenOf>	<Puerto_Rico>
+<Wally_Bellett>	<isCitizenOf>	<England>
+<Wally_Bellett>	<isCitizenOf>	<United_States>
+<Jimmy_Rayner>	<isCitizenOf>	<Cape_Verde>
+<Jimmy_Rayner>	<isCitizenOf>	<Republic_of_the_Congo>
+<Ian_Miller_(footballer,_born_1955)>	<isCitizenOf>	<United_States>
+<Ian_Miller_(footballer,_born_1955)>	<isCitizenOf>	<United_States>
+<Mark_Wilson_(English_footballer)>	<isCitizenOf>	<Jamaica>
+<Duncan_McKenzie>	<isCitizenOf>	<Slovenia>
+<Lucas_Silva_(footballer,_born_1984)>	<isCitizenOf>	<Republic_of_the_Congo>
+<Bruce_Dyer>	<isCitizenOf>	<Jamaica>
+<Bruce_Dyer>	<isCitizenOf>	<Republic_of_Ireland>
+<Keith_Lowe_(footballer)>	<isCitizenOf>	<India>
+<30_Days_of_Night_(film)>	<isCitizenOf>	<Japan>
+<Steve_Guinan>	<isCitizenOf>	<Republic_of_Ireland>
+<Mel_Gibson>	<isCitizenOf>	<England>
+<Adam_Hammill>	<isCitizenOf>	<Belgium>
+<Adam_Hammill>	<isCitizenOf>	<United_Kingdom>
+<John_Roberts_(footballer,_born_1946)>	<isCitizenOf>	<Republic_of_Ireland>
+<Richie_Partridge>	<isCitizenOf>	<Russia>
+<Craig_Rocastle>	<isCitizenOf>	<England>
+<Riccardo_Meggiorini>	<isCitizenOf>	<Germany>
+<Emerson_(footballer,_born_1976)>	<isCitizenOf>	<Germany>
+<EasyJet>	<isCitizenOf>	<United_Kingdom>
+<North_Dakota>	<isCitizenOf>	<United_States>
+<Geoff_Horsfield>	<isCitizenOf>	<Germany>
+<Danny_Granville>	<isCitizenOf>	<Niger>
+<Michael_Blackwood_(footballer)>	<isCitizenOf>	<Ukraine>
+<Joe_Lewis_(footballer)>	<isCitizenOf>	<United_Arab_Emirates>
+<82nd_Academy_Awards>	<isCitizenOf>	<Scotland>
+<Nicolas_Cage>	<isCitizenOf>	<United_States>
+<Tim_Curry>	<isCitizenOf>	<Bulgaria>
+<Lindsay_Lohan>	<isCitizenOf>	<Russia>
+<Ian_Redford>	<isCitizenOf>	<Niger>
+<Sierra_Entertainment>	<isCitizenOf>	<United_States>
+<Sanmi_Odelusi>	<isCitizenOf>	<United_States>
+<Lee_Thorpe>	<isCitizenOf>	<United_States>
+<Rabindranath_Tagore>	<isCitizenOf>	<Slovenia>
+<Los_Lobos>	<isCitizenOf>	<England>
+<Fergie_(singer)>	<isCitizenOf>	<United_States>
+<Paul_Gerrard>	<isCitizenOf>	<United_States>
+<Paul_Gerrard>	<isCitizenOf>	<Russia>
+<George_Kirby_(footballer)>	<isCitizenOf>	<England>
+<The_Rainmaker_(1997_film)>	<isCitizenOf>	<Japan>
+<Danijel_Pranjić>	<isCitizenOf>	<United_States>
+<Danijel_Pranjić>	<isCitizenOf>	<England>
+<Ciarán_Toner>	<isCitizenOf>	<England>
+<George_Stevens>	<isCitizenOf>	<England>
+<Richard_O'Donnell>	<isCitizenOf>	<Sweden>
+<KV_Mechelen>	<isCitizenOf>	<Republic_of_Ireland>
+<Tony_Lormor>	<isCitizenOf>	<Netherlands>
+<Felix_Bastians>	<isCitizenOf>	<United_Kingdom>
+<Felix_Bastians>	<isCitizenOf>	<United_States>
+<Jeff_Whitley>	<isCitizenOf>	<United_States>
+<Andy_Saville>	<isCitizenOf>	<United_States>
+<Andy_Saville>	<isCitizenOf>	<England>
+<Costa_Rica>	<isCitizenOf>	<United_States>
+<Ian_Harte>	<isCitizenOf>	<Scotland>
+<Chicago>	<isCitizenOf>	<Panama>
+<Junichi_Inamoto>	<isCitizenOf>	<Cape_Verde>
+<Brian_Birch>	<isCitizenOf>	<Russia>
+<Stuart_Hicks>	<isCitizenOf>	<England>
+<Stuart_Hicks>	<isCitizenOf>	<United_States>
+<Dave_Beasant>	<isCitizenOf>	<Australia>
+<Dave_Beasant>	<isCitizenOf>	<France>
+<Roque_Santa_Cruz>	<isCitizenOf>	<Scotland>
+<Roque_Santa_Cruz>	<isCitizenOf>	<Poland>
+<Anthony_Hopkins>	<isCitizenOf>	<United_States>
+<Zé_Roberto>	<isCitizenOf>	<England>
+<Zé_Roberto>	<isCitizenOf>	<Russia>
+<Tom_Green>	<isCitizenOf>	<United_Arab_Emirates>
+<Matt_Clarke_(footballer,_born_1973)>	<isCitizenOf>	<United_States>
+<Trevor_Carson>	<isCitizenOf>	<United_States>
+<Trevor_Carson>	<isCitizenOf>	<England>
+<Carmine_Gautieri>	<isCitizenOf>	<Wales>
+<Wayne_Brown_(footballer,_born_August_1977)>	<isCitizenOf>	<United_States>
+<Eddie_McGoldrick>	<isCitizenOf>	<United_States>
+<Weber_State_University>	<isCitizenOf>	<England>
+<Ravi_Shankar>	<isCitizenOf>	<England>
+<Michael_Cera>	<isCitizenOf>	<United_Kingdom>
+<Mike_Pollitt>	<isCitizenOf>	<United_States>
+<Mike_Pollitt>	<isCitizenOf>	<United_States>
+<Kevin_Cooper_(footballer)>	<isCitizenOf>	<England>
+<Ben_Gordon_(footballer,_born_1991)>	<isCitizenOf>	<United_Kingdom>
+<Alexander_Payne>	<isCitizenOf>	<United_States>
+<Alex_Manninger>	<isCitizenOf>	<Hungary>
+<Sienna_Miller>	<isCitizenOf>	<Canada>
+<Warner_Bros._Animation>	<isCitizenOf>	<Germany>
+<Tom_Heaton>	<isCitizenOf>	<Scotland>
+<Lee_Fowler>	<isCitizenOf>	<Serbia>
+<Mark_Wilson_(English_footballer)>	<isCitizenOf>	<England>
+<Nikola_Vujadinović>	<isCitizenOf>	<India>
+<Guus_Hiddink>	<isCitizenOf>	<England>
+<Guus_Hiddink>	<isCitizenOf>	<Scotland>
+<Don_Weston>	<isCitizenOf>	<Italy>
+<Guus_Hiddink>	<isCitizenOf>	<England>
+<Dwane_Lee>	<isCitizenOf>	<England>
+<Rosario_Dawson>	<isCitizenOf>	<England>
+<Grzegorz_Szamotulski>	<isCitizenOf>	<United_States>
+<The_Golden_Compass_(film)>	<isCitizenOf>	<England>
+<Jason_Brown_(footballer)>	<isCitizenOf>	<Greece>
+<Song_Chong-gug>	<isCitizenOf>	<Panama>
+<Gary_Alexander_(footballer)>	<isCitizenOf>	<England>
+<Percy_Whipp>	<isCitizenOf>	<India>
+<Percy_Whipp>	<isCitizenOf>	<United_States>
+<Hayden_Foxe>	<isCitizenOf>	<United_States>
+<John_Ford>	<isCitizenOf>	<India>
+<Chris_Kettings>	<isCitizenOf>	<Scotland>
+<Toho>	<isCitizenOf>	<Sweden>
+<Sydney_Pollack>	<isCitizenOf>	<Italy>
+<Columbia,_South_Carolina>	<isCitizenOf>	<Netherlands>
+<New_Bedford,_Massachusetts>	<isCitizenOf>	<Russia>
+<Andy_Kennedy_(footballer,_born_1964)>	<isCitizenOf>	<Russia>
+<Rachel_Portman>	<isCitizenOf>	<United_States>
+<Sofia_Coppola>	<isCitizenOf>	<Austria>
+<FC_Zenit_Saint_Petersburg>	<isCitizenOf>	<Sweden>
+<Andy_Keogh>	<isCitizenOf>	<United_States>
+<Stuart_McMillan_(footballer)>	<isCitizenOf>	<Wales>
+<West_Java>	<isCitizenOf>	<United_States>
+<Jon_Shaw>	<isCitizenOf>	<England>
+<Gustave_Flaubert>	<isCitizenOf>	<Hungary>
+<Jared_Borgetti>	<isCitizenOf>	<United_States>
+<11Eleven_Project>	<isCitizenOf>	<England>
+<Tom_Flanagan_(footballer)>	<isCitizenOf>	<United_Kingdom>
+<Meryl_Streep>	<isCitizenOf>	<United_States>
+<Ardent_Records>	<isCitizenOf>	<Argentina>
+<Neil_Simon>	<isCitizenOf>	<England>
+<Ryan_McCann>	<isCitizenOf>	<England>
+<Brian_Murphy_(association_footballer)>	<isCitizenOf>	<England>
+<Brian_Murphy_(association_footballer)>	<isCitizenOf>	<France>
+<Russell_Coughlin>	<isCitizenOf>	<Australia>
+<Russell_Coughlin>	<isCitizenOf>	<England>
+<Nathan_Byrne>	<isCitizenOf>	<England>
+<Cicely_Tyson>	<isCitizenOf>	<Israel>
+<Philip_Yordan>	<isCitizenOf>	<England>
+<Westminster_School>	<isCitizenOf>	<United_Kingdom>
+<O'Neill_Donaldson>	<isCitizenOf>	<Austria>
+<Bobby_Olejnik>	<isCitizenOf>	<United_States>
+<United_States_Virgin_Islands>	<isCitizenOf>	<Wales>
+<Carter_Burwell>	<isCitizenOf>	<England>
+<Clyde_Wijnhard>	<isCitizenOf>	<England>
+<Adrian_Viveash>	<isCitizenOf>	<England>
+<Adrian_Viveash>	<isCitizenOf>	<Italy>
+<Luís_Leal_(footballer)>	<isCitizenOf>	<United_States>
+<Micky_Adams>	<isCitizenOf>	<United_States>
+<Devin_Townsend>	<isCitizenOf>	<Wales>
+<Greater_Sudbury>	<isCitizenOf>	<Netherlands>
+<Anthony_Elding>	<isCitizenOf>	<United_States>
+<Anthony_Elding>	<isCitizenOf>	<Martinique>
+<Jaap_Stam>	<isCitizenOf>	<United_Kingdom>
+<Jaap_Stam>	<isCitizenOf>	<India>
+<Brian_Murphy_(association_footballer)>	<isCitizenOf>	<Greece>
+<Dominican_Republic>	<isCitizenOf>	<United_States>
+<Edward_Zwick>	<isCitizenOf>	<United_States>
